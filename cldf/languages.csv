@@ -1,0 +1,28 @@
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family,Description
+0,Proto-Uralic*,,,,,,
+101,South Saami,sout2674,,sma,,,
+102,Ume Saami,umes1235,,sju,,,
+104,Pite Saami,pite1240,,sje,,,
+105,North Saami,nort2671,,sme,,,
+106,Inari Saami,inar1241,,smn,,,
+107,Skolt Saami,skol1241,,sms,,,
+108,Kildin Saami,kild1236,,sjd,,,
+203,Standard Finnish,finn1318,,fin,,,
+204,Karelian Proper,kare1335,,krl,,,
+207,Veps,veps1250,,vep,,,
+208,Ingrian,ingr1248,,izh,,,
+209,Western Votic,,,,,,Linguist list code: vot-wes
+210,Standard Estonian,esto1258,,ekk,,,
+211,Võro South Estonian,sout2679,,vro,,,
+212,Courland Livonian,,,,,,Courland dialect of Livonian
+301,Erzya,erzy1239,,myv,,,
+401,Meadow Mari,east2328,,mhr,,,
+501,Komi-Zyrian,komi1268,,kpv,,,
+503,Komi-Permyak,komi1269,,koi,,,
+504,Udmurt,udmu1245,,udm,,,
+601,Hungarian,hung1274,,hun,,,
+701,Sosva Mansi,,,,,,A northern Mansi dialect.
+807,Vakh-Vasyugan Khanty,,,,,,An eastern Khanty dialect.
+901,Nganasan,ngan1291,,nio,,,
+902,Tundra Nenets,,,,,,Linguist list code: yrk-tun
+907,Selkup,,,,,,Taz dialect of Selkup
