@@ -3,6 +3,7 @@
     "dc:bibliographicCitation": "",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "",
+    "dc:source": "sources.bib",
     "dc:title": "UraLex",
     "dcat:accessURL": "https://github.com/lexibank/uralex",
     "rdf:ID": "uralex",
@@ -157,6 +158,10 @@
                     {
                         "datatype": "string",
                         "name": "Description"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Subgroup"
                     }
                 ],
                 "primaryKey": [
@@ -203,7 +208,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 0,
+            "dc:extent": 9787,
             "tableSchema": {
                 "columns": [
                     {

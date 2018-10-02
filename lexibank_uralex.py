@@ -1,15 +1,20 @@
 # coding=utf-8
 from __future__ import unicode_literals, print_function
+from itertools import groupby
 
 import attr
 from clldutils.path import Path
+from clldutils.text import split_text
+from clldutils.misc import slug
 from csvw.dsv import reader
+from pycldf.sources import Source
 from pylexibank.dataset import Language, Concept, Dataset as BaseDataset
 
 
 @attr.s
 class UralexLanguage(Language):
     Description = attr.ib(default=None)
+    Subgroup = attr.ib(default=None)
 
 
 @attr.s
@@ -41,14 +46,22 @@ class Dataset(BaseDataset):
         ...     ds.add_concept(...)
         ...     ds.add_lexemes(...)
         """
-        #"lgid3"	"language"	"ASCII_name"	"ISO-639-3"	"Description"	"Subgroup"
         with self.cldf as ds:
+            for src in self._read('Citation_codes'):
+                refid = slug(src['ref_abbr'], lowercase=False)
+                if src['type'] == 'E':
+                    src = Source('misc', refid, author=src['original_reference'])
+                else:
+                    src = Source('book', refid, title=src['original_reference'])
+                ds.add_sources(src)
+            #"lgid3"	"language"	"ASCII_name"	"ISO-639-3"	"Description"	"Subgroup"
             for l in self._read('Languages'):
                 ds.add_language(
                     ID=l['lgid3'],
                     Name=l['language'],
                     Glottocode=self.glottolog.glottocode_by_iso.get(l['ISO-639-3']),
                     Description=l['Description'],
+                    Subgroup=l['Subgroup'],
                     ISO639P3code=l['ISO-639-3'])
 
             #"mng_item"	"LJ_rank"	"uralex_mng"	"definition"
@@ -58,10 +71,26 @@ class Dataset(BaseDataset):
                     Name=c['uralex_mng'],
                     Definition=c['definition'],
                 )
-            #"language"	"definition"	"uralex_mng"	"mng_item"	"lgid3"	"item"	"item_UPA"	"item_IPA"	"form_set"	"cogn_set"	"age_term_pq"	"age_term_aq"	"borr_source"	"borr_qual"	"etym_notes"	"glossing_notes"	"general_notes"	"ref_abbr"
-            for l in self._read('Data'):
-                ds.add_lexemes(
-                    Value=l['item'],
-                    Language_ID=l['lgid3'],
-                    Parameter_ID=l['mng_item'],
-                )
+            # "item_UPA"
+            # "item_IPA"
+            # "form_set"
+            # "cogn_set"
+            # "age_term_pq"
+            # "age_term_aq"
+            # "borr_source"
+            # "borr_qual"
+            # "etym_notes"
+            # "glossing_notes"
+            for (cid, cogid), ll in groupby(
+                    sorted(self._read('Data'), key=lambda i: (i['mng_item'], i['cogn_set'])),
+                    lambda i: (i['mng_item'], i['cogn_set'])):
+                for l in ll:
+                    for lex in ds.add_lexemes(
+                        Value=l['item'],
+                        Language_ID=l['lgid3'],
+                        Parameter_ID=cid,
+                        Comment=l['general_notes'],
+                        Source=[slug(rid, lowercase=False) for rid in split_text(l['ref_abbr'], ',', strip=True)],
+                    ):
+                        if cogid != '?':
+                            ds.add_cognate(lexeme=lex, Cognateset_ID='{0}-{1}'.format(cid, cogid))
