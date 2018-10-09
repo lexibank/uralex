@@ -8,7 +8,7 @@ from clldutils.text import split_text
 from clldutils.misc import slug
 from csvw.dsv import reader
 from pycldf.sources import Source
-from pylexibank.dataset import Language, Concept, Dataset as BaseDataset
+from pylexibank.dataset import Language, Lexeme, Concept, Dataset as BaseDataset
 
 
 @attr.s
@@ -20,6 +20,20 @@ class UralexLanguage(Language):
 @attr.s
 class UralexConcept(Concept):
     Definition = attr.ib(default=None)
+    LJ_rank = attr.ib(default=None)
+
+
+@attr.s
+class UralexLexeme(Lexeme):
+    item_UPA = attr.ib(default=None)
+    item_IPA = attr.ib(default=None)
+    form_set = attr.ib(default=None)
+    age_term_pq = attr.ib(default=None)
+    age_term_aq = attr.ib(default=None)
+    borr_source = attr.ib(default=None)
+    borr_qual = attr.ib(default=None)
+    etym_notes = attr.ib(default=None)
+    glossing_notes = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
@@ -27,6 +41,7 @@ class Dataset(BaseDataset):
     dir = Path(__file__).parent
     language_class = UralexLanguage
     concept_class = UralexConcept
+    lexeme_class = UralexLexeme
 
     def cmd_download(self, **kw):
         pass
@@ -47,14 +62,11 @@ class Dataset(BaseDataset):
         ...     ds.add_lexemes(...)
         """
         with self.cldf as ds:
+            ds.add_sources(self.raw.read('Citations.bib'))
             for src in self._read('Citation_codes'):
-                refid = slug(src['ref_abbr'], lowercase=False)
                 if src['type'] == 'E':
-                    src = Source('misc', refid, author=src['original_reference'])
-                else:
-                    src = Source('book', refid, title=src['original_reference'])
-                ds.add_sources(src)
-            #"lgid3"	"language"	"ASCII_name"	"ISO-639-3"	"Description"	"Subgroup"
+                    ds.add_sources(Source('misc', src['ref_abbr'], author=src['original_reference']))
+
             for l in self._read('Languages'):
                 ds.add_language(
                     ID=l['lgid3'],
@@ -70,27 +82,24 @@ class Dataset(BaseDataset):
                     ID=c['mng_item'],
                     Name=c['uralex_mng'],
                     Definition=c['definition'],
+                    LJ_rank=c['LJ_rank'],
                 )
-            # "item_UPA"
-            # "item_IPA"
-            # "form_set"
-            # "cogn_set"
-            # "age_term_pq"
-            # "age_term_aq"
-            # "borr_source"
-            # "borr_qual"
-            # "etym_notes"
-            # "glossing_notes"
             for (cid, cogid), ll in groupby(
                     sorted(self._read('Data'), key=lambda i: (i['mng_item'], i['cogn_set'])),
                     lambda i: (i['mng_item'], i['cogn_set'])):
                 for l in ll:
-                    for lex in ds.add_lexemes(
+                    kw = dict(
                         Value=l['item'],
                         Language_ID=l['lgid3'],
                         Parameter_ID=cid,
                         Comment=l['general_notes'],
                         Source=[slug(rid, lowercase=False) for rid in split_text(l['ref_abbr'], ',', strip=True)],
-                    ):
+                    )
+                    kw.update({
+                        k: l[k] for k in
+                        ['item_UPA', 'item_IPA', 'form_set', 'age_term_pq', 'age_term_aq', 'borr_source', 'borr_qual',
+                         'etym_notes', 'glossing_notes']})
+
+                    for lex in ds.add_lexemes(**kw):
                         if cogid != '?':
                             ds.add_cognate(lexeme=lex, Cognateset_ID='{0}-{1}'.format(cid, cogid))

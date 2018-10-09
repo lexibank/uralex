@@ -15,7 +15,7 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.3.2",
+                "glottolog_version": "pyglottolog-1.2.1-9-gee58abb",
                 "concepticon_version": "pyconcepticon-1.4.0-42-g46b0e60"
             }
         }
@@ -84,6 +84,42 @@
                     {
                         "datatype": "boolean",
                         "name": "Loan"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "item_UPA"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "item_IPA"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "form_set"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "age_term_pq"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "age_term_aq"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "borr_source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "borr_qual"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "etym_notes"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "glossing_notes"
                     }
                 ],
                 "foreignKeys": [
@@ -198,6 +234,10 @@
                     {
                         "datatype": "string",
                         "name": "Definition"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "LJ_rank"
                     }
                 ],
                 "primaryKey": [
