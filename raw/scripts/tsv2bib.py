@@ -9,7 +9,6 @@ with open("Citation_codes.tsv","r") as f:
     tsv = csv.reader(f, delimiter="\t",quotechar='"')
 
     for row in tsv:
-        print('"' + row[2] + '"')
         if row[2] == "type": # header
             continue
         if row[2] == "E":    # expert (not citable)
