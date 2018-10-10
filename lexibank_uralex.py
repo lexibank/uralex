@@ -21,6 +21,7 @@ class UralexLanguage(Language):
 class UralexConcept(Concept):
     Definition = attr.ib(default=None)
     LJ_rank = attr.ib(default=None)
+    WOLD401_500_rank = attr.ib(default=None)
 
 
 @attr.s
@@ -76,14 +77,9 @@ class Dataset(BaseDataset):
                     Subgroup=l['Subgroup'],
                     ISO639P3code=l['ISO-639-3'])
 
-            #"mng_item"	"LJ_rank"	"uralex_mng"	"definition"
-            for c in self._read('Meanings'):
-                ds.add_concept(
-                    ID=c['mng_item'],
-                    Name=c['uralex_mng'],
-                    Definition=c['definition'],
-                    LJ_rank=c['LJ_rank'],
-                )
+            for concept in self.concepts:
+                ds.add_concept(**concept)
+
             for (cid, cogid), ll in groupby(
                     sorted(self._read('Data'), key=lambda i: (i['mng_item'], i['cogn_set'])),
                     lambda i: (i['mng_item'], i['cogn_set'])):

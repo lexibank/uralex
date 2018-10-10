@@ -238,6 +238,10 @@
                     {
                         "datatype": "string",
                         "name": "LJ_rank"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "WOLD401_500_rank"
                     }
                 ],
                 "primaryKey": [

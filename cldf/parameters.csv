@@ -1,314 +1,314 @@
-ID,Name,Concepticon_ID,Concepticon_Gloss,Definition,LJ_rank
-1,fire,,,"A generic noun meaning 'fire', i.e. a state of combustion which displays flames and emits heat.",1
-2,nose,,,A generic noun for a human nose.,2
-3,go,,,"A generic verb meaning 'go', i.e. move to a place away from one's current location.",3
-4,water,,,A generic noun for (fresh) water.,4
-5,mouth,,,A generic noun for a human mouth.,5
-6,tongue,,,A generic noun for a human tongue.,6
-7,blood,,,A generic noun for arterial blood.,7
-8,bone,,,"A generic noun for 'bone', i.e. an individual piece of the vertebral skeleton.",7
-9,root,,,A generic noun for the root of a plant.,9
-10,you_sg,,,Second-person singular pronoun.,9
-11,come,,,"A generic verb for 'come', i.e. move towards a person's current location.",11
-12,breast,,,A generic noun for a female breast.,12
-13,rain,,,A generic noun for precipitation.,13
-14,I,,,First-person singular pronoun.,14
-15,louse,,,A generic noun for the parasitic insect of the order Phthiraptera.,15
-16,name,,,"A generic noun for 'name', i.e. the designation of a person.",15
-17,wing,,,"A generic noun for 'wing', i.e. the body part of an animal used for flying or gliding.",17
-18,meat,,,"A generic noun for 'meat', i.e. the edible flesh of an animal.",18
-19,hand,,,"A generic noun for 'hand', i.e. the part of the body located at the end of the arm, below the wrist.",19
-20,fly_n,,,A generic noun for the insect of the order Diptera.,20
-21,night,,,"A generic noun for 'night', i.e. the generally dark period of time that contrasts with 'day'.",20
-22,ear,,,"A generic noun for 'ear', i.e. the body part used for hearing.",22
-23,far,,,"A generic adverb for 'far', i.e. being distant from a reference point. Antonym of 'near'.",23
-24,neck,,,"A generic noun for 'neck', i.e. the part of the body below the head and above the torso.",23
-25,do,,,A generic verb for performing an unspecified action.,25
-26,house,,,"A generic noun for 'house', i.e. a permanent manmade structure which serves as e.g. living quarters, meeting place, shelter or storage.",26
-27,stone,,,A generic verb for 'stone'.,27
-28,bitter,,,"A generic adjective 'bitter', i.e. a sharp, pungent taste.",28
-29,say,,,"A generic verb for 'say', i.e. to express something verbally.",28
-30,tooth,,,"A generic noun for 'tooth', i.e. the hard white objects inside the mouth used for biting and chewing.",28
-31,hair,,,"A generic noun for 'hair', i.e. a threadlike growth on the skin of an animal or a human.",31
-32,big,,,A generic adjective denoting large size. Antonym of 'small'.,32
-33,one,,,A numeral with the value 1.,32
-34,he_she,,,Third-person singular pronoun.,34
-35,who,,,Interrogative singular personal pronoun.,34
-36,hit,,,"A generic verb for 'hit', i.e. strike an object.",36
-37,foot,,,"A generic noun for 'foot', i.e. the part of the leg below the ankle.",37
-38,leg,,,"A generic noun for 'leg', i.e. the part of the human body that supports the weight and is used in walking and running.",37
-39,fish,,,A generic noun for a live fish.,38
-40,horn,,,"A generic noun for 'horn', i.e. the bony pointed projection on the head of various animals.",38
-41,this,,,Singular form proximal demonstrative pronoun.,38
-42,yesterday,,,A generic noun for the day before today.,41
-43,black,,,A generic adjective for the color black.,42
-44,drink,,,A generic transitive verb denoting the consumption of a liquid.,42
-45,navel,,,A generic noun for the navel or the belly button.,42
-46,stand,,,"A generic verb for 'stand', i.e. remain in an upright position supported by one's feet.",45
-47,back,,,"A generic noun for 'back, i.e. the body part situated between the buttocks and the back of the neck.",46
-48,bite,,,"A generic verb for 'bite', i.e. to cut into somewhing with the teeth.",46
-49,wind,,,"A generic noun for 'wind', i.e. the natural movement of air.",48
-50,smoke,,,A generic noun for smoke.,49
-51,what,,,Interrogative singular pronoun used with inanimate objects.,50
-52,child_kin,,,A generic noun for a person's son or daughter.,51
-53,egg,,,"A generic noun for 'egg', i.e. the reproductive body laid by e.g. birds.",52
-54,burn,,,"A generic verb denoting 'burning', i.e. being on fire.",53
-55,give,,,"A generic transitive verb denoting 'giving', i.e. handing an item to another person.",53
-56,new,,,"A generic adjective denoting 'new', i.e. recently built or created. Antonym of 'old'.",53
-57,good,,,A generic adjective denoting correct or proper. Antonym of 'bad'.,56
-58,know,,,A generic transitive verb denoting possessing knowledge about a topic.,56
-59,not,,,Function word used for negation (e.g. negative particle).,56
-60,knee,,,"A generic noun for 'knee', i.e. the joint between the thigh and the lower leg.",59
-61,sand,,,"A generic noun for 'sand', i.e. the very small particles of rock covering e.g. beaches and deserts.",59
-62,hear,,,"A generic verb for 'hear', i.e. to perceive something by the ear.",61
-63,laugh,,,"A generic verb for 'laugh', i.e. to produce laughter.",61
-64,earth,,,"A generic noun for 'earth', i.e. the material covering the surface of the land.",63
-65,left,,,A generic adjective denoting the left side. The opposite of 'right'.,-
-66,red,,,A generic adjective denoting the color red.,64
-67,liver,,,"A generic noun denoting 'liver', i.e. the large organ that filters blood, detoxifies chemicals and metabolizes drugs.",66
-68,hide,,,"A generic verb for 'hide', i.e. to conceal something.",67
-69,skin,,,A generic noun for human skin.,67
-70,suck,,,"A generic verb for 'suck', i.e. to draw something into the mouth with suction force produced with the lips and the tongue.",67
-71,carry,,,"A generic transitive verb for 'carry', i.e. to support and move something from one place to another.",70
-72,ant,,,A generic noun denoting an animal belonging to the family Formicidae.,71
-73,heavy,,,"A generic adjective denoting 'heavy', i.e. having much weight. Antonym of 'light'.",71
-74,take,,,"A generic verb for 'take', i.e. to reach for and hold something.",71
-75,old,,,"A generic adjective denoting 'old', i.e. having being in existence for a long period of time. Antonym of 'new'.",74
-76,eat,,,"A generic verb for 'eat', i.e. to consume food.",75
-77,thick,,,"A generic adjective denoting 'thick', i.e. having opposite sides or surfaces relatively far apart. Antonym of 'thin'.",76
-78,thigh,,,"A generic noun for 'thigh', i.e. the part of the human body situated between the hip and the knee.",76
-79,long,,,"A generic adjective for 'long', i.e. having a great distance from end to end. Antonym of 'short'.",78
-80,blow,,,"A generic verb for 'blow', i.e. to expel air (with mouth).",79
-81,tree,,,A generic noun for large woody perennial plants.,80
-82,fall,,,"A generic verb for 'fall', i.e. move from a higher level to a lower level, generally rapidly and without control.",81
-83,run,,,"A generic verb for 'run', i.e. move rapidly using one's legs.",81
-84,eye,,,"A generic noun for 'eye', i.e. the body part used for seeing.",83
-85,ashes,,,"A generic noun for 'ashes', i.e. the powdery residue that remains after a substance has burned.",84
-86,dog,,,A generic noun for domesticated canids.,84
-87,tail,,,"A generic noun for 'tail', i.e. the rear part of some animals.",84
-88,weep,,,"A generic verb for 'cry', i.e. express sorrow or other strong emotion by shedding tears.",87
-89,tie,,,"A generic verb for 'tie', i.e. fasten something with e.g. string, rope or cord.",88
-90,see,,,"A generic verb for 'see', i.e. perceive something visually.",89
-91,sweet,,,"A generic adjective 'sweet', i.e. having a taste characteristic of sugar or honey.",89
-92,bird,,,"A generic noun for 'bird', i.e. a member of the vertebrate class Aves.",91
-93,rope,,,"A generic noun for 'rope', i.e. a thick cord made by twisting or braiding smaller strands together.",91
-94,salt,,,"A generic noun for 'salt', i.e. the mineral composed mainly of NaCl, used in preparing or preserving food.",91
-95,shadow,,,"A generic noun for 'shadow', i.e. the dark area formed by an opaque object blocking the light source.",91
-96,small,,,"A generic adjective for 'small', i.e. not being large in size. Antonym of 'big' and 'large'.",91
-97,wide,,,"A generic adjective for 'wide', i.e. measuring a large distance from one side to another. Antonym of 'narrow'.",96
-98,in,,,A generic word used to denote being situated within something.,97
-99,star,,,"A generic noun denoting 'star', i.e. the luminous objects visible in the sky at night.",97
-100,hard,,,"A generic adjective for 'hard', i.e. firm or solid. Antonym of 'soft'.",99
-101,crush,,,"A generic verb for 'crush', i.e. break something into small pieces by rubbing it against a rough surface.",100
-102,all,,,A quantifier referring to a group or a thing in its entirety.,-
-103,and,,,"The conjunction used to e.g. connect words of the same part of speech together, as in 'salt and pepper'.",-
-104,animal,,,"A generic noun for 'animal', i.e. any living and moving organism (not a human being).",-
-105,at,,,"Adpositional marker expressing location, as in 'at a train station.",-
-106,bad,,,"A generic adjective for 'bad', i.e. unpleasant or unwelcome. Antonym of 'good'.",-
-107,because,,,"Conjunction in the meaning 'because', used to introduce a phrase that provides an explation or reasoning.",-
-108,belly,,,A generic noun for the stomach.,-
-109,berry,,,"A generic noun for 'berry', i.e. a small, pulpy fruit.",-
-110,breathe,,,"A generic verb for 'breathe', i.e. inhale and exhale air.",-
-111,child,,,A generic noun for any infant human being (regardless of family relationship).,-
-112,claw_nail,,,A generic noun for a claw or a fingernail.,-
-113,cloud,,,A generic noun for a cloud.,-
-114,cold,,,"A generic adjective 'cold', i.e. having low temperature. Antonym of 'hot'.",-
-115,count,,,"A generic verb for 'count', i.e. determine the total number of something.",-
-116,cut,,,"A generic verb for 'cut', i.e. make an incision into something using a sharp instrument.",-
-117,day,,,"A generic noun for 'day', i.e. the light period of time that is the opposite of 'night'.",-
-118,die,,,"A generic verb for 'die', i.e. to cease living.",-
-119,dig,,,"A generic verb for 'dig', i.e. move earth in order to create a hole.",-
-120,dry,,,"A generic adjective 'dry', i.e. being without moisture. Antonym of 'wet'.",-
-121,dust,,,"A generic noun for 'dust', i.e. fine particles of waste that accumulate on surfaces or are carried in the air.",-
-122,fat,,,A generic noun for animal fat.,-
-123,father,,,"A generic noun for 'father', i.e. a man in relation to his child or children.",-
-124,fear,,,"A generic verb for 'fear', i.e. to be afraid of something.",-
-125,feather,,,"A generic noun for 'feather', i.e. the appendages that form a bird's plumage.",-
-126,few,,,"A generic term denoting 'few', i.e. a small number of something. Antonym of 'many'.",-
-127,fight,,,"A generic verb for 'fight', i.e. participate in a struggle.",-
-128,five,,,A numeral with the value 5.,-
-129,float,,,"A generic verb for 'float', i.e. move or hover in liquid or air.",-
-130,flow,,,"A generic verb for 'flow', i.e. move continuously in a current or a stream.",-
-131,flower,,,A generic noun for any flower.,-
-132,fly,,,"A generic verb for 'fly', i.e. move through the air (often using wings).",-
-133,fog,,,"A generic noun for 'fog', i.e. a thick cloud of water droplets suspended near the earth's surface.",-
-134,four,,,A numeral with the value 4.,-
-135,freeze,,,"A generic verb for 'freeze', i.e. harden into ice in cold temperature.",-
-136,full,,,"A generic adjective for 'full', i.e. having no empty space. Antonym of 'empty'.",-
-137,grass,,,"A generic noun for 'grass', i.e. vegetation consisting of short plants with narrow leaves.",-
-138,green,,,A generic adjective for the color green.,-
-139,guts,,,A generic noun for the inner organs of the lower torso.,-
-140,head,,,"A generic noun for 'head', i.e. the body part above the neck.",-
-141,heart,,,"A generic noun for 'heart', i.e. the body part responsible for pumping blood.",-
-142,here,,,A generic adverbial for proximal location.,-
-143,hold,,,"A generic verb for 'hold', i.e. grasp, carry or support something with one's arms.",-
-144,how,,,Interrogative denoting 'in what manner'.,-
-145,husband,,,"A generic noun for 'husband', i.e. a married man in relation to his spouse.",-
-146,if,,,"Conjunction introducing a conditional clause, comparable to English 'if'.",-
-147,kill,,,"A generic verb for 'kill', i.e. take someone's life.",-
-148,lake,,,A generic noun for a lake.,-
-149,leaf,,,A generic noun for a leaf.,64
-150,lie,,,"A generic verb for 'lie down', i.e. rest horizontally on the ground.",-
-151,live,,,"A generic verb for 'live', i.e. to remain alive.",-
-152,many,,,"A generic quantifier for 'many', i.e. a large number of. Antonym of 'few'.",-
-153,moon,,,A generic noun for the moon.,-
-154,mother,,,"A generic noun for 'mother', i.e. a woman in relation to her child or children.",-
-155,mountain,,,A generic noun for a mountain.,-
-156,narrow,,,A generic adjective for 'narrow'.,-
-157,near,,,"A generic adverbial for 'near', i.e. close to the speaker. Antonym of 'far'.",-
-158,other,,,"A pronoun for 'other', referring to a different entity than the one already mentioned.",-
-159,play,,,"A generic verb for 'play', i.e. engage in recreational activity or participate in a game or a sport.",-
-160,pull,,,A generic verb for 'pull'.,-
-161,push,,,A generic verb for 'push'.,-
-162,rightside,,,A generic adjective denoting the right side. The opposite of 'left'.,-
-163,right,,,A generic adjective denoting correct or proper.,-
-164,river,,,A generic noun for a river.,-
-165,road,,,A generic noun for a road of any kind.,-
-166,round,,,"A generic adjective for 'round', i.e. shaped like a cylinder or a sphere.",-
-167,rub,,,"A generic verb for 'rub', i.e. to move e.g. one's hand back and forth along a surface while applying pressure.",-
-168,scratch,,,"A generic verb for 'scratch', i.e. to score the surface of something with something sharp.",-
-169,sea,,,A generic noun for 'sea'.,-
-170,seed,,,A generic noun for a seed of a plant.,-
-171,sew,,,"A generic verb for 'sew', i.e. to join something by making stitches with a needle.",-
-172,sharp,,,"A generic adjective for 'sharp', i.e. having a pointy edge capable of cutting or a fine point capable of piercing.",-
-173,sing,,,A generic verb for 'sing'.,-
-174,sit,,,"A generic verb for 'sit', i.e. to remain in a sitting position.",-
-175,sky,,,A generic noun for the sky.,-
-176,sleep,,,A generic verb for 'sleep'.,-
-177,smell,,,"A generic verb for 'smell', i.e. to perceive odour.",-
-178,smooth,,,A generic adjective for 'smooth'. Antonym of 'rough'.,-
-179,snake,,,A generic noun for a reptile of the suborder Serpentes.,-
-180,snow,,,A generic noun for (all kinds of) snow.,-
-181,spit,,,"A generic verb for 'spit', i.e. to eject saliva.",-
-182,split,,,"A generic verb for 'split', i.e. to forcibly break into parts.",-
-183,squeeze,,,"A generic verb for 'squeeze', i.e. to firmly press something (with the fingers).",-
-184,stick,,,A generic noun for a thin piece of wood that has fallen or been cut off a tree.,-
-185,straight,,,"A generic adjective for 'straight', i.e. extending uniformly in one direction.",-
-186,sun,,,A generic noun for the sun.,-
-187,swell,,,"A generic verb for 'swell', i.e. to become larger or rounder in size.",-
-188,swim,,,"A generic noun for 'swim', i.e. propel the body through water.",-
-189,that,,,Distal demonstrative pronoun.,-
-190,there,,,A generic adverbial denoting distal location.,-
-191,thin,,,"A generic adjective for 'thin', i.e. with opposite surfaces close to each other. Antonym of 'thick'.",-
-192,think,,,"A generic verb for 'think', i.e. to use one's mind.",-
-193,three,,,A numeral with the value 3.,-
-194,throw,,,"A generic verb for 'throw', i.e. to propel something through the air with one's hand.",-
-195,turn,,,"A generic verb for 'turn', i.e. to revolve around an axis.",-
-196,two,,,A numeral with the value 2.,-
-197,vomit,,,"A generic verb for 'vomit', i.e. to eject matter from the stomach through the mouth.",-
-198,walk,,,"A generic verb for 'walking', i.e. moving at a normal pace using one's feet.",-
-199,warm,,,"A generic adjective for 'warm', i.e. of a fairly high temperature.",-
-200,wash,,,"A generic verb for 'wash', i.e. to clean something with water (and potentially soap).",-
-201,we,,,First person plural pronoun.,-
-202,wet,,,"A generic adjective for 'wet', i.e. not dry.",-
-203,when,,,"A generic temporal interrogative adverb, i.e. an adverb matching the English meaning 'when'.",-
-204,where,,,"A generic interrogative adverb of place, i.e. an adverb matching the English meaning 'where'.",-
-205,white,,,A generic adjective for the color white.,-
-206,wipe,,,"A generic verb for 'wipe', i.e. to clean something by rubbing with e.g. a cloth.",-
-207,with,,,A generic noun modifier with the meaning 'accompanied by'.,-
-208,woman,,,"A generic noun for 'woman', i.e. a female human.",-
-209,woods,,,A generic noun for a woods or a forest.,-
-210,worm,,,"A generic noun for invertebrates with elongated cylindrical bodies, such as earthworms.",-
-211,year,,,A generic noun for 'year'.,-
-212,yellow,,,A generic adjective for the color yellow.,-
-213,you_pl,,,Third person plural pronoun.,-
-214,raise_lift,,,"A generic verb for 'raise', i.e. to lift something to a higher position.",401
-215,behind,,,A generic adverbial meaning 'at the far side of'.,402
-216,untie,,,A generic verb for 'untie'.,403
-217,they,,,Third person plural pronoun.,404
-218,cut_down,,,A generic verb denoting 'to cut through something to make it fall on the ground'.,405
-219,ten,,,A numeral with the value 10.,406
-220,mosquito,,,A generic noun for an insect of the family Culicidae.,407
-221,heel,,,"A generic noun for a heel, i.e. the back part of the foot below the ankle.",408
-222,trap,,,A generic noun for a trap.,409
-223,light,,,"A generic verb for 'light', i.e. to ignite.",410
-224,salty,,,"A generic adjective for 'salty', i.e. tasting of salt.",411
-225,rotten,,,"A generic adjective for rotten, decayed.",412
-226,nine,,,A numeral with the value 9.,413
-227,cooked,,,A generic adjective for 'cooked'.,414
-228,word,,,A generic noun for 'word'.,415
-229,bark_n,,,"A generic noun for 'bark', i.e. the outermost layer of a tree.",416
-230,gather,,,"A generic verb for 'gather', i.e. to collect or accumulate something.",417
-231,fox,,,A generic noun for a mammal of the genus Vulpes.,418
-232,twist,,,"A generic verb for 'twist', i.e. to deform something by bending or turning.",419
-233,bake,,,"A generic verb for 'bake', i.e. to cook e.g. bread with dry heat.",420
-234,pick_up,,,"A generic verb for 'pick up', i.e. to take hold of something.",421
-235,lose,,,"A generic verb for 'lose', i.e. to misplace something.",422
-236,leave,,,"A generic verb for 'leave', i.e. to exit or go away from somewhere.",423
-237,be_hungry,,,A generic verbal construction meaning 'to be hungry'.,424
-238,touch,,,"A generic verb for 'touch', i.e. to make physical contact with something.",425
-239,molar_tooth,,,A generic noun for the tooth at the back of the mouth.,426
-240,person,,,"A generic noun for a person, human being.",427
-241,stretch,,,"A generic verb for 'stretch', i.e. to lengthen something by pulling.",428
-242,face,,,A generic noun for a face (of a human).,429
-243,beside,,,An generic nominal modifier (e.g. an adposition) with the meaning 'next to'.,430
-244,lend,,,"A generic verb for 'lend', i.e. to temporarily give something to someone, with the expectation that it is returned.",431
-245,millet,,,A generic noun for millets.,432
-246,soon,,,An adverb with the meaning 'within or after a short time'.,433
-247,spider,,,A generic noun for an insect of the class Arachnida.,434
-248,arrive,,,"A generic verb for 'arrive', i.e. to reach a place.",435
-249,bore,,,"A generic verb for 'bore', i.e. to make a hole (with a drill).",436
-250,wife,,,"A generic noun for 'wife', i.e. a woman in relation to her spouse.",437
-251,shut,,,"A generic verb for shut, close.",438
-252,piece,,,A generic noun denoting a piece or a fragment.,439
-253,man,,,"A generic noun for 'man', i.e. a male human.",440
-254,only,,,"Adverb with the meaning 'only', 'just'.",441
-255,loud,,,A generic adjective with the meaning 'loud'.,442
-256,groan,,,"A generic verb for 'groan', i.e. to make a deep sound conveying grief or disappointment.",443
-257,tree_stump,,,A generic noun for a tree stump.,444
-258,testicles,,,A generic noun for testicles.,445
-259,begin,,,"A generic verb for begin, start (intransitive form).",446
-260,song,,,A generic noun for 'song'.,447
-261,sound_noise,,,A generic noun for sound or noise.,448
-262,stab,,,"A generic verb for 'stab', i.e. thrust with a pointed instrument or weapon.",449
-263,borrow,,,"A generic verb for 'borrow', i.e. to obtain something for temporary use, with the intention of returning it.",450
-264,teach,,,A generic verb for 'teach'.,451
-265,roast,,,"A generic verb for 'roast', i.e. to cook e.g. meat with dry heat.",452
-266,hen,,,A generic noun for a female chicken.,453
-267,shell,,,A generic noun for a seashell.,454
-268,younger_brother,,,A generic noun for 'little brother'.,455
-269,become,,,A generic verb for 'become'.,456
-270,stinking,,,"A generic adjective for stinking, smelly.",457
-271,rough,,,A generic adjective for 'rough'. Antonym of 'smooth'.,458
-272,shake,,,"A generic verb for 'shake', i.e. move an object up and down or from side to side rapidly.",459
-273,morning,,,"A generic noun for 'morning', i.e. the time of day between sunrise and noon.",460
-274,clean,,,A generic adjective for 'clean'. Antonym of 'dirty'.,461
-275,son-in-law,,,A generic noun for the husband of one's daughter.,462
-276,deaf,,,"A generic adjective for 'deaf', i.e. incapable of hearing.",463
-277,disappear,,,A generic verb for 'disappear'.,464
-278,early,,,A generic adjective for 'early'.,465
-279,sister,,,A generic noun for 'sister'.,466
-280,nit,,,A noun referring to the egg of a head louse.,467
-281,shallow,,,"A generic adjective for 'shallow', i.e. of little depth.",468
-282,bathe,,,"A generic verb for 'bathe', i.e. to wash by immersing one's body in water.",469
-283,summer,,,A generic noun for 'summer'.,470
-284,sniff,,,"A generic verb for 'sniff', 'smell'.",471
-285,bat,,,A generic noun for a mammal of the order Chiroptera.,472
-286,grandchild,,,"A generic noun for 'grandchild', i.e. a child in relation to their parent's parent.",473
-287,ice,,,A generic noun for ice.,474
-288,some,,,A pronoun with a meaning similar to English 'some'.,475
-289,hunt,,,A generic verb with the meaning 'hunt'.,476
-290,girl,,,"A generic noun for 'girl', i.e. a female human child.",477
-291,dull,,,"A generic adjective with the meaning 'dull', i.e. not sharp.",478
-292,extinguish,,,A generic verb with the meaning 'extinguish'.,479
-293,mumble,,,A generic verb with the meaning 'mumble'.,480
-294,grandson,,,"A generic noun for 'grandson', i.e. a male child in relation to their parent's parent.",481
-295,short,,,"A generic adjective for 'short', i.e. measuring a small distance from end to end. Antonym of 'long'.",482
-296,dream,,,"A generic verb with the meaning 'dream', i.e. to experience dreams while sleeping.",483
-297,charcoal,,,A generic noun for 'charcoal'.,484
-298,uncle,,,A generic noun for the brother of one's father or mother.,485
-299,lung,,,A generic noun for 'lung'.,486
-300,vulture,,,A generic noun denoting Old World vultures.,487
-301,comb,,,A generic noun for 'comb'.,488
-302,top,,,A generic noun for the top part of e.g. a tree or a mountain.,488
-303,divide,,,"A generic verb for 'divide', i.e. separate to parts.",490
-304,keep,,,"A generic verb for 'keep', i.e. retain possession of.",491
-305,whistle,,,A generic verb for 'whistle'.,492
-306,share,,,A generic verb for 'share'.,493
-307,shit,,,A generic verb for 'shit'.,494
-308,tired,,,A generic adjective for 'tired'.,495
-309,dirty,,,A generic adjective for 'dirty'.,496
-310,rainbow,,,A generic noun for 'rainbow'.,497
-311,turtle,,,A generic noun for 'turtle'.,498
-312,mind,,,A generic noun for 'mind'.,499
-313,armpit,,,A generic noun for 'armpit'.,500
+ID,Name,Concepticon_ID,Concepticon_Gloss,Definition,LJ_rank,WOLD401_500_rank
+1,fire,221,FIRE,"A generic noun meaning 'fire', i.e. a state of combustion which displays flames and emits heat.",1,
+2,nose,1221,NOSE,A generic noun for a human nose.,2,
+3,go,695,GO,"A generic verb meaning 'go', i.e. move to a place away from one's current location.",3,
+4,water,948,WATER,A generic noun for (fresh) water.,4,
+5,mouth,674,MOUTH,A generic noun for a human mouth.,5,
+6,tongue,1205,TONGUE,A generic noun for a human tongue.,6,
+7,blood,946,BLOOD,A generic noun for arterial blood.,7,
+8,bone,1394,BONE,"A generic noun for 'bone', i.e. an individual piece of the vertebral skeleton.",7,
+9,root,670,ROOT,A generic noun for the root of a plant.,9,
+10,you_sg,1215,THOU,Second-person singular pronoun.,9,
+11,come,1446,COME,"A generic verb for 'come', i.e. move towards a person's current location.",11,
+12,breast,1402,BREAST,A generic noun for a female breast.,12,
+13,rain,2108,RAINING OR RAIN,A generic noun for precipitation.,13,
+14,I,1209,I,First-person singular pronoun.,14,
+15,louse,1392,LOUSE,A generic noun for the parasitic insect of the order Phthiraptera.,15,
+16,name,1405,NAME,"A generic noun for 'name', i.e. the designation of a person.",15,
+17,wing,1257,WING,"A generic noun for 'wing', i.e. the body part of an animal used for flying or gliding.",17,
+18,meat,2615,FLESH OR MEAT,"A generic noun for 'meat', i.e. the edible flesh of an animal.",18,
+19,hand,1277,HAND,"A generic noun for 'hand', i.e. the part of the body located at the end of the arm, below the wrist.",19,
+20,fly_n,1504,FLY (INSECT),A generic noun for the insect of the order Diptera.,20,
+21,night,1233,NIGHT,"A generic noun for 'night', i.e. the generally dark period of time that contrasts with 'day'.",20,
+22,ear,1247,EAR,"A generic noun for 'ear', i.e. the body part used for hearing.",22,
+23,far,1406,FAR,"A generic adverb for 'far', i.e. being distant from a reference point. Antonym of 'near'.",23,
+24,neck,1333,NECK,"A generic noun for 'neck', i.e. the part of the body below the head and above the torso.",23,
+25,do,2575,DO OR MAKE,A generic verb for performing an unspecified action.,25,
+26,house,1252,HOUSE,"A generic noun for 'house', i.e. a permanent manmade structure which serves as e.g. living quarters, meeting place, shelter or storage.",26,
+27,stone,857,STONE,A generic verb for 'stone'.,27,
+28,bitter,887,BITTER,"A generic adjective 'bitter', i.e. a sharp, pungent taste.",28,
+29,say,1458,SAY,"A generic verb for 'say', i.e. to express something verbally.",28,
+30,tooth,1380,TOOTH,"A generic noun for 'tooth', i.e. the hard white objects inside the mouth used for biting and chewing.",28,
+31,hair,1040,HAIR,"A generic noun for 'hair', i.e. a threadlike growth on the skin of an animal or a human.",31,
+32,big,1202,BIG,A generic adjective denoting large size. Antonym of 'small'.,32,
+33,one,1493,ONE,A numeral with the value 1.,32,
+34,he_she,2642,HE OR SHE,Third-person singular pronoun.,34,
+35,who,1235,WHO,Interrogative singular personal pronoun.,34,
+36,hit,1433,HIT,"A generic verb for 'hit', i.e. strike an object.",36,
+37,foot,1301,FOOT,"A generic noun for 'foot', i.e. the part of the leg below the ankle.",37,
+38,leg,1297,LEG,"A generic noun for 'leg', i.e. the part of the human body that supports the weight and is used in walking and running.",37,
+39,fish,227,FISH,A generic noun for a live fish.,38,
+40,horn,1393,HORN (ANATOMY),"A generic noun for 'horn', i.e. the bony pointed projection on the head of various animals.",38,
+41,this,1214,THIS,Singular form proximal demonstrative pronoun.,38,
+42,yesterday,1174,YESTERDAY,A generic noun for the day before today.,41,
+43,black,163,BLACK,A generic adjective for the color black.,42,
+44,drink,1401,DRINK,A generic transitive verb denoting the consumption of a liquid.,42,
+45,navel,1838,NAVEL,A generic noun for the navel or the belly button.,42,
+46,stand,1442,STAND,"A generic verb for 'stand', i.e. remain in an upright position supported by one's feet.",45,
+47,back,1291,BACK,"A generic noun for 'back, i.e. the body part situated between the buttocks and the back of the neck.",46,
+48,bite,1403,BITE,"A generic verb for 'bite', i.e. to cut into somewhing with the teeth.",46,
+49,wind,960,WIND,"A generic noun for 'wind', i.e. the natural movement of air.",48,
+50,smoke,778,SMOKE (EXHAUST),A generic noun for smoke.,49,
+51,what,1236,WHAT,Interrogative singular pronoun used with inanimate objects.,50,
+52,child_kin,1801,CHILD (DESCENDANT),A generic noun for a person's son or daughter.,51,
+53,egg,744,EGG,"A generic noun for 'egg', i.e. the reproductive body laid by e.g. birds.",52,
+54,burn,2102,BURN,"A generic verb denoting 'burning', i.e. being on fire.",53,
+55,give,1447,GIVE,"A generic transitive verb denoting 'giving', i.e. handing an item to another person.",53,
+56,new,1231,NEW,"A generic adjective denoting 'new', i.e. recently built or created. Antonym of 'old'.",53,
+57,good,1035,GOOD,A generic adjective denoting correct or proper. Antonym of 'bad'.,56,
+58,know,1410,KNOW (SOMETHING),A generic transitive verb denoting possessing knowledge about a topic.,56,
+59,not,1240,NOT,Function word used for negation (e.g. negative particle).,56,
+60,knee,1371,KNEE,"A generic noun for 'knee', i.e. the joint between the thigh and the lower leg.",59,
+61,sand,671,SAND,"A generic noun for 'sand', i.e. the very small particles of rock covering e.g. beaches and deserts.",59,
+62,hear,1408,HEAR,"A generic verb for 'hear', i.e. to perceive something by the ear.",61,
+63,laugh,1355,LAUGH,"A generic verb for 'laugh', i.e. to produce laughter.",61,
+64,earth,1228,EARTH (SOIL),"A generic noun for 'earth', i.e. the material covering the surface of the land.",63,
+65,left,244,LEFT,A generic adjective denoting the left side. The opposite of 'right'.,-,
+66,red,156,RED,A generic adjective denoting the color red.,64,
+67,liver,1224,LIVER,"A generic noun denoting 'liver', i.e. the large organ that filters blood, detoxifies chemicals and metabolizes drugs.",66,
+68,hide,2486,HIDE,"A generic verb for 'hide', i.e. to conceal something.",67,
+69,skin,763,SKIN,A generic noun for human skin.,67,
+70,suck,1421,SUCK,"A generic verb for 'suck', i.e. to draw something into the mouth with suction force produced with the lips and the tongue.",67,
+71,carry,700,CARRY,"A generic transitive verb for 'carry', i.e. to support and move something from one place to another.",70,
+72,ant,587,ANT,A generic noun denoting an animal belonging to the family Formicidae.,71,
+73,heavy,1210,HEAVY,"A generic adjective denoting 'heavy', i.e. having much weight. Antonym of 'light'.",71,
+74,take,1749,TAKE,"A generic verb for 'take', i.e. to reach for and hold something.",71,
+75,old,1229,OLD,"A generic adjective denoting 'old', i.e. having being in existence for a long period of time. Antonym of 'new'.",74,
+76,eat,1336,EAT,"A generic verb for 'eat', i.e. to consume food.",75,
+77,thick,1244,THICK,"A generic adjective denoting 'thick', i.e. having opposite sides or surfaces relatively far apart. Antonym of 'thin'.",76,
+78,thigh,800,THIGH,"A generic noun for 'thigh', i.e. the part of the human body situated between the hip and the knee.",76,
+79,long,1203,LONG,"A generic adjective for 'long', i.e. having a great distance from end to end. Antonym of 'short'.",78,
+80,blow,175,BLOW (OF WIND),"A generic verb for 'blow', i.e. to expel air (with mouth).",79,
+81,tree,906,TREE,A generic noun for large woody perennial plants.,80,
+82,fall,1280,FALL,"A generic verb for 'fall', i.e. move from a higher level to a lower level, generally rapidly and without control.",81,
+83,run,1519,RUN,"A generic verb for 'run', i.e. move rapidly using one's legs.",81,
+84,eye,1248,EYE,"A generic noun for 'eye', i.e. the body part used for seeing.",83,
+85,ashes,646,ASH,"A generic noun for 'ashes', i.e. the powdery residue that remains after a substance has burned.",84,
+86,dog,2009,DOG,A generic noun for domesticated canids.,84,
+87,tail,1220,TAIL,"A generic noun for 'tail', i.e. the rear part of some animals.",84,
+88,weep,1839,CRY,"A generic verb for 'cry', i.e. express sorrow or other strong emotion by shedding tears.",87,
+89,tie,1917,TIE,"A generic verb for 'tie', i.e. fasten something with e.g. string, rope or cord.",88,
+90,see,1409,SEE,"A generic verb for 'see', i.e. perceive something visually.",89,
+91,sweet,717,SWEET,"A generic adjective 'sweet', i.e. having a taste characteristic of sugar or honey.",89,
+92,bird,937,BIRD,"A generic noun for 'bird', i.e. a member of the vertebrate class Aves.",91,
+93,rope,1218,ROPE,"A generic noun for 'rope', i.e. a thick cord made by twisting or braiding smaller strands together.",91,
+94,salt,1274,SALT,"A generic noun for 'salt', i.e. the mineral composed mainly of NaCl, used in preparing or preserving food.",91,
+95,shadow,1388,SHADE,"A generic noun for 'shadow', i.e. the dark area formed by an opaque object blocking the light source.",91,
+96,small,1246,SMALL,"A generic adjective for 'small', i.e. not being large in size. Antonym of 'big' and 'large'.",91,
+97,wide,1243,WIDE,"A generic adjective for 'wide', i.e. measuring a large distance from one side to another. Antonym of 'narrow'.",96,
+98,in,1460,IN,A generic word used to denote being situated within something.,97,
+99,star,1430,STAR,"A generic noun denoting 'star', i.e. the luminous objects visible in the sky at night.",97,
+100,hard,1884,HARD,"A generic adjective for 'hard', i.e. firm or solid. Antonym of 'soft'.",99,
+101,crush,1033,GRIND,"A generic verb for 'crush', i.e. break something into small pieces by rubbing it against a rough surface.",100,
+102,all,98,ALL,A quantifier referring to a group or a thing in its entirety.,-,
+103,and,1577,AND,"The conjunction used to e.g. connect words of the same part of speech together, as in 'salt and pepper'.",-,
+104,animal,619,ANIMAL,"A generic noun for 'animal', i.e. any living and moving organism (not a human being).",-,
+105,at,1461,AT,"Adpositional marker expressing location, as in 'at a train station.",-,
+106,bad,1292,BAD,"A generic adjective for 'bad', i.e. unpleasant or unwelcome. Antonym of 'good'.",-,
+107,because,1157,BECAUSE,"Conjunction in the meaning 'because', used to introduce a phrase that provides an explation or reasoning.",-,
+108,belly,1251,BELLY,A generic noun for the stomach.,-,
+109,berry,904,BERRY,"A generic noun for 'berry', i.e. a small, pulpy fruit.",-,
+110,breathe,1407,BREATHE,"A generic verb for 'breathe', i.e. inhale and exhale air.",-,
+111,child,2099,CHILD,A generic noun for any infant human being (regardless of family relationship).,-,
+112,claw_nail,72,CLAW,A generic noun for a claw or a fingernail.,-,
+113,cloud,1489,CLOUD,A generic noun for a cloud.,-,
+114,cold,1287,COLD,"A generic adjective 'cold', i.e. having low temperature. Antonym of 'hot'.",-,
+115,count,1420,COUNT,"A generic verb for 'count', i.e. determine the total number of something.",-,
+116,cut,1432,CUT,"A generic verb for 'cut', i.e. make an incision into something using a sharp instrument.",-,
+117,day,1225,DAY (NOT NIGHT),"A generic noun for 'day', i.e. the light period of time that is the opposite of 'night'.",-,
+118,die,1494,DIE,"A generic verb for 'die', i.e. to cease living.",-,
+119,dig,1418,DIG,"A generic verb for 'dig', i.e. move earth in order to create a hole.",-,
+120,dry,1398,DRY,"A generic adjective 'dry', i.e. being without moisture. Antonym of 'wet'.",-,
+121,dust,2,DUST,"A generic noun for 'dust', i.e. fine particles of waste that accumulate on surfaces or are carried in the air.",-,
+122,fat,323,FAT (ORGANIC SUBSTANCE),A generic noun for animal fat.,-,
+123,father,1217,FATHER,"A generic noun for 'father', i.e. a man in relation to his child or children.",-,
+124,fear,1419,FEAR (BE AFRAID),"A generic verb for 'fear', i.e. to be afraid of something.",-,
+125,feather,1201,FEATHER,"A generic noun for 'feather', i.e. the appendages that form a bird's plumage.",-,
+126,few,1242,FEW,"A generic term denoting 'few', i.e. a small number of something. Antonym of 'many'.",-,
+127,fight,1423,FIGHT,"A generic verb for 'fight', i.e. participate in a struggle.",-,
+128,five,493,FIVE,A numeral with the value 5.,-,
+129,float,1574,FLOAT,"A generic verb for 'float', i.e. move or hover in liquid or air.",-,
+130,flow,2003,FLOW,"A generic verb for 'flow', i.e. move continuously in a current or a stream.",-,
+131,flower,239,FLOWER,A generic noun for any flower.,-,
+132,fly,1441,FLY (MOVE THROUGH AIR),"A generic verb for 'fly', i.e. move through the air (often using wings).",-,
+133,fog,249,FOG,"A generic noun for 'fog', i.e. a thick cloud of water droplets suspended near the earth's surface.",-,
+134,four,1500,FOUR,A numeral with the value 4.,-,
+135,freeze,1431,FREEZE,"A generic verb for 'freeze', i.e. harden into ice in cold temperature.",-,
+136,full,1429,FULL,"A generic adjective for 'full', i.e. having no empty space. Antonym of 'empty'.",-,
+137,grass,606,GRASS,"A generic noun for 'grass', i.e. vegetation consisting of short plants with narrow leaves.",-,
+138,green,1425,GREEN,A generic adjective for the color green.,-,
+139,guts,1334,GUTS,A generic noun for the inner organs of the lower torso.,-,
+140,head,1256,HEAD,"A generic noun for 'head', i.e. the body part above the neck.",-,
+141,heart,1223,HEART,"A generic noun for 'heart', i.e. the body part responsible for pumping blood.",-,
+142,here,136,HERE,A generic adverbial for proximal location.,-,
+143,hold,1448,HOLD,"A generic verb for 'hold', i.e. grasp, carry or support something with one's arms.",-,
+144,how,1239,HOW,Interrogative denoting 'in what manner'.,-,
+145,husband,1200,HUSBAND,"A generic noun for 'husband', i.e. a married man in relation to his spouse.",-,
+146,if,1459,IF,"Conjunction introducing a conditional clause, comparable to English 'if'.",-,
+147,kill,1417,KILL,"A generic verb for 'kill', i.e. take someone's life.",-,
+148,lake,624,LAKE,A generic noun for a lake.,-,
+149,leaf,628,LEAF,A generic noun for a leaf.,64,
+150,lie,215,LIE DOWN,"A generic verb for 'lie down', i.e. rest horizontally on the ground.",-,
+151,live,1422,BE ALIVE,"A generic verb for 'live', i.e. to remain alive.",-,
+152,many,1198,MANY,"A generic quantifier for 'many', i.e. a large number of. Antonym of 'few'.",-,
+153,moon,1313,MOON,A generic noun for the moon.,-,
+154,mother,1216,MOTHER,"A generic noun for 'mother', i.e. a woman in relation to her child or children.",-,
+155,mountain,639,MOUNTAIN,A generic noun for a mountain.,-,
+156,narrow,1267,NARROW,A generic adjective for 'narrow'.,-,
+157,near,1942,NEAR,"A generic adverbial for 'near', i.e. close to the speaker. Antonym of 'far'.",-,
+158,other,197,OTHER,"A pronoun for 'other', referring to a different entity than the one already mentioned.",-,
+159,play,1413,PLAY,"A generic verb for 'play', i.e. engage in recreational activity or participate in a game or a sport.",-,
+160,pull,1455,PULL,A generic verb for 'pull'.,-,
+161,push,1452,PUSH,A generic verb for 'push'.,-,
+162,rightside,1019,RIGHT,A generic adjective denoting the right side. The opposite of 'left'.,-,
+163,right,1725,CORRECT (RIGHT),A generic adjective denoting correct or proper.,-,
+164,river,666,RIVER,A generic noun for a river.,-,
+165,road,667,ROAD,A generic noun for a road of any kind.,-,
+166,round,1395,ROUND,"A generic adjective for 'round', i.e. shaped like a cylinder or a sphere.",-,
+167,rub,1449,RUB,"A generic verb for 'rub', i.e. to move e.g. one's hand back and forth along a surface while applying pressure.",-,
+168,scratch,1436,SCRATCH,"A generic verb for 'scratch', i.e. to score the surface of something with something sharp.",-,
+169,sea,1474,SEA,A generic noun for 'sea'.,-,
+170,seed,714,SEED,A generic noun for a seed of a plant.,-,
+171,sew,1457,SEW,"A generic verb for 'sew', i.e. to join something by making stitches with a needle.",-,
+172,sharp,1396,SHARP,"A generic adjective for 'sharp', i.e. having a pointy edge capable of cutting or a fine point capable of piercing.",-,
+173,sing,1261,SING,A generic verb for 'sing'.,-,
+174,sit,1416,SIT,"A generic verb for 'sit', i.e. to remain in a sitting position.",-,
+175,sky,1732,SKY,A generic noun for the sky.,-,
+176,sleep,1585,SLEEP,A generic verb for 'sleep'.,-,
+177,smell,2124,SMELL,"A generic verb for 'smell', i.e. to perceive odour.",-,
+178,smooth,1234,SMOOTH,A generic adjective for 'smooth'. Antonym of 'rough'.,-,
+179,snake,730,SNAKE,A generic noun for a reptile of the suborder Serpentes.,-,
+180,snow,784,SNOW,A generic noun for (all kinds of) snow.,-,
+181,spit,1440,SPIT,"A generic verb for 'spit', i.e. to eject saliva.",-,
+182,split,1437,SPLIT,"A generic verb for 'split', i.e. to forcibly break into parts.",-,
+183,squeeze,1414,SQUEEZE,"A generic verb for 'squeeze', i.e. to firmly press something (with the fingers).",-,
+184,stick,1295,STICK,A generic noun for a thin piece of wood that has fallen or been cut off a tree.,-,
+185,straight,1404,STRAIGHT,"A generic adjective for 'straight', i.e. extending uniformly in one direction.",-,
+186,sun,1343,SUN,A generic noun for the sun.,-,
+187,swell,1573,SWELL,"A generic verb for 'swell', i.e. to become larger or rounder in size.",-,
+188,swim,1439,SWIM,"A generic noun for 'swim', i.e. propel the body through water.",-,
+189,that,78,THAT,Distal demonstrative pronoun.,-,
+190,there,1937,THERE,A generic adverbial denoting distal location.,-,
+191,thin,2308,THIN,"A generic adjective for 'thin', i.e. with opposite surfaces close to each other. Antonym of 'thick'.",-,
+192,think,2271,THINK,"A generic verb for 'think', i.e. to use one's mind.",-,
+193,three,492,THREE,A numeral with the value 3.,-,
+194,throw,1456,THROW,"A generic verb for 'throw', i.e. to propel something through the air with one's hand.",-,
+195,turn,1588,TURN,"A generic verb for 'turn', i.e. to revolve around an axis.",-,
+196,two,1498,TWO,A numeral with the value 2.,-,
+197,vomit,1278,VOMIT,"A generic verb for 'vomit', i.e. to eject matter from the stomach through the mouth.",-,
+198,walk,1443,WALK,"A generic verb for 'walking', i.e. moving at a normal pace using one's feet.",-,
+199,warm,1232,WARM,"A generic adjective for 'warm', i.e. of a fairly high temperature.",-,
+200,wash,1453,WASH,"A generic verb for 'wash', i.e. to clean something with water (and potentially soap).",-,
+201,we,1212,WE,First person plural pronoun.,-,
+202,wet,1726,WET,"A generic adjective for 'wet', i.e. not dry.",-,
+203,when,1238,WHEN,"A generic temporal interrogative adverb, i.e. an adverb matching the English meaning 'when'.",-,
+204,where,1237,WHERE,"A generic interrogative adverb of place, i.e. an adverb matching the English meaning 'where'.",-,
+205,white,1335,WHITE,A generic adjective for the color white.,-,
+206,wipe,1454,WIPE,"A generic verb for 'wipe', i.e. to clean something by rubbing with e.g. a cloth.",-,
+207,with,1340,WITH,A generic noun modifier with the meaning 'accompanied by'.,-,
+208,woman,962,WOMAN,"A generic noun for 'woman', i.e. a female human.",-,
+209,woods,420,FOREST,A generic noun for a woods or a forest.,-,
+210,worm,1219,WORM,"A generic noun for invertebrates with elongated cylindrical bodies, such as earthworms.",-,
+211,year,1226,YEAR,A generic noun for 'year'.,-,
+212,yellow,1424,YELLOW,A generic adjective for the color yellow.,-,
+213,you_pl,1213,YOU,Third person plural pronoun.,-,
+214,raise_lift,501,LIFT,"A generic verb for 'raise', i.e. to lift something to a higher position.",401,401
+215,behind,1686,BEHIND,A generic adverbial meaning 'at the far side of'.,402,402
+216,untie,352,UNTIE,A generic verb for 'untie'.,403,403
+217,they,817,THEY,Third person plural pronoun.,404,404
+218,cut_down,355,CUT DOWN,A generic verb denoting 'to cut through something to make it fall on the ground'.,405,405
+219,ten,1515,TEN,A numeral with the value 10.,406,406
+220,mosquito,1509,MOSQUITO,A generic noun for an insect of the family Culicidae.,407,407
+221,heel,980,HEEL,"A generic noun for a heel, i.e. the back part of the foot below the ankle.",408,408
+222,trap,1170,TRAP (CATCH),A generic noun for a trap.,409,409
+223,light,737,LIGHT (IGNITE),"A generic verb for 'light', i.e. to ignite.",410,410
+224,salty,1091,SALTY,"A generic adjective for 'salty', i.e. tasting of salt.",411,411
+225,rotten,1728,ROTTEN,"A generic adjective for rotten, decayed.",412,412
+226,nine,1483,NINE,A numeral with the value 9.,413,413
+227,cooked,269,COOKED,A generic adjective for 'cooked'.,414,414
+228,word,1599,WORD,A generic noun for 'word'.,415,415
+229,bark_n,1204,BARK,"A generic noun for 'bark', i.e. the outermost layer of a tree.",416,416
+230,gather,7,GATHER,"A generic verb for 'gather', i.e. to collect or accumulate something.",417,417
+231,fox,1312,FOX,A generic noun for a mammal of the genus Vulpes.,418,418
+232,twist,3199,TWIST (AROUND),"A generic verb for 'twist', i.e. to deform something by bending or turning.",419,419
+233,bake,183,BAKE,"A generic verb for 'bake', i.e. to cook e.g. bread with dry heat.",420,420
+234,pick_up,371,PICK UP,"A generic verb for 'pick up', i.e. to take hold of something.",421,421
+235,lose,1660,LOSE,"A generic verb for 'lose', i.e. to misplace something.",422,422
+236,leave,1752,LEAVE,"A generic verb for 'leave', i.e. to exit or go away from somewhere.",423,423
+237,be_hungry,1533,BE HUNGRY,A generic verbal construction meaning 'to be hungry'.,424,424
+238,touch,1892,TOUCH,"A generic verb for 'touch', i.e. to make physical contact with something.",425,425
+239,molar_tooth,1049,MOLAR TOOTH,A generic noun for the tooth at the back of the mouth.,426,426
+240,person,683,PERSON,"A generic noun for a person, human being.",427,427
+241,stretch,214,STRETCH,"A generic verb for 'stretch', i.e. to lengthen something by pulling.",428,428
+242,face,1560,FACE,A generic noun for a face (of a human).,429,429
+243,beside,1816,BESIDE,An generic nominal modifier (e.g. an adposition) with the meaning 'next to'.,430,430
+244,lend,582,LEND,"A generic verb for 'lend', i.e. to temporarily give something to someone, with the expectation that it is returned.",431,431
+245,millet,931,MILLET,A generic noun for millets.,432,432
+246,soon,703,SOON,An adverb with the meaning 'within or after a short time'.,433,433
+247,spider,843,SPIDER,A generic noun for an insect of the class Arachnida.,434,434
+248,arrive,1387,ARRIVE,"A generic verb for 'arrive', i.e. to reach a place.",435,435
+249,bore,1501,BORE,"A generic verb for 'bore', i.e. to make a hole (with a drill).",436,436
+250,wife,1199,WIFE,"A generic noun for 'wife', i.e. a woman in relation to her spouse.",437,437
+251,shut,1046,SHUT,"A generic verb for shut, close.",438,438
+252,piece,594,PIECE,A generic noun denoting a piece or a fragment.,439,439
+253,man,1554,MAN,"A generic noun for 'man', i.e. a male human.",440,440
+254,only,1580,ONLY,"Adverb with the meaning 'only', 'just'.",441,441
+255,loud,377,LOUD,A generic adjective with the meaning 'loud'.,442,442
+256,groan,716,GROAN,"A generic verb for 'groan', i.e. to make a deep sound conveying grief or disappointment.",443,443
+257,tree_stump,241,TREE STUMP,A generic noun for a tree stump.,444,444
+258,testicles,797,TESTICLES,A generic noun for testicles.,445,445
+259,begin,1806,BEGIN,"A generic verb for begin, start (intransitive form).",446,446
+260,song,1096,SONG,A generic noun for 'song'.,447,447
+261,sound_noise,1811,SOUND OR NOISE,A generic noun for sound or noise.,448,448
+262,stab,1434,STAB,"A generic verb for 'stab', i.e. thrust with a pointed instrument or weapon.",449,449
+263,borrow,1823,BORROW,"A generic verb for 'borrow', i.e. to obtain something for temporary use, with the intention of returning it.",450,450
+264,teach,709,TEACH,A generic verb for 'teach'.,451,451
+265,roast,2146,ROAST OR FRY,"A generic verb for 'roast', i.e. to cook e.g. meat with dry heat.",452,452
+266,hen,1514,HEN,A generic noun for a female chicken.,453,453
+267,shell,598,SHELL,A generic noun for a seashell.,454,454
+268,younger_brother,1760,YOUNGER BROTHER,A generic noun for 'little brother'.,455,455
+269,become,1990,BECOME,A generic verb for 'become'.,456,456
+270,stinking,42,STINKING,"A generic adjective for stinking, smelly.",457,457
+271,rough,1923,ROUGH,A generic adjective for 'rough'. Antonym of 'smooth'.,458,458
+272,shake,1909,SHAKE,"A generic verb for 'shake', i.e. move an object up and down or from side to side rapidly.",459,459
+273,morning,1339,MORNING,"A generic noun for 'morning', i.e. the time of day between sunrise and noon.",460,460
+274,clean,704,CLEAN,A generic adjective for 'clean'. Antonym of 'dirty'.,461,461
+275,son-in-law,,,A generic noun for the husband of one's daughter.,462,462
+276,deaf,996,DEAF,"A generic adjective for 'deaf', i.e. incapable of hearing.",463,463
+277,disappear,485,DISAPPEAR,A generic verb for 'disappear'.,464,464
+278,early,672,EARLY,A generic adjective for 'early'.,465,465
+279,sister,1263,SISTER,A generic noun for 'sister'.,466,466
+280,nit,267,NIT,A noun referring to the egg of a head louse.,467,467
+281,shallow,193,SHALLOW,"A generic adjective for 'shallow', i.e. of little depth.",468,468
+282,bathe,138,BATHE,"A generic verb for 'bathe', i.e. to wash by immersing one's body in water.",469,469
+283,summer,1342,SUMMER,A generic noun for 'summer'.,470,470
+284,sniff,375,SNIFF,"A generic verb for 'sniff', 'smell'.",471,471
+285,bat,1793,BAT,A generic noun for a mammal of the order Chiroptera.,472,472
+286,grandchild,1617,GRANDCHILD,"A generic noun for 'grandchild', i.e. a child in relation to their parent's parent.",473,473
+287,ice,617,ICE,A generic noun for ice.,474,474
+288,some,1241,SOME,A pronoun with a meaning similar to English 'some'.,475,475
+289,hunt,1435,HUNT,A generic verb with the meaning 'hunt'.,476,476
+290,girl,1646,GIRL,"A generic noun for 'girl', i.e. a female human child.",477,477
+291,dull,379,BLUNT,"A generic adjective with the meaning 'dull', i.e. not sharp.",478,478
+292,extinguish,127,EXTINGUISH,A generic verb with the meaning 'extinguish'.,479,479
+293,mumble,128,MUMBLE,A generic verb with the meaning 'mumble'.,480,480
+294,grandson,1618,GRANDSON,"A generic noun for 'grandson', i.e. a male child in relation to their parent's parent.",481,481
+295,short,1645,SHORT,"A generic adjective for 'short', i.e. measuring a small distance from end to end. Antonym of 'long'.",482,482
+296,dream,1920,DREAM (SOMETHING),"A generic verb with the meaning 'dream', i.e. to experience dreams while sleeping.",483,483
+297,charcoal,1188,CHARCOAL,A generic noun for 'charcoal'.,484,484
+298,uncle,1327,UNCLE,A generic noun for the brother of one's father or mother.,485,485
+299,lung,688,LUNG,A generic noun for 'lung'.,486,486
+300,vulture,1185,VULTURE,A generic noun denoting Old World vultures.,487,487
+301,comb,1475,COMB,A generic noun for 'comb'.,488,488
+302,top,1753,TOP,A generic noun for the top part of e.g. a tree or a mountain.,488,489
+303,divide,1119,DIVIDE,"A generic verb for 'divide', i.e. separate to parts.",490,490
+304,keep,1477,KEEP,"A generic verb for 'keep', i.e. retain possession of.",491,491
+305,whistle,1025,WHISTLE,A generic verb for 'whistle'.,492,492
+306,share,884,SHARE,A generic verb for 'share'.,493,493
+307,shit,676,SHIT (DEFECATE),A generic verb for 'shit'.,494,494
+308,tired,1757,TIRED,A generic adjective for 'tired'.,495,495
+309,dirty,1230,DIRTY,A generic adjective for 'dirty'.,496,496
+310,rainbow,1733,RAINBOW,A generic noun for 'rainbow'.,497,497
+311,turtle,112,TURTLE,A generic noun for 'turtle'.,498,498
+312,mind,1562,MIND,A generic noun for 'mind'.,499,499
+313,armpit,1886,ARMPIT,A generic noun for 'armpit'.,500,500
