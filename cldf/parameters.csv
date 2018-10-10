@@ -273,7 +273,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Definition,LJ_rank,WOLD401_500_rank
 272,shake,1909,SHAKE,"A generic verb for 'shake', i.e. move an object up and down or from side to side rapidly.",459,459
 273,morning,1339,MORNING,"A generic noun for 'morning', i.e. the time of day between sunrise and noon.",460,460
 274,clean,704,CLEAN,A generic adjective for 'clean'. Antonym of 'dirty'.,461,461
-275,son-in-law,,,A generic noun for the husband of one's daughter.,462,462
+275,son-in-law,1056,SON-IN-LAW,A generic noun for the husband of one's daughter.,462,462
 276,deaf,996,DEAF,"A generic adjective for 'deaf', i.e. incapable of hearing.",463,463
 277,disappear,485,DISAPPEAR,A generic verb for 'disappear'.,464,464
 278,early,672,EARLY,A generic adjective for 'early'.,465,465
