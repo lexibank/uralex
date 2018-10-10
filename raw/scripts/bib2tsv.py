@@ -2,7 +2,7 @@
 # compress bibtex entries from Bibliography.bib to one-lined table form and output to stdout.
 # Run from raw directory: `python scripts/bib2tsv.py`
 
-f = open("Bibliography.bib","r")
+f = open("Citations.bib","r")
 bibtex = f.readlines()
 f.close()
 out = []
