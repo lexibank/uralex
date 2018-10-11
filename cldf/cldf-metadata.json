@@ -1,10 +1,11 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
-    "dc:bibliographicCitation": "",
+    "dc:bibliographicCitation": "Kaj Syrj\u00e4nen, Jyri Lehtinen, Outi Vesakoski, Mervi de Heer, Toni Suutari, Michael Dunn, Urho M\u00e4\u00e4tt\u00e4 & Unni-P\u00e4iv\u00e4 Leino (2018). UraLex basic vocabulary dataset",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "",
+    "dc:license": "CC-BY",
     "dc:source": "sources.bib",
-    "dc:title": "UraLex",
+    "dc:title": "UraLex basic vocabulary dataset",
     "dcat:accessURL": "https://github.com/lexibank/uralex",
     "rdf:ID": "uralex",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",

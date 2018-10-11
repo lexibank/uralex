@@ -1,8 +1,10 @@
-# UraLex
+# UraLex basic vocabulary dataset
 
 Cite the source dataset as
 
-> 
+> Kaj Syrjänen, Jyri Lehtinen, Outi Vesakoski, Mervi de Heer, Toni Suutari, Michael Dunn, Urho Määttä & Unni-Päivä Leino (2018). UraLex basic vocabulary dataset
+
+This dataset is licensed under a CC-BY license
 
 ## Statistics
 
