@@ -11,18 +11,18 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family,Description,Subg
 204,Karelian Proper,kare1335,,krl,,,,Finnic
 207,Veps,veps1250,,vep,,,,Finnic
 208,Ingrian,ingr1248,,izh,,,,Finnic
-209,Western Votic,,,,,,Linguist list code: vot-wes,Finnic
+209,Western Votic,west2391,,,,,Linguist list code: vot-wes,Finnic
 210,Standard Estonian,esto1258,,ekk,,,,Finnic
 211,Võro South Estonian,sout2679,,vro,,,,Finnic
-212,Courland Livonian,,,,,,Courland dialect of Livonian,Finnic
+212,Courland Livonian,west1760,,,,,Courland dialect of Livonian,Finnic
 301,Erzya,erzy1239,,myv,,,,Mordvin
 401,Meadow Mari,east2328,,mhr,,,,Mari
 501,Komi-Zyrian,komi1268,,kpv,,,,Permic
 503,Komi-Permyak,komi1269,,koi,,,,Permic
 504,Udmurt,udmu1245,,udm,,,,Permic
 601,Hungarian,hung1274,,hun,,,,Ugric
-701,Sosva Mansi,,,,,,A northern Mansi dialect.,Ugric
-807,Vakh-Vasyugan Khanty,,,,,,An eastern Khanty dialect.,Ugric
+701,Sosva Mansi,nort2677,,,,,A northern Mansi dialect.,Ugric
+807,Vakh-Vasyugan Khanty,fare1244,,,,,An eastern Khanty dialect.,Ugric
 901,Nganasan,ngan1291,,nio,,,,Samoyed
-902,Tundra Nenets,,,,,,Linguist list code: yrk-tun,Samoyed
-907,Selkup,,,,,,Taz dialect of Selkup,Samoyed
+902,Tundra Nenets,nene1249,,,,,Linguist list code: yrk-tun,Samoyed
+907,Selkup,tazz1244,,,,,Taz dialect of Selkup,Samoyed

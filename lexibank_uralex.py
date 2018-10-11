@@ -68,11 +68,15 @@ class Dataset(BaseDataset):
                 if src['type'] == 'E':
                     ds.add_sources(Source('misc', src['ref_abbr'], author=src['original_reference']))
 
+            glottocodes = {l['ID']: l['Glottocode'] for l in self.languages}
             for l in self._read('Languages'):
+                glottocode = glottocodes.get(l['lgid3'])
+                if not glottocode:
+                    glottocode = self.glottolog.glottocode_by_iso.get(l['ISO-639-3'])
                 ds.add_language(
                     ID=l['lgid3'],
                     Name=l['language'],
-                    Glottocode=self.glottolog.glottocode_by_iso.get(l['ISO-639-3']),
+                    Glottocode=glottocode,
                     Description=l['Description'],
                     Subgroup=l['Subgroup'],
                     ISO639P3code=l['ISO-639-3'])
