@@ -3,31 +3,57 @@
     "aboutUrl": null,
     "dc:bibliographicCitation": "Kaj Syrj\u00e4nen, Jyri Lehtinen, Outi Vesakoski, Mervi de Heer, Toni Suutari, Michael Dunn, Urho M\u00e4\u00e4tt\u00e4 & Unni-P\u00e4iv\u00e4 Leino (2018). UraLex basic vocabulary dataset",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:description": null,
-    "dc:identifier": "",
     "dc:isVersionOf": null,
     "dc:license": "CC-BY",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "UraLex basic vocabulary dataset",
+    "dcat:accessURL": "https://github.com/lexibank/uralex",
+    "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/lexibank/uralex",
+            "dc:created": "v1.0-2-gc7dde99"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts",
+            "dc:created": "v1.4"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "v4.1"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Concepticon",
+            "rdf:about": "https://github.com/concepticon/concepticon-data",
+            "dc:created": "v2.2.0"
+        }
+    ],
+    "prov:wasGeneratedBy": [
+        {
+            "dc:title": "python",
+            "dc:description": "3.5.2"
+        },
+        {
+            "dc:title": "python-packages",
+            "dc:relation": "requirements.txt"
+        }
+    ],
     "rdf:ID": "uralex",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
     },
-    "notes": [
-        {
-            "dc:title": "environment",
-            "properties": {
-                "glottolog_version": "v4.0",
-                "concepticon_version": "v2.1.0-45-g25b1612"
-            }
-        }
-    ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 10237,
+            "dc:extent": 10231,
             "tableSchema": {
                 "columns": [
                     {
@@ -276,7 +302,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 9787,
+            "dc:extent": 9781,
             "tableSchema": {
                 "columns": [
                     {
