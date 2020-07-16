@@ -1,10 +1,10 @@
-# UraLex basic vocabulary dataset
+# CLDF dataset derived from Syrjänen et al.'s "UraLex basic vocabulary dataset" from 2018
 
 Cite the source dataset as
 
 > Kaj Syrjänen, Jyri Lehtinen, Outi Vesakoski, Mervi de Heer, Toni Suutari, Michael Dunn, Urho Määttä & Unni-Päivä Leino (2018). UraLex basic vocabulary dataset
 
-This dataset is licensed under a CC-BY license
+This dataset is licensed under a CC-BY-4.0 license
 
 ## Statistics
 
@@ -21,3 +21,13 @@ This dataset is licensed under a CC-BY license
 - **Synonymy:** 1.22
 - **Cognacy:** 9,781 cognates in 3,806 cognate sets (2,356 singletons)
 - **Cognate Diversity:** 0.35
+
+# Contributors
+
+Name               | GitHub user     | Description | Role
+---                | ---             | ---         | ---
+Robert Forkel | @xrotwang | patron, code      | Author
+Kaj Syrjänen | @kasyrj | data collection | Author, DataCollector
+Luke Maurits | @lmaurits | helped with sources | Other
+
+

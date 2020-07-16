@@ -1,0 +1,36 @@
+{
+    "title": "CLDF dataset derived from Syrj\u00e4nen et al.'s \"UraLex basic vocabulary dataset\" from 2018",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Robert Forkel"
+        },
+        {
+            "name": "Kaj Syrj\u00e4nen"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Kaj Syrj\u00e4nen",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Luke Maurits",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Kaj Syrj\u00e4nen, Jyri Lehtinen, Outi Vesakoski, Mervi de Heer, Toni Suutari, Michael Dunn, Urho M\u00e4\u00e4tt\u00e4 &amp; Unni-P\u00e4iv\u00e4 Leino (2018). UraLex basic vocabulary dataset</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
