@@ -4,7 +4,7 @@ import itertools
 import attr
 from clldutils.misc import slug
 from clldutils.text import split_text
-from csvw.dsv import reader
+from csvw.dsv import iterrows
 from pycldf.sources import Source
 from pylexibank import Language, Lexeme, Concept, Dataset as BaseDataset
 
@@ -43,7 +43,7 @@ class Dataset(BaseDataset):
     lexeme_class = UralexLexeme
 
     def _read(self, what):
-        return reader(self.raw_dir / "{0}.tsv".format(what), dicts=True, delimiter="\t")
+        return iterrows(self.raw_dir / "{0}.tsv".format(what), dicts=True, delimiter="\t")
 
     def cmd_makecldf(self, args):
         args.writer.add_sources(self.raw_dir.read("Citations.bib"))
@@ -53,18 +53,18 @@ class Dataset(BaseDataset):
                     Source("misc", src["ref_abbr"], author=src["original_reference"])
                 )
 
-        glottocodes = {l["ID"]: l["Glottocode"] for l in self.languages}
-        for l in self._read("Languages"):
-            glottocode = glottocodes.get(l["lgid3"])
+        glottocodes = {language["ID"]: language["Glottocode"] for language in self.languages}
+        for language in self._read("Languages"):
+            glottocode = glottocodes.get(language["lgid3"])
             if not glottocode:
-                glottocode = self.glottolog.glottocode_by_iso.get(l["ISO-639-3"])
+                glottocode = self.glottolog.glottocode_by_iso.get(language["ISO-639-3"])
             args.writer.add_language(
-                ID=l["lgid3"],
-                Name=l["language"],
+                ID=language["lgid3"],
+                Name=language["language"],
                 Glottocode=glottocode,
-                Description=l["Description"],
-                Subgroup=l["Subgroup"],
-                ISO639P3code=l["ISO-639-3"],
+                Description=language["Description"],
+                Subgroup=language["Subgroup"],
+                ISO639P3code=language["ISO-639-3"],
             )
 
         for concept in self.concepts:
@@ -74,20 +74,20 @@ class Dataset(BaseDataset):
             sorted(self._read("Data"), key=lambda i: (i["mng_item"], i["cogn_set"])),
             lambda i: (i["mng_item"], i["cogn_set"]),
         ):
-            for l in ll:
+            for language in ll:
                 kw = dict(
-                    Value=l["item"],
-                    Language_ID=l["lgid3"],
+                    Value=language["item"],
+                    Language_ID=language["lgid3"],
                     Parameter_ID=cid,
-                    Comment=l["general_notes"],
+                    Comment=language["general_notes"],
                     Source=[
                         slug(rid, lowercase=False)
-                        for rid in split_text(l["ref_abbr"], ",", strip=True)
+                        for rid in split_text(language["ref_abbr"], ",", strip=True)
                     ],
                 )
                 kw.update(
                     {
-                        k: l[k]
+                        k: language[k]
                         for k in [
                             "item_UPA",
                             "item_IPA",
@@ -104,4 +104,6 @@ class Dataset(BaseDataset):
 
                 for lex in args.writer.add_lexemes(**kw):
                     if cogid != "?":
-                        args.writer.add_cognate(lexeme=lex, Cognateset_ID="{0}-{1}".format(cid, cogid))
+                        args.writer.add_cognate(
+                            lexeme=lex, Cognateset_ID="{0}-{1}".format(cid, cogid)
+                        )
