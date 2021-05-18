@@ -1,20 +1,19 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Kaj Syrj\u00e4nen, Jyri Lehtinen, Outi Vesakoski, Mervi de Heer, Toni Suutari, Michael Dunn, Urho M\u00e4\u00e4tt\u00e4 & Unni-P\u00e4iv\u00e4 Leino (2018). UraLex basic vocabulary dataset",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Syrj\u00e4nen et al.'s \"UraLex basic vocabulary dataset\" from 2018",
+    "dc:title": "Uralic basic vocabulary with cognate and loanword information",
     "dcat:accessURL": "https://github.com/lexibank/uralex",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/uralex",
-            "dc:created": "v1.0-18-g6e37eba"
+            "dc:created": "v1.0-20-gb86675d"
         },
         {
             "rdf:type": "prov:Entity",

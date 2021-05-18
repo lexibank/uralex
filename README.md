@@ -1,13 +1,11 @@
-# CLDF dataset derived from Syrjänen et al.'s "UraLex basic vocabulary dataset" from 2018
+# Uralic basic vocabulary with cognate and loanword information
 
 [![CLDF validation](https://github.com/lexibank/uralex/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/uralex/actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
 If you use these data please cite
-- the original source
-  > Kaj Syrjänen, Jyri Lehtinen, Outi Vesakoski, Mervi de Heer, Toni Suutari, Michael Dunn, Urho Määttä & Unni-Päivä Leino (2018). UraLex basic vocabulary dataset
-- the derived dataset using the DOI of the [particular released version](releases/) you were using
+this dataset using the DOI of the [particular released version](releases/) you were using
 
 ## Description
 
@@ -34,10 +32,11 @@ This dataset is licensed under a CC-BY-4.0 license
 
 Name               | GitHub user     | Description | Role
 ---                | ---             | ---         | ---
+Mervi de Heer | @MervideHeer | | author, DataCurator, DataCollector
+Mikko Heikkilä | | | author
 Kaj Syrjänen | @kasyrj | data collection | Author, DataCurator
-Jyri Lehtinen | | | author
+Jyri Lehtinen | | | author, DataCollector
 Outi Vesakoski | | | author 
-Mervi de Heer | @MervideHeer | | author, DataCurator
 Toni, Suutari | | | author
 Michael Dunn | @evoling | | author
 Urho Määttä | | | author

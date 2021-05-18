@@ -26,6 +26,7 @@ BIBKEYS = {
     'Zaics2006': 'Zaicz2006',
     'Koponen1998': 'koponenetelaviron1998',
     'KoivulKoivulehto1991': 'Koivulehto1991',
+    'VanPareren2009': 'vanPareren2009',
 }
 
 

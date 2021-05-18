@@ -1,7 +1,7 @@
 {
-    "citation": "Kaj Syrjänen, Jyri Lehtinen, Outi Vesakoski, Mervi de Heer, Toni Suutari, Michael Dunn, Urho Määttä & Unni-Päivä Leino (2018). UraLex basic vocabulary dataset",
+    "citation": null,
     "url": "",
     "conceptlist": "",
-    "title": "CLDF dataset derived from Syrjänen et al.'s \"UraLex basic vocabulary dataset\" from 2018",
+    "title": "Uralic basic vocabulary with cognate and loanword information",
     "license": "CC-BY-4.0"
 }

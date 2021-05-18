@@ -2,10 +2,11 @@
 
 Name               | GitHub user     | Description | Role
 ---                | ---             | ---         | ---
+Mervi de Heer | @MervideHeer | | author, DataCurator, DataCollector
+Mikko Heikkilä | | | author
 Kaj Syrjänen | @kasyrj | data collection | Author, DataCurator
-Jyri Lehtinen | | | author
+Jyri Lehtinen | | | author, DataCollector
 Outi Vesakoski | | | author 
-Mervi de Heer | @MervideHeer | | author, DataCurator
 Toni, Suutari | | | author
 Michael Dunn | @evoling | | author
 Urho Määttä | | | author
