@@ -1,15 +1,23 @@
 # CLDF dataset derived from Syrjänen et al.'s "UraLex basic vocabulary dataset" from 2018
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/uralex/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/uralex/actions?query=workflow%3ACLDF-validation)
 
-> Kaj Syrjänen, Jyri Lehtinen, Outi Vesakoski, Mervi de Heer, Toni Suutari, Michael Dunn, Urho Määttä & Unni-Päivä Leino (2018). UraLex basic vocabulary dataset
+## How to cite
+
+If you use these data please cite
+- the original source
+  > Kaj Syrjänen, Jyri Lehtinen, Outi Vesakoski, Mervi de Heer, Toni Suutari, Michael Dunn, Urho Määttä & Unni-Päivä Leino (2018). UraLex basic vocabulary dataset
+- the derived dataset using the DOI of the [particular released version](releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/uralex.svg?branch=master)](https://travis-ci.org/lexibank/uralex)
+[![CLDF validation](https://github.com/lexibank/uralex/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/uralex/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 97%](https://img.shields.io/badge/Glottolog-97%25-green.svg "Glottolog: 97%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -26,8 +34,23 @@ This dataset is licensed under a CC-BY-4.0 license
 
 Name               | GitHub user     | Description | Role
 ---                | ---             | ---         | ---
-Robert Forkel | @xrotwang | patron, code      | Author
-Kaj Syrjänen | @kasyrj | data collection | Author, DataCollector
+Kaj Syrjänen | @kasyrj | data collection | Author, DataCurator
+Jyri Lehtinen | | | author
+Outi Vesakoski | | | author 
+Mervi de Heer | @MervideHeer | | author, DataCurator
+Toni, Suutari | | | author
+Michael Dunn | @evoling | | author
+Urho Määttä | | | author
+Unni-Päivä Leino | | | author
 Luke Maurits | @lmaurits | helped with sources | Other
+Robert Forkel | @xrotwang | patron, code      | DataCurator
 
 
+
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)

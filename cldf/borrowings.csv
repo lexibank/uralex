@@ -1,0 +1,2185 @@
+ID,Target_Form_ID,Source_Form_ID,Comment,Source,Likelihood,SourceLanguoid
+105-101-1,105-101-1,,,SSA,clear,North Germanic
+106-101-1,106-101-1,,,SSA,clear,North Germanic
+108-101-1,108-101-1,,,SSA,clear,North Germanic
+105-101-2,105-101-2,,,Helimski1996,clear,North Germanic
+107-101-1,107-101-1,,,Helimski1996,clear,North Germanic
+401-101-4,401-101-4,,,TscherWb,clear,Chuvash
+401-101-5,401-101-5,,,TscherWb,clear,Chuvash
+601-101-1,601-101-1,,,WOT,clear,Volga Bulgar Turkic
+601-101-2,601-101-2,,,Zaicz2006,probable,Cumanian Turkic
+503-101-2,503-101-2,,,Kalima1911,clear,Russian
+203-102-1,203-102-1,,,SSA;NES;EES,clear,Baltic
+204-102-1,204-102-1,,,SSA;NES;EES,clear,Baltic
+207-102-1,207-102-1,,,SSA;NES;EES,clear,Baltic
+208-102-1,208-102-1,,,SSA;NES;EES,clear,Baltic
+208-102-2,208-102-2,,,SSA;NES;EES,clear,Baltic
+208-102-3,208-102-3,,,SSA;NES;EES,clear,Baltic
+209-102-1,209-102-1,,,SSA;NES;EES,clear,Baltic
+210-102-1,210-102-1,,,SSA;NES;EES,clear,Baltic
+211-102-1,211-102-1,,,SSA;NES;EES,clear,Baltic
+501-102-3,501-102-3,,,KESK;Kalima1911,clear,Russian
+501-102-4,501-102-4,,,KESK;Kalima1911,clear,Russian
+101-102-1,101-102-1,,,Lagercrantz1939,clear,Finnic
+102-102-1,102-102-1,,,Lagercrantz1939,clear,Finnic
+104-102-1,104-102-1,,,Lagercrantz1939,clear,Finnic
+101-103-1,101-103-1,,,Lagercrantz1939,possible,Finnic
+102-103-1,102-103-1,,,SSA,possible,Finnic
+204-103-1,204-103-1,,,MH,clear,Russian
+208-103-1,208-103-1,,,InkmSk,clear,Russian
+209-103-1,209-103-1,,,VKJMS,clear,Russian
+204-103-2,204-103-2,,,SSA,probable,Russian
+207-103-1,207-103-1,,,MH,clear,Russian
+208-103-2,208-103-2,,,InkmSk,probable,Russian
+107-103-1,107-103-1,,,SSA,clear,Finnic
+401-103-1,401-103-1,,,TscherWb,probable,Chuvash
+108-103-1,108-103-1,,,Itkonen1958b,clear,Russian
+102-103-2,102-103-2,,,SSA,probable,Finnic
+102-103-3,102-103-3,,,SSA,probable,Finnic
+104-103-1,104-103-1,,,SSA,probable,Finnic
+105-103-1,105-103-1,,,SSA,clear,Finnic
+106-103-1,106-103-1,,,SSA,clear,Finnic
+107-103-2,107-103-2,,,SSA,clear,Finnic
+108-103-2,108-103-2,,,Rieler2009,clear,Finnic
+203-103-1,203-103-1,,,SSA,clear,Germanic
+208-103-3,208-103-3,,,LAGLOS;SSA,clear,Germanic
+209-103-2,209-103-2,,,LAGLOS;SSA,clear,Germanic
+210-103-1,210-103-1,,,LAGLOS;EES,clear,Germanic
+211-103-1,211-103-1,,,LAGLOS;EES,clear,Germanic
+212-103-1,212-103-1,,,LAGLOS;EES,clear,Germanic
+301-103-1,301-103-1,,,MordWb,clear,Russian
+501-103-1,501-103-1,,,KESK,clear,Russian
+503-103-1,503-103-1,,,KESK,clear,Russian
+504-103-1,504-103-1,,,WotjWsch,clear,Russian
+501-103-2,501-103-2,,,Kalima1911,clear,Russian
+503-103-2,503-103-2,,,KoPRSl,clear,Russian
+504-103-2,504-103-2,,,WotjWsch,clear,Russian
+701-103-2,701-103-2,,,Kalman1961,clear,Russian
+301-103-2,301-103-2,,,MordWb,clear,Russian
+108-104-1,108-104-1,,,Rieler2009,clear,Russian
+101-104-1,101-104-1,,,Qvigstad1893,clear,North Germanic
+301-104-1,301-104-1,,,MordWb,clear,Russian
+401-104-1,401-104-1,,,Isanbaev1994,clear,Tatar
+102-104-1,102-104-1,,,Schlachter1958,clear,North Germanic
+204-104-3,204-104-3,,,MH,clear,Russian
+207-104-1,207-104-1,,,MH,clear,Russian
+501-104-2,501-104-2,,,SyrjWsch,clear,Russian
+503-105-1,503-105-1,,,Koivulehto2001;Redei1986,possible,Iranian
+301-106-1,301-106-1,,,Butylov2007,possible,Tatar
+104-106-1,104-106-1,,,SSA,clear,Finnic
+106-106-1,106-106-1,,,AlguDB,clear,Finnic
+107-106-1,107-106-1,,,AlguDB,clear,Finnic
+210-106-1,210-106-1,,,EES;SSA,possible,Germanic
+211-106-1,211-106-1,,,EES;SSA,possible,Germanic
+212-106-1,212-106-1,,,Suhonen1973;Winkler2014,possible,Low German_or_Lithuanian
+105-106-1,105-106-1,,,Aikio2007;SSA,clear,Finnic
+102-106-1,102-106-1,,,SSA,clear,Finnic
+107-106-2,107-106-2,,,SSA,clear,Finnic
+105-106-2,105-106-2,,,Lagercrantz1939,clear,Finnic
+106-106-2,106-106-2,,,Lagercrantz1939,clear,Finnic
+504-106-1,504-106-1,,,WotjWsch,clear,Russian
+401-106-1,401-106-1,,,TscherWb,probable,Russian
+401-106-2,401-106-2,,,Isanbaev1994,clear,Tatar
+101-106-2,101-106-2,,,Lagercrantz1939,clear,North Germanic
+208-106-2,208-106-2,,,EES,probable,Germanic
+209-106-2,209-106-2,,,EES,probable,Germanic
+503-107-1,503-107-1,,,KoPRSl,clear,Russian
+203-108-2,203-108-2,,,LAGLOS;SSA;NES,clear,Germanic
+209-108-2,209-108-2,,,LAGLOS;SSA;NES,clear,Germanic
+212-108-2,212-108-2,,,LAGLOS;SSA;NES,clear,Germanic
+601-108-2,601-108-2,,,WOT,clear,West Old Turkic
+807-108-2,807-108-2,,,Korenchy1972,possible,Iranian
+401-109-1,401-109-1,,,Isanbaev1994,clear,Tatar
+501-109-1,501-109-1,,,Csucs2005,clear,Volga Bulgar Turkic
+401-109-2,401-109-2,,,TscherWb,clear,Chuvash
+503-109-1,503-109-1,,,KoPRSl,clear,Russian
+301-11-1,301-11-1,,,Holopainen2019,clear,Indo-Iranian
+401-110-1,401-110-1,,,TscherWb,clear,Chuvash
+101-111-1,101-111-1,,,Sammallahti1998,clear,North Germanic
+102-111-1,102-111-1,,,Sammallahti1998,clear,North Germanic
+104-111-1,104-111-1,,,Sammallahti1998,clear,North Germanic
+105-111-1,105-111-1,,,Sammallahti1998,clear,North Germanic
+106-111-1,106-111-1,,,Lehtiranta1989,clear,North Germanic
+106-111-2,106-111-2,,,Lehtiranta1989,clear,North Germanic
+107-111-1,107-111-1,,,Lehtiranta1989,clear,North Germanic
+107-111-2,107-111-2,,,Lehtiranta1989,clear,North Germanic
+108-111-1,108-111-1,,,Rieler2009,clear,North Germanic
+601-111-1,601-111-1,,,WOT;TESz;Zaicz2006,possible,West Old Turkic
+503-111-1,503-111-1,,,KESK,clear,Russian
+101-112-2,101-112-2,,,Aikio2009,clear,Germanic
+208-113-2,208-113-2,,,InkmSk,clear,Russian
+209-113-2,209-113-2,,,VKJMS,clear,Russian
+101-114-1,101-114-1,,,Koivulehto1983;SSA;NES,probable,North-Western-Indo-European
+104-114-1,104-114-1,,,Koivulehto1983;SSA;NES,probable,North-Western-Indo-European
+105-114-1,105-114-1,,,Koivulehto1983;SSA;NES,probable,North-Western-Indo-European
+106-114-1,106-114-1,,,Koivulehto1983;SSA;NES,probable,North-Western-Indo-European
+107-114-1,107-114-1,,,Koivulehto1983;SSA;NES,probable,North-Western-Indo-European
+108-114-1,108-114-1,,,Koivulehto1983;SSA;NES,probable,North-Western-Indo-European
+203-114-1,203-114-1,,,Koivulehto1983;SSA;NES,probable,North-Western-Indo-European
+204-114-1,204-114-1,,,Koivulehto1983;SSA;NES,probable,North-Western-Indo-European
+208-114-1,208-114-1,,,Koivulehto1983;SSA;NES,probable,North-Western-Indo-European
+209-114-1,209-114-1,,,Koivulehto1983;SSA;NES,probable,North-Western-Indo-European
+210-114-1,210-114-1,,,Koivulehto1983;SSA;NES,probable,North-Western-Indo-European
+211-114-1,211-114-1,,,Koivulehto1983;SSA;NES,probable,North-Western-Indo-European
+212-114-1,212-114-1,,,Koivulehto1983;SSA;NES,probable,North-Western-Indo-European
+301-114-1,301-114-1,,,Koivulehto1983;SSA;NES,probable,North-Western-Indo-European
+101-115-1,101-115-1,,,Lagercrantz1939,clear,North Germanic
+102-115-1,102-115-1,,,Schlachter1958,clear,North Germanic
+104-115-1,104-115-1,,,MH,clear,North Germanic
+105-115-2,105-115-2,,,Itkonen1958b,clear,North Germanic
+107-115-1,107-115-1,,,Itkonen1958b,clear,North Germanic
+601-115-1,601-115-1,,,WOT,clear,West Old Turkic
+401-115-2,401-115-2,,,Isanbaev1994,clear,Tatar
+107-115-2,107-115-2,,,MH,clear,Finnic
+203-116-1,203-116-1,,,LAGLOS;SSA;NES,possible,Germanic
+204-116-1,204-116-1,,,LAGLOS;SSA;NES,possible,Germanic
+207-116-1,207-116-1,,,LAGLOS;SSA;NES,possible,Germanic
+208-116-1,208-116-1,,,LAGLOS;SSA;NES,possible,Germanic
+209-116-1,209-116-1,,,LAGLOS;SSA;NES,possible,Germanic
+210-116-1,210-116-1,,,LAGLOS;SSA;NES,possible,Germanic
+211-116-1,211-116-1,,,LAGLOS;SSA;NES,possible,Germanic
+107-119-2,107-119-2,,,Qvigstad1893,possible,North Germanic
+504-119-2,504-119-2,,,WotjWsch,clear,Russian
+401-119-2,401-119-2,,,Holopainen2019;Bereczki2013,possible,Indo_Iranian_or_Iranian
+807-119-1,807-119-1,,,Korenchy1972,possible,Iranian
+101-119-1,101-119-1,,,Lagercrantz1939,clear,North Germanic
+401-12-1,401-12-1,,,TscherWb,clear,Chuvash
+401-120-1,401-120-1,,,KESK,probable,Permic
+203-121-1,203-121-1,,,Junttila2015;SSA;NES,possible,Baltic
+204-121-1,204-121-1,,,Junttila2015;SSA;NES,possible,Baltic
+207-121-1,207-121-1,,,Junttila2015;SSA;NES,possible,Baltic
+208-121-1,208-121-1,,,Junttila2015;SSA;NES,possible,Baltic
+209-121-1,209-121-1,,,Junttila2015;SSA;NES,possible,Baltic
+209-121-2,209-121-2,,,Junttila2015;SSA;NES,probable,Baltic
+210-121-1,210-121-1,,,Junttila2015;SSA;NES,probable,Baltic
+211-121-1,211-121-1,,,Junttila2015;SSA;NES,probable,Baltic
+212-121-1,212-121-1,,,Junttila2015;SSA;NES,probable,Baltic
+105-121-1,105-121-1,,,Aikio2006,probable,Germanic
+106-121-1,106-121-1,,,Aikio2006,probable,Germanic
+107-121-1,107-121-1,,,MH,clear,Russian
+501-121-1,501-121-1,,,KESK,clear,Russian
+503-121-1,503-121-1,,,KESK,clear,Russian
+504-121-1,504-121-1,,,WotjWsch;Tarakanov1993,clear,Tatar
+301-121-2,301-121-2,,,MordWb,clear,Russian
+104-121-1,104-121-1,,,MH,probable,Finnic
+203-122-1,203-122-1,,,LAGLOS;SSA;NES,probable,Germanic
+204-122-1,204-122-1,,,LAGLOS;SSA;NES,probable,Germanic
+207-122-1,207-122-1,,,LAGLOS;SSA;NES,probable,Germanic
+208-122-1,208-122-1,,,LAGLOS;SSA;NES,probable,Germanic
+209-122-1,209-122-1,,,LAGLOS;SSA;NES,probable,Germanic
+210-122-1,210-122-1,,,LAGLOS;SSA;NES,probable,Germanic
+211-122-1,211-122-1,,,LAGLOS;SSA;NES,probable,Germanic
+212-122-1,212-122-1,,,LAGLOS;SSA;NES,probable,Germanic
+203-122-2,203-122-2,,,LAGLOS;SSA;NES,probable,Germanic
+204-122-2,204-122-2,,,LAGLOS;SSA;NES,probable,Germanic
+207-122-2,207-122-2,,,LAGLOS;SSA;NES,probable,Germanic
+101-122-1,101-122-1,,,Aikio2006,probable,Germanic
+102-122-1,102-122-1,,,Aikio2006,probable,Germanic
+104-122-1,104-122-1,,,Aikio2006,probable,Germanic
+105-122-1,105-122-1,,,Aikio2006;Sammallahti1998,probable,Germanic
+106-122-1,106-122-1,,,Aikio2006,probable,Germanic
+107-122-1,107-122-1,,,Aikio2006,probable,Germanic
+108-122-1,108-122-1,,,Rieler2009,probable,Germanic
+301-122-2,301-122-2,,,MordWb,clear,Russian
+601-122-2,601-122-2,,,Kniezsa1974;Zaicz2006;TESz,clear,Slavic
+301-123-1,301-123-1,,,MordWb,probable,Russian
+401-123-1,401-123-1,,,TscherWb,possible,Chuvash
+501-123-1,501-123-1,,,KESK;Kalima1911,clear,Russian
+101-124-1,101-124-1,,,Koivulehto2001;Hakkinen2009,probable,Proto-Indo-European
+102-124-1,102-124-1,,,Koivulehto2001;Hakkinen2009,probable,Proto-Indo-European
+104-124-1,104-124-1,,,Koivulehto2001;Hakkinen2009,probable,Proto-Indo-European
+105-124-1,105-124-1,,,Koivulehto2001;Hakkinen2009,probable,Proto-Indo-European
+106-124-1,106-124-1,,,Koivulehto2001;Hakkinen2009,probable,Proto-Indo-European
+107-124-1,107-124-1,,,Koivulehto2001;Hakkinen2009,probable,Proto-Indo-European
+108-124-1,108-124-1,,,Koivulehto2001;Hakkinen2009,probable,Proto-Indo-European
+203-124-1,203-124-1,,,Koivulehto2001;Hakkinen2009,possible,Proto-Indo-European
+209-124-1,209-124-1,,,Koivulehto2001,possible,Proto-Indo-European
+211-124-1,211-124-1,,,Koivulehto2001,possible,Proto-Indo-European
+301-124-1,301-124-1,,,Koivulehto2001,probable,Proto-Indo-European
+501-124-1,501-124-1,,,Koivulehto2001,probable,Proto-Indo-European
+503-124-1,503-124-1,,,Koivulehto2001,probable,Proto-Indo-European
+601-124-1,601-124-1,,,Koivulehto2001;Hakkinen2009;Zaicz2006,probable,Proto-Indo-European
+701-124-1,701-124-1,,,Koivulehto2001,probable,Proto-Indo-European
+807-124-1,807-124-1,,,Koivulehto2001,probable,Proto-Indo-European
+807-124-2,807-124-2,,,Koivulehto2001,probable,Proto-Indo-European
+204-124-1,204-124-1,,,SSA,probable,Germanic
+207-124-1,207-124-1,,,SSA,probable,Germanic
+208-124-1,208-124-1,,,SSA,probable,Germanic
+504-124-2,504-124-2,,,Tarakanov1993,possible,Tatar
+204-125-2,204-125-2,,,SSA,clear,Russian
+501-125-1,501-125-1,,,Csucs2005,possible,Iranian
+503-125-2,503-125-2,,,Csucs2005,possible,Iranian
+203-126-1,203-126-1,,,LAGLOS;SSA;NES,possible,Germanic
+204-126-1,204-126-1,,,LAGLOS;SSA;NES,possible,Germanic
+207-126-1,207-126-1,,,LAGLOS;SSA;NES,possible,Germanic
+208-126-1,208-126-1,,,LAGLOS;SSA;NES,possible,Germanic
+209-126-1,209-126-1,,,LAGLOS;SSA;NES,possible,Germanic
+210-126-1,210-126-1,,,LAGLOS;SSA;NES,possible,Germanic
+101-126-1,101-126-1,,,Qvigstad1893,possible,North Germanic
+102-126-1,102-126-1,,,Qvigstad1893,possible,North Germanic
+501-126-1,501-126-1,,,Kalima1911,clear,Russian
+108-126-1,108-126-1,,,Rieler2009,clear,North Germanic
+105-126-2,105-126-2,,,Sammallahti1998,clear,Finnic
+106-126-3,106-126-3,,,SSA,clear,Finnic
+105-126-3,105-126-3,,,SSA,clear,Finnic
+203-13-1,203-13-1,,,Holopainen2019,probable,Indo-Iranian
+203-13-2,203-13-2,,,Holopainen2019,probable,Indo-Iranian
+204-13-1,204-13-1,,,Holopainen2019,probable,Indo-Iranian
+207-13-1,207-13-1,,,Holopainen2019,probable,Indo-Iranian
+208-13-1,208-13-1,,,Holopainen2019,probable,Indo-Iranian
+210-13-1,210-13-1,,,Holopainen2019,probable,Indo-Iranian
+212-13-1,212-13-1,,,Holopainen2019,probable,Indo-Iranian
+212-13-2,212-13-2,,,Holopainen2019,probable,Indo-Iranian
+902-13-1,902-13-1,,,Holopainen2019,probable,Indo-Iranian
+907-13-1,907-13-1,,,Holopainen2019,probable,Indo-Iranian
+101-13-1,101-13-1,,,Koivulehto2001,probable,North-Western-Indo-European
+105-13-1,105-13-1,,,Koivulehto2001,probable,North-Western-Indo-European
+106-13-1,106-13-1,,,Koivulehto2001,probable,North-Western-Indo-European
+107-13-1,107-13-1,,,Koivulehto2001,probable,North-Western-Indo-European
+108-13-1,108-13-1,,,Koivulehto2001,probable,North-Western-Indo-European
+203-130-1,203-130-1,,,Junttila2015,possible,Baltic
+204-130-1,204-130-1,,,Junttila2015,possible,Baltic
+208-130-1,208-130-1,,,Junttila2015,possible,Baltic
+209-130-1,209-130-1,,,Junttila2015,possible,Baltic
+101-130-1,101-130-1,,,Koivulehto2001,possible,Proto-Indo-European
+102-130-1,102-130-1,,,Koivulehto2001,possible,Proto-Indo-European
+104-130-1,104-130-1,,,Koivulehto2001,possible,Proto-Indo-European
+105-130-1,105-130-1,,,Koivulehto2001,possible,Proto-Indo-European
+106-130-1,106-130-1,,,Koivulehto2001,possible,Proto-Indo-European
+107-130-1,107-130-1,,,Koivulehto2001,possible,Proto-Indo-European
+108-130-1,108-130-1,,,Koivulehto2001,possible,Proto-Indo-European
+401-130-1,401-130-1,,,Bereczki2013,clear,Chuvash
+106-131-1,106-131-1,,,Itkonen1986,clear,Finnic
+212-131-2,212-131-2,,,Suhonen1973,clear,Latvian
+105-131-1,105-131-1,,,Aikio2006;Sammallahti1998,probable,North Germanic
+101-131-1,101-131-1,,,Lagercrantz1939,clear,North Germanic
+101-131-2,101-131-2,,,Koivulehto1999a,clear,North Germanic
+105-131-2,105-131-2,,,Heikkila2011,clear,North Germanic
+106-131-2,106-131-2,,,Koivulehto1999a,clear,North Germanic
+107-131-1,107-131-1,,,Koivulehto1999a,clear,North Germanic
+108-131-1,108-131-1,,,Rieler2009,clear,North Germanic
+301-131-1,301-131-1,,,Butylov2007,clear,Turkic
+207-131-2,207-131-2,,,MH,clear,Russian
+212-131-3,212-131-3,,,Junttila2015,probable,Baltic
+301-131-2,301-131-2,,,MordWb,clear,Russian
+504-131-1,504-131-1,,,WotjWsch,clear,Volga Bulgar Turkic
+102-131-1,102-131-1,,,Schlachter1958,clear,North Germanic
+102-133-1,102-133-1,,,Aikio2009,clear,North Germanic
+104-133-1,104-133-1,,,Aikio2009,clear,North Germanic
+105-133-1,105-133-1,,,Aikio2009,clear,North Germanic
+101-133-1,101-133-1,,,Lagercrantz1939,clear,North Germanic
+105-133-2,105-133-2,,,Lagercrantz1939,clear,North Germanic
+106-133-1,106-133-1,,,Lagercrantz1939,clear,North Germanic
+204-133-2,204-133-2,,,MH,clear,Russian
+401-133-1,401-133-1,,,TscherWb,clear,Chuvash
+504-133-1,504-133-1,,,WotjWsch,clear,Volga Bulgar Turkic
+208-133-3,208-133-3,,,InkmSk,clear,Russian
+209-133-1,209-133-1,,,VKJMS,clear,Russian
+301-133-2,301-133-2,,,MordWb,clear,Russian
+503-133-1,503-133-1,,,KoPRSl,clear,Russian
+101-135-1,101-135-1,,,SSA;NES,probable,North-Western-Indo-European
+102-135-1,102-135-1,,,SSA;NES,probable,North-Western-Indo-European
+104-135-1,104-135-1,,,SSA;NES,probable,North-Western-Indo-European
+105-135-1,105-135-1,,,Sammallahti1998,probable,North-Western-Indo-European
+106-135-2,106-135-2,,,SSA;NES,probable,North-Western-Indo-European
+107-135-2,107-135-2,,,SSA;NES,probable,North-Western-Indo-European
+108-135-1,108-135-1,,,SSA;NES,probable,North-Western-Indo-European
+209-135-2,209-135-2,,,SSA;NES,probable,North-Western-Indo-European
+212-135-1,212-135-1,,,SSA;NES,probable,North-Western-Indo-European
+301-135-2,301-135-2,,,SSA;NES,probable,North-Western-Indo-European
+401-135-2,401-135-2,,,SSA;NES,probable,North-Western-Indo-European
+501-135-1,501-135-1,,,SSA;NES,probable,North-Western-Indo-European
+503-135-1,503-135-1,,,SSA;NES,probable,North-Western-Indo-European
+504-135-1,504-135-1,,,SSA;NES,probable,North-Western-Indo-European
+101-136-1,101-136-1,,,Koivulehto1976;Aikio2002,possible,Germanic_or_Finnic
+102-136-1,102-136-1,,,Koivulehto1976;Aikio2002,possible,Germanic_or_Finnic
+104-136-1,104-136-1,,,Koivulehto1976;Aikio2002,possible,Germanic_or_Finnic
+105-136-1,105-136-1,,,Koivulehto1976;Aikio2002,possible,Germanic_or_Finnic
+106-136-1,106-136-1,,,Koivulehto1976;Aikio2002,possible,Germanic_or_Finnic
+107-136-1,107-136-1,,,Koivulehto1976;Aikio2002,possible,Germanic_or_Finnic
+108-136-1,108-136-1,,,Koivulehto1976;Aikio2002,possible,Germanic_or_Finnic
+101-137-1,101-137-1,,,Koivulehto1999a,clear,North Germanic
+102-137-1,102-137-1,,,Koivulehto1999a,clear,North Germanic
+104-137-1,104-137-1,,,Koivulehto1999a,clear,North Germanic
+105-137-1,105-137-1,,,Koivulehto1999a,clear,North Germanic
+106-137-1,106-137-1,,,Koivulehto1999a,clear,North Germanic
+107-137-1,107-137-1,,,Koivulehto1999a,clear,North Germanic
+108-137-1,108-137-1,,,Koivulehto1999a,clear,North Germanic
+501-137-1,501-137-1,,,Csucs2005,possible,Indo-Iranian_or_Iranian
+503-137-1,503-137-1,,,Csucs2005,possible,Indo-Iranian_or_Iranian
+504-137-1,504-137-1,,,Csucs2005,possible,Indo-Iranian_or_Iranian
+203-137-1,203-137-1,,,LAGLOS;SSA;NES,possible,Germanic
+204-137-1,204-137-1,,,LAGLOS;SSA;NES,possible,Germanic
+207-137-1,207-137-1,,,LAGLOS;SSA;NES,possible,Germanic
+208-137-1,208-137-1,,,LAGLOS;SSA;NES,possible,Germanic
+208-137-2,208-137-2,,,LAGLOS;SSA;NES,possible,Germanic
+209-137-1,209-137-1,,,LAGLOS;SSA;NES,possible,Germanic
+210-137-1,210-137-1,,,LAGLOS;SSA;NES,possible,Germanic
+211-137-3,211-137-3,,,LAGLOS;SSA;NES,possible,Germanic
+212-137-1,212-137-1,,,LAGLOS;SSA;NES,possible,Germanic
+203-138-1,203-138-1,,,Koivulehto1999;Holopainen2019,clear,Indo-Iranian
+204-138-1,204-138-1,,,Holopainen2019;Koivulehto1999,clear,Indo-Iranian
+207-138-1,207-138-1,,,Holopainen2019;Koivulehto1999,clear,Indo-Iranian
+209-138-1,209-138-1,,,Holopainen2019;Koivulehto1999,clear,Indo-Iranian
+401-138-1,401-138-1,,,Holopainen2019;Koivulehto1999,clear,Indo-Iranian
+401-138-2,401-138-2,,,Holopainen2019;Koivulehto1999,clear,Indo-Iranian
+501-138-1,501-138-1,,,Holopainen2019;Koivulehto1999,clear,Indo-Iranian
+504-138-1,504-138-1,,,Holopainen2019;Koivulehto1999,clear,Indo-Iranian
+204-138-2,204-138-2,,,MH,clear,Russian
+204-138-3,204-138-3,,,EES,possible,Germanic
+208-138-1,208-138-1,,,EES,possible,Germanic
+209-138-2,209-138-2,,,EES,possible,Germanic
+210-138-1,210-138-1,,,EES,possible,Germanic
+211-138-1,211-138-1,,,EES,possible,Germanic
+212-138-1,212-138-1,,,Junttila2015,clear,Baltic
+101-138-1,101-138-1,,,Koivulehto1999a,possible,Germanic_or_North_Germanic
+102-138-1,102-138-1,,,Koivulehto1999a,possible,Germanic_or_North_Germanic
+104-138-1,104-138-1,,,Koivulehto1999a,possible,Germanic_or_North_Germanic
+105-138-1,105-138-1,,,Koivulehto1999a,possible,Germanic_or_North_Germanic
+106-138-1,106-138-1,,,Koivulehto1999a,possible,Germanic_or_North_Germanic
+107-138-1,107-138-1,,,Koivulehto1999a,possible,Germanic_or_North_Germanic
+108-138-1,108-138-1,,,Koivulehto1999a,possible,Germanic_or_North_Germanic
+601-138-1,601-138-1,,,WOT,possible,Iranian
+503-138-1,503-138-1,,,KoPRSl,clear,Russian
+0-139-1,0-139-1,,,Koivulehto1999,possible,Indo-European
+102-139-1,102-139-1,,,Koivulehto1999,possible,Indo-European
+104-139-1,104-139-1,,,Koivulehto1999,possible,Indo-European
+105-139-1,105-139-1,,,Koivulehto1999,possible,Indo-European
+106-139-1,106-139-1,,,Koivulehto1999,possible,Indo-European
+107-139-1,107-139-1,,,Koivulehto1999,possible,Indo-European
+108-139-1,108-139-1,,,Koivulehto1999,possible,Indo-European
+203-139-1,203-139-1,,,Koivulehto1999,possible,Indo-European
+204-139-1,204-139-1,,,Koivulehto1999,possible,Indo-European
+207-139-1,207-139-1,,,Koivulehto1999,possible,Indo-European
+208-139-1,208-139-1,,,Koivulehto1999,possible,Indo-European
+209-139-1,209-139-1,,,Koivulehto1999,possible,Indo-European
+210-139-1,210-139-1,,,Koivulehto1999,possible,Indo-European
+211-139-1,211-139-1,,,Koivulehto1999,possible,Indo-European
+212-139-1,212-139-1,,,Koivulehto1999,possible,Indo-European
+301-139-1,301-139-1,,,Koivulehto1999,possible,Indo-European
+401-139-1,401-139-1,,,Koivulehto1999,possible,Indo-European
+501-139-1,501-139-1,,,Koivulehto1999,possible,Indo-European
+503-139-1,503-139-1,,,Koivulehto1999,possible,Indo-European
+504-139-1,504-139-1,,,Koivulehto1999,possible,Indo-European
+807-139-1,807-139-1,,,Koivulehto1999,possible,Indo-European
+204-139-2,204-139-2,,,MH,clear,Russian
+207-139-2,207-139-2,,,MH,clear,Russian
+503-139-2,503-139-2,,,KoPRSl,clear,Russian
+101-141-1,101-141-1,,,Aikio2009,probable,Finnic
+102-141-1,102-141-1,,,Aikio2009,probable,Finnic
+104-141-1,104-141-1,,,Aikio2009,probable,Finnic
+105-141-1,105-141-1,,,Aikio2009,probable,Finnic
+106-141-1,106-141-1,,,Aikio2009,probable,Finnic
+108-141-1,108-141-1,,,Rieler2009,clear,Baltic
+301-143-1,301-143-1,,,Koivulehto1971,possible,Germanic
+601-143-1,601-143-1,,,WOT,possible,West Old Turkic
+401-144-3,401-144-3,,,TscherWb,clear,Chuvash
+203-145-1,203-145-1,,,LAGLOS,probable,Germanic
+204-145-1,204-145-1,,,LAGLOS,probable,Germanic
+208-145-1,208-145-1,,,LAGLOS,probable,Germanic
+209-145-1,209-145-1,,,LAGLOS,probable,Germanic
+210-145-1,210-145-1,,,LAGLOS,probable,Germanic
+212-145-1,212-145-1,,,LAGLOS,probable,Germanic
+207-145-1,207-145-1,,,MH,clear,Russian
+105-145-1,105-145-1,,,Sammallahti1998,clear,Finnic
+102-145-1,102-145-1,,,Schlachter1958,clear,North Germanic
+301-145-1,301-145-1,,,Holopainen2019;Koivulehto1999;CygnakinMosin2015,possible,Indo-Iranian_or_Indo-European
+401-145-1,401-145-1,,,TscherWb,possible,Indo-Iranian_or_Iranian
+501-145-1,501-145-1,,,Holopainen2019,clear,Indo-Iranian
+504-145-1,504-145-1,,,Tarakanov1993;WotjWsch,clear,Tatar
+101-145-1,101-145-1,,,Aikio2009,clear,North Germanic
+101-145-2,101-145-2,,,Aikio2009,clear,North Germanic
+102-145-2,102-145-2,,,Aikio2009,clear,North Germanic
+106-145-1,106-145-1,,,Aikio2009,clear,North Germanic
+503-145-3,503-145-3,,,KoPRSl,clear,Russian
+701-145-2,701-145-2,,,DEWOS,clear,Komi
+101-146-1,101-146-1,,,Sammallahti1998;SSA,clear,Finnic
+102-146-1,102-146-1,,,Sammallahti1998;SSA,clear,Finnic
+104-146-1,104-146-1,,,Sammallahti1998;SSA,clear,Finnic
+105-146-1,105-146-1,,,Sammallahti1998;SSA,clear,Finnic
+106-146-1,106-146-1,,,Sammallahti1998;SSA,clear,Finnic
+106-146-2,106-146-2,,,Sammallahti1998;SSA,clear,Finnic
+107-146-1,107-146-1,,,Sammallahti1998;SSA,clear,Finnic
+204-146-2,204-146-2,,,MH,clear,Russian
+301-146-1,301-146-1,,,MordWb,clear,Russian
+401-147-1,401-147-1,,,TscherWb,possible,Chuvash
+101-148-1,101-148-1,,,SSA,probable,Baltic
+102-148-1,102-148-1,,,SSA,probable,Baltic
+104-148-1,104-148-1,,,SSA,probable,Baltic
+105-148-1,105-148-1,,,SSA,probable,Baltic
+106-148-1,106-148-1,,,SSA,probable,Baltic
+107-148-1,107-148-1,,,SSA,probable,Baltic
+108-148-1,108-148-1,,,Rieler2009,probable,Baltic
+203-148-1,203-148-1,,,Junttila2012;SSA;EES,probable,Baltic
+204-148-1,204-148-1,,,Junttila2012;SSA;EES,probable,Baltic
+207-148-1,207-148-1,,,Junttila2012;SSA;EES,probable,Baltic
+208-148-1,208-148-1,,,Junttila2012;SSA;EES,probable,Baltic
+209-148-1,209-148-1,,,Junttila2012;SSA;EES,probable,Baltic
+210-148-1,210-148-1,,,Junttila2012;SSA;EES,probable,Baltic
+211-148-1,211-148-1,,,Junttila2012;SSA;EES,probable,Baltic
+212-148-1,212-148-1,,,Junttila2012;SSA;EES,probable,Baltic
+301-148-1,301-148-1,,,SSA;EES,probable,Baltic
+401-148-1,401-148-1,,,SSA;EES,probable,Baltic
+701-148-1,701-148-1,,,Holopainen2019;Koivulehto1999,possible,Indo-Iranian
+102-149-1,102-149-1,,,Koivulehto2001;SSA,possible,North-Western-Indo-European
+104-149-1,104-149-1,,,Koivulehto2001;SSA,possible,North-Western-Indo-European
+105-149-1,105-149-1,,,Koivulehto2001;SSA,possible,North-Western-Indo-European
+106-149-1,106-149-1,,,Koivulehto2001;SSA,possible,North-Western-Indo-European
+107-149-1,107-149-1,,,Koivulehto2001;SSA,possible,North-Western-Indo-European
+108-149-1,108-149-1,,,Rieler2009,possible,North-Western-Indo-European
+203-149-1,203-149-1,,,Koivulehto2001;SSA,possible,North-Western-Indo-European
+204-149-1,204-149-1,,,Koivulehto2001;SSA,possible,North-Western-Indo-European
+207-149-1,207-149-1,,,Koivulehto2001;SSA,possible,North-Western-Indo-European
+208-149-1,208-149-1,,,Koivulehto2001;SSA,possible,North-Western-Indo-European
+209-149-1,209-149-1,,,Koivulehto2001;SSA,possible,North-Western-Indo-European
+210-149-1,210-149-1,,,Koivulehto2001;SSA,possible,North-Western-Indo-European
+211-149-1,211-149-1,,,Koivulehto2001;SSA,possible,North-Western-Indo-European
+212-149-1,212-149-1,,,Koivulehto2001;SSA,possible,North-Western-Indo-European
+401-149-1,401-149-1,,,Koivulehto2001;SSA,possible,North-Western-Indo-European
+301-149-1,301-149-1,,,VanPareren2009,possible,Baltic
+501-149-1,501-149-1,,,Kalima1911,probable,Russian
+101-149-1,101-149-1,,,Lagercrantz1939,clear,North Germanic
+301-15-1,301-15-1,,,MordWb,clear,Russian
+203-150-1,203-150-1,,,LAGLOS;SSA;NES,clear,Germanic
+207-150-1,207-150-1,,,LAGLOS;SSA;NES,clear,Germanic
+212-150-1,212-150-1,,,LAGLOS;SSA;NES,clear,Germanic
+209-150-1,209-150-1,,,LAGLOS;SSA;NES,clear,Germanic
+210-150-1,210-150-1,,,LAGLOS;SSA;NES,clear,Germanic
+211-150-1,211-150-1,,,LAGLOS;SSA;NES,clear,Germanic
+107-150-1,107-150-1,,,Itkonen1958b,clear,Russian
+209-150-2,209-150-2,,,VKJMS,clear,Russian
+101-151-2,101-151-2,,,Qvigstad1893,clear,North Germanic
+102-151-1,102-151-1,,,Qvigstad1893,clear,North Germanic
+104-151-1,104-151-1,,,Qvigstad1893,clear,North Germanic
+203-152-1,203-152-1,,,SSA;NES;EES;UEW,possible,Indo-European
+204-152-1,204-152-1,,,SSA;NES;EES;UEW,possible,Indo-European
+208-152-1,208-152-1,,,SSA;NES;EES;UEW,possible,Indo-European
+209-152-1,209-152-1,,,SSA;NES;EES;UEW,possible,Indo-European
+212-152-1,212-152-1,,,SSA;NES;EES;UEW,possible,Indo-European
+210-152-2,210-152-2,,,Saarikivi2009,possible,Slavic
+104-152-1,104-152-1,,,Sammallahti1998,clear,Finnic
+105-152-1,105-152-1,,,Sammallahti1998,clear,Finnic
+108-152-1,108-152-1,,,Rieler2009,clear,Finnic
+105-152-2,105-152-2,,,Sammallahti1998,clear,North Germanic
+106-152-1,106-152-1,,,Sammallahti1998,clear,North Germanic
+107-152-1,107-152-1,,,Sammallahti1998,clear,North Germanic
+102-152-1,102-152-1,,,Schlachter1958,clear,Finnic
+401-152-2,401-152-2,,,TscherWb,clear,Volga Bulgar Turkic
+102-153-1,102-153-1,,,Lehtiranta1989,clear,North Germanic
+104-153-1,104-153-1,,,Lehtiranta1989,clear,North Germanic
+105-153-1,105-153-1,,,Lehtiranta1989,clear,North Germanic
+106-153-1,106-153-1,,,Lehtiranta1989,clear,North Germanic
+106-153-2,106-153-2,,,Lehtiranta1989,clear,North Germanic
+107-153-1,107-153-1,,,Lehtiranta1989,clear,North Germanic
+108-153-1,108-153-1,,,Rieler2009,clear,North Germanic
+203-154-1,203-154-1,,,LAGLOS;SSA;EES;NES,clear,Germanic
+207-154-1,207-154-1,,,SSA,clear,Russian
+208-154-2,208-154-2,,,SSA,clear,Russian
+209-154-2,209-154-2,,,SSA,clear,Russian
+301-154-1,301-154-1,,,Butylov2007;Paasonen1897,clear,Volga Bulgar Turkic
+504-154-1,504-154-1,,,WotjWsch,clear,Tatar
+501-154-1,501-154-1,,,SyrjWsch,clear,Russian
+503-154-1,503-154-1,,,MH,clear,Russian
+504-154-2,504-154-2,,,WotjWsch,clear,Russian
+401-154-1,401-154-1,,,TscherWb,clear,Chuvash
+108-155-1,108-155-1,,,Rieler2009,probable,North Germanic
+101-155-2,101-155-2,,,MH,clear,Swedish
+204-156-1,204-156-1,,,SSA,probable,Germanic
+207-156-1,207-156-1,,,SSA,probable,Germanic
+208-156-1,208-156-1,,,SSA,probable,Germanic
+210-156-1,210-156-1,,,EES,possible,Germanic_or_Baltic
+211-156-1,211-156-1,,,EES,possible,Germanic_or_Baltic
+211-156-2,211-156-2,,,SSA;Junttila2015,probable,Baltic
+211-156-3,211-156-3,,,SSA;Junttila2015,probable,Baltic
+212-156-1,212-156-1,,,SSA;Junttila2015,probable,Baltic
+401-156-1,401-156-1,,,TscherWb,clear,Chuvash
+105-158-3,105-158-3,,,Sammallahti1998,possible,Finnic
+301-158-2,301-158-2,,,Grunthal2012;vanPareren2009,possible,Baltic
+108-158-1,108-158-1,,,Rieler2009,probable,Finnic
+203-159-1,203-159-1,,,SSA,clear,North Germanic
+101-159-1,101-159-1,,,SSA,clear,North Germanic
+104-159-1,104-159-1,,,SSA,clear,North Germanic
+105-159-1,105-159-1,,,SSA,clear,North Germanic
+106-159-1,106-159-1,,,SSA,clear,North Germanic
+101-159-2,101-159-2,,,Lagercrantz1939,clear,North Germanic
+102-159-1,102-159-1,,,Schlachter1958,clear,North Germanic
+104-159-2,104-159-2,,,Lagercrantz1939,clear,North Germanic
+105-159-2,105-159-2,,,Lagercrantz1939,clear,North Germanic
+106-159-2,106-159-2,,,MH,clear,North Germanic
+203-159-2,203-159-2,,,Bentlin2008;SSA,possible,North Germanic_or_Low German
+208-159-2,208-159-2,,,SSA,clear,North Germanic
+209-159-2,209-159-2,,,SSA,clear,North Germanic
+204-159-2,204-159-2,,,SSA,clear,Finnic
+106-159-3,106-159-3,,,MH,clear,Finnic
+0-16-1,0-16-1,,,Koivulehto1999;SSA;NES;UEW;EES,probable,Proto-Indo-European
+101-16-1,101-16-1,,,Koivulehto1999;SSA;NES;UEW;EES,probable,Proto-Indo-European
+102-16-1,102-16-1,,,Koivulehto1999;SSA;NES;UEW;EES,probable,Proto-Indo-European
+104-16-1,104-16-1,,,Koivulehto1999;SSA;NES;UEW;EES,probable,Proto-Indo-European
+105-16-1,105-16-1,,,Koivulehto1999;SSA;NES;UEW;EES,probable,Proto-Indo-European
+106-16-1,106-16-1,,,Koivulehto1999;SSA;NES;UEW;EES,probable,Proto-Indo-European
+107-16-1,107-16-1,,,Koivulehto1999;SSA;NES;UEW;EES,probable,Proto-Indo-European
+108-16-1,108-16-1,,,Koivulehto1999;SSA;NES;UEW;EES,probable,Proto-Indo-European
+203-16-1,203-16-1,,,Koivulehto1999;SSA;NES;UEW;EES,probable,Proto-Indo-European
+204-16-1,204-16-1,,,Koivulehto1999;SSA;NES;UEW;EES,probable,Proto-Indo-European
+207-16-1,207-16-1,,,Koivulehto1999;SSA;NES;UEW;EES,probable,Proto-Indo-European
+208-16-1,208-16-1,,,Koivulehto1999;SSA;NES;UEW;EES,probable,Proto-Indo-European
+209-16-1,209-16-1,,,Koivulehto1999;SSA;NES;UEW;EES,probable,Proto-Indo-European
+210-16-1,210-16-1,,,Koivulehto1999;SSA;NES;UEW;EES,probable,Proto-Indo-European
+211-16-1,211-16-1,,,Koivulehto1999;SSA;NES;UEW;EES,probable,Proto-Indo-European
+212-16-1,212-16-1,,,Koivulehto1999;SSA;NES;UEW;EES,probable,Proto-Indo-European
+301-16-1,301-16-1,,,Koivulehto1999;SSA;NES;UEW;EES,probable,Proto-Indo-European
+401-16-1,401-16-1,,,Koivulehto1999;SSA;NES;UEW;EES,probable,Proto-Indo-European
+501-16-1,501-16-1,,,Koivulehto1999;SSA;NES;UEW;EES,probable,Proto-Indo-European
+503-16-1,503-16-1,,,Koivulehto1999;SSA;NES;UEW;EES,probable,Proto-Indo-European
+504-16-1,504-16-1,,,Koivulehto1999;SSA;NES;UEW;EES,probable,Proto-Indo-European
+601-16-1,601-16-1,,,Koivulehto1999;SSA;NES;UEW;EES,probable,Proto-Indo-European
+701-16-1,701-16-1,,,Koivulehto1999;SSA;NES;UEW;EES,probable,Proto-Indo-European
+807-16-1,807-16-1,,,Koivulehto1999;SSA;NES;UEW;EES,probable,Proto-Indo-European
+901-16-1,901-16-1,,,Koivulehto1999;SSA;NES;UEW;EES,probable,Proto-Indo-European
+902-16-1,902-16-1,,,Koivulehto1999;SSA;NES;UEW;EES,probable,Proto-Indo-European
+907-16-1,907-16-1,,,Koivulehto1999;SSA;NES;UEW;EES,probable,Proto-Indo-European
+203-160-1,203-160-1,,,Koivulehto2001,probable,Proto-Indo-European
+204-160-1,204-160-1,,,Koivulehto2001,probable,Proto-Indo-European
+207-160-1,207-160-1,,,Koivulehto2001,probable,Proto-Indo-European
+208-160-1,208-160-1,,,Koivulehto2001,probable,Proto-Indo-European
+209-160-1,209-160-1,,,Koivulehto2001,probable,Proto-Indo-European
+210-160-1,210-160-1,,,Koivulehto2001,probable,Proto-Indo-European
+212-160-1,212-160-1,,,Koivulehto2001,probable,Proto-Indo-European
+208-160-2,208-160-2,,,EES,clear,Baltic
+209-160-2,209-160-2,,,EES,clear,Baltic
+210-160-2,210-160-2,,,EES,clear,Baltic
+211-160-1,211-160-1,,,EES,clear,Baltic
+501-160-1,501-160-1,,,Saarikivi2018;Csucs2005;KESK,possible,Western Uralic
+503-160-1,503-160-1,,,Saarikivi2018;Csucs2005;KESK,possible,Western Uralic
+504-160-1,504-160-1,,,Saarikivi2018;Csucs2005;KESK,possible,Western Uralic
+101-160-2,101-160-2,,,Lagercrantz1939,possible,North Germanic
+301-161-1,301-161-1,,,Versinin2004,clear,Russian
+504-161-1,504-161-1,,,Saarikivi2018,possible,Western Uralic
+401-161-2,401-161-2,,,TscherWb,clear,Chuvash
+210-162-1,210-162-1,,,EES,possible,Indo-Iranian
+504-162-1,504-162-1,,,EES,possible,Indo-Iranian
+907-162-1,907-162-1,,,SolkWb,possible,Yeniseian
+907-162-2,907-162-2,,,SolkWb,possible,Yeniseian
+101-163-1,101-163-1,,,Lagercrantz1939,clear,North Germanic
+102-163-1,102-163-1,,,Lagercrantz1939,clear,North Germanic
+104-163-1,104-163-1,,,Sammallahti1998,clear,North Germanic
+105-163-2,105-163-2,,,Sammallahti1998,clear,North Germanic
+106-163-1,106-163-1,,,Sammallahti1998,clear,North Germanic
+401-163-1,401-163-1,,,Isanbaev1994,probable,Tatar
+907-163-1,907-163-1,,,SolkWb,possible,Yeniseian
+907-163-2,907-163-2,,,SolkWb,possible,Yeniseian
+503-163-1,503-163-1,,,KoPRSl,clear,Russian
+212-163-1,212-163-1,,,EES,probable,Estonian
+105-165-1,105-165-1,,,Kuokkala2018;Sammallahti1998,clear,Finnic
+106-165-1,106-165-1,,,SSA,clear,Finnic
+107-165-1,107-165-1,,,SSA,clear,Finnic
+108-165-1,108-165-1,,,SSA,clear,Finnic
+102-165-1,102-165-1,,,Schlachter1958,clear,North Germanic
+104-165-1,104-165-1,,,SSA,clear,North Germanic
+204-165-2,204-165-2,,,MH,clear,Russian
+207-165-2,207-165-2,,,MH,clear,Russian
+101-165-1,101-165-1,,,Aikio2012,clear,Indo-Iranian
+208-166-2,208-166-2,,,EES,clear,Germanic
+209-166-1,209-166-1,,,EES,clear,Germanic
+210-166-1,210-166-1,,,EES,clear,Germanic
+210-166-2,210-166-2,,,EES,clear,Germanic
+211-166-1,211-166-1,,,EES,clear,Germanic
+212-166-1,212-166-1,,,EES,clear,Germanic
+207-166-1,207-166-1,,,MH,clear,Russian
+401-166-1,401-166-1,,,TscherWb,clear,Chuvash
+301-166-2,301-166-2,,,MordWb,clear,Russian
+106-167-1,106-167-1,,,SSA,possible,Finnic
+701-167-1,701-167-1,,,Redei1970,probable,Komi
+401-167-2,401-167-2,,,TscherWb,clear,Tatar
+503-167-3,503-167-3,,,KoPRSl,clear,Russian
+209-167-1,209-167-1,,,VKJMS,clear,Russian
+101-167-1,101-167-1,,,Lagercrantz1939,possible,North Germanic
+807-167-2,807-167-2,,,DEWOS,clear,Komi
+203-168-1,203-168-1,,,SSA,probable,North Germanic
+204-168-1,204-168-1,,,SSA,probable,North Germanic
+208-168-1,208-168-1,,,SSA,probable,North Germanic
+209-168-1,209-168-1,,,SSA,probable,North Germanic
+210-168-1,210-168-1,,,SSA,probable,North Germanic
+210-168-2,210-168-2,,,SSA,probable,North Germanic
+211-168-1,211-168-1,,,SSA,probable,North Germanic
+211-168-2,211-168-2,,,SSA,probable,North Germanic
+101-168-1,101-168-1,,,SSA,possible,Finnic
+102-168-1,102-168-1,,,SSA,possible,Finnic
+104-168-1,104-168-1,,,SSA,possible,Finnic
+105-168-2,105-168-2,,,SSA,possible,Finnic
+106-168-2,106-168-2,,,SSA,possible,Finnic
+101-168-3,101-168-3,,,Lagercrantz1939,clear,North Germanic
+101-169-1,101-169-1,,,Sammallahti1998,clear,Finnic
+104-169-1,104-169-1,,,Sammallahti1998,clear,Finnic
+105-169-1,105-169-1,,,Sammallahti1998,clear,Finnic
+106-169-1,106-169-1,,,Sammallahti1998,clear,Finnic
+107-169-1,107-169-1,,,Sammallahti1998,clear,Finnic
+108-169-1,108-169-1,,,Rieler2009,clear,Finnic
+102-169-1,102-169-1,,,Lagercrantz1939,clear,North Germanic
+104-169-2,104-169-2,,,Lagercrantz1939,clear,North Germanic
+401-169-1,401-169-1,,,TscherWb,possible,Turkic
+501-169-1,501-169-1,,,Holopainen2019,possible,Indo-Iranian_or_Iranian
+503-169-1,503-169-1,,,Holopainen2019,possible,Indo-Iranian_or_Iranian
+504-169-1,504-169-1,,,Holopainen2019,possible,Indo-Iranian_or_Iranian
+101-169-2,101-169-2,,,Lagercrantz1939,clear,North Germanic
+203-169-1,203-169-1,,,Junttila2015;SSA;EES;NES,clear,Baltic
+204-169-1,204-169-1,,,Junttila2015;SSA;EES;NES,clear,Baltic
+207-169-1,207-169-1,,,Junttila2015;SSA;EES;NES,clear,Baltic
+208-169-1,208-169-1,,,Junttila2015;SSA;EES;NES,clear,Baltic
+209-169-1,209-169-1,,,Junttila2015;SSA;EES;NES,clear,Baltic
+210-169-1,210-169-1,,,Junttila2015;SSA;EES;NES,clear,Baltic
+211-169-1,211-169-1,,,Junttila2015;SSA;EES;NES,clear,Baltic
+212-169-1,212-169-1,,,Junttila2015;SSA;EES;NES,clear,Baltic
+501-169-2,501-169-2,,,Kalima1911,clear,Russian
+701-169-1,701-169-1,,,Redei1970,clear,Komi
+807-169-1,807-169-1,,,Toivonen1956,clear,Komi
+601-169-1,601-169-1,,,WOT;TESz,possible,West Old Turkic_or_ Khazar
+203-17-1,203-17-1,,,Vaba2011,probable,Baltic
+204-17-1,204-17-1,,,Vaba2011,probable,Baltic
+208-17-1,208-17-1,,,Vaba2011,probable,Baltic
+209-17-1,209-17-1,,,Vaba2011,probable,Baltic
+210-17-1,210-17-1,,,Vaba2011,probable,Baltic
+211-17-1,211-17-1,,,Vaba2011,probable,Baltic
+212-17-1,212-17-1,,,Vaba2011,probable,Baltic
+501-17-1,501-17-1,,,Koivulehto2001;Koivulehto1988;Holopainen2019,clear,Indo-Iranian
+503-17-1,503-17-1,,,Koivulehto2001;Koivulehto1988;Holopainen2019,clear,Indo-Iranian
+504-17-1,504-17-1,,,Koivulehto2001;Koivulehto1988;Holopainen2019,clear,Indo-Iranian
+601-17-1,601-17-1,,,WOT;TESz,possible,Volga Bulgar Turkic
+104-17-2,104-17-2,,,MH,clear,North Germanic
+105-170-1,105-170-1,,,SSA,clear,Baltic
+106-170-1,106-170-1,,,SSA,clear,Baltic
+107-170-1,107-170-1,,,SSA,clear,Baltic
+108-170-1,108-170-1,,,Rieler2009,probable,Baltic
+203-170-1,203-170-1,,,Junttila2015;SSA;EES;NES,clear,Baltic
+204-170-1,204-170-1,,,Junttila2015;SSA;EES;NES,clear,Baltic
+207-170-1,207-170-1,,,Junttila2015;SSA;EES;NES,clear,Baltic
+208-170-1,208-170-1,,,Junttila2015;SSA;EES;NES,clear,Baltic
+209-170-1,209-170-1,,,Junttila2015;SSA;EES;NES,clear,Baltic
+210-170-1,210-170-1,,,Junttila2015;SSA;EES;NES,clear,Baltic
+211-170-1,211-170-1,,,Junttila2015;SSA;EES;NES,clear,Baltic
+212-170-1,212-170-1,,,Junttila2015;SSA;EES;NES,clear,Baltic
+501-170-1,501-170-1,,,Csucs2005;RedeiRonaTas1972;KESK,clear,Volga Bulgar Turkic
+503-170-1,503-170-1,,,Csucs2005;RedeiRonaTas1972;KESK,clear,Volga Bulgar Turkic
+504-170-1,504-170-1,,,Csucs2005;RedeiRonaTas1972;KESK,clear,Volga Bulgar Turkic
+701-170-1,701-170-1,,,DEWOS,clear,Tatar
+102-170-1,102-170-1,,,SSA,clear,North Germanic
+104-170-1,104-170-1,,,SSA,clear,North Germanic
+203-170-2,203-170-2,,,Holopainen2019;vanLinde2007;Koivulehto1983,probable,Baltic
+209-170-2,209-170-2,,,Holopainen2019;vanLinde2007;Koivulehto1983,probable,Baltic
+105-172-2,105-172-2,,,SSA,clear,North Germanic
+212-173-2,212-173-2,,,Suhonen1973,clear,Latvian
+204-173-2,204-173-2,,,SSA,probable,Slavic
+101-173-1,101-173-1,,,Lehtiranta1989,clear,Finnic
+102-173-1,102-173-1,,,Lehtiranta1989,clear,Finnic
+104-173-1,104-173-1,,,Lehtiranta1989,clear,Finnic
+105-173-1,105-173-1,,,Sammallahti1998,clear,Finnic
+106-173-1,106-173-1,,,Lehtiranta1989,clear,Finnic
+107-173-1,107-173-1,,,Lehtiranta1989,clear,Finnic
+108-173-1,108-173-1,,,Rieler2009,clear,Finnic
+203-174-1,203-174-1,,,Koivulehto1985;EES,possible,Indo-European
+204-174-1,204-174-1,,,Koivulehto1985;EES,possible,Indo-European
+207-174-1,207-174-1,,,Koivulehto1985;EES,possible,Indo-European
+208-174-1,208-174-1,,,Koivulehto1985;EES,possible,Indo-European
+209-174-1,209-174-1,,,Koivulehto1985;EES,possible,Indo-European
+210-174-1,210-174-1,,,Koivulehto1985;EES,possible,Indo-European
+211-174-1,211-174-1,,,Koivulehto1985;EES,possible,Indo-European
+212-174-1,212-174-1,,,Koivulehto1985;EES,possible,Indo-European
+301-174-1,301-174-1,,,Koivulehto1985;EES,possible,Indo-European
+107-174-1,107-174-1,,,SSA,clear,Finnic
+108-174-1,108-174-1,,,Rieler2009,clear,Finnic
+203-175-1,203-175-1,,,Holopainen2019;Koivulehto1999;Katz2003,clear,Indo-Iranian
+204-175-1,204-175-1,,,Holopainen2019;Koivulehto1999;Katz2003,clear,Indo-Iranian
+207-175-1,207-175-1,,,Holopainen2019;Koivulehto1999;Katz2003,clear,Indo-Iranian
+208-175-1,208-175-1,,,Holopainen2019;Koivulehto1999;Katz2003,clear,Indo-Iranian
+209-175-1,209-175-1,,,Holopainen2019;Koivulehto1999;Katz2003,clear,Indo-Iranian
+210-175-1,210-175-1,,,Holopainen2019;Koivulehto1999;Katz2003,clear,Indo-Iranian
+211-175-1,211-175-1,,,Holopainen2019;Koivulehto1999;Katz2003,clear,Indo-Iranian
+212-175-1,212-175-1,,,Holopainen2019;Koivulehto1999;Katz2003,clear,Indo-Iranian
+102-175-2,102-175-2,,,Qvigstad1893,clear,North Germanic
+401-175-1,401-175-1,,,TscherWb,clear,Chuvash
+208-176-2,208-176-2,,,EES;SSA,possible,Germanic
+208-176-3,208-176-3,,,EES;SSA,possible,Germanic
+209-176-1,209-176-1,,,EES;SSA,possible,Germanic
+210-176-1,210-176-1,,,EES;SSA,possible,Germanic
+211-176-1,211-176-1,,,EES;SSA,possible,Germanic
+212-176-1,212-176-1,,,EES;SSA,possible,Germanic
+207-177-1,207-177-1,,,SSA,clear,Russian
+211-177-1,211-177-1,,,SSA,clear,Russian
+105-177-2,105-177-2,,,SSA,clear,Finnic
+107-177-2,107-177-2,,,MH,clear,Russian
+401-178-1,401-178-1,,,TscherWb;Rasanen1923,clear,Tatar
+105-178-1,105-178-1,,,Aikio2012,clear,North Germanic
+106-178-1,106-178-1,,,Aikio2012,clear,North Germanic
+601-178-1,601-178-1,,,WOT;TESz,probable,West Old Turkic
+807-178-1,807-178-1,,,Kalman1961,clear,Komi
+401-178-3,401-178-3,,,TscherWb,clear,Chuvash
+601-178-2,601-178-2,,,WOT;TESz,possible,West Old Turkic
+107-178-2,107-178-2,,,Lehtiranta1989,probable,Finnic
+101-179-1,101-179-1,,,SSA,clear,Finnic
+102-179-1,102-179-1,,,SSA,clear,Finnic
+104-179-1,104-179-1,,,SSA,clear,Finnic
+105-179-1,105-179-1,,,SSA,clear,Finnic
+203-179-1,203-179-1,,,Junttila2015;SSA;NES,clear,Baltic
+204-179-1,204-179-1,,,Junttila2015;SSA;NES,clear,Baltic
+204-179-3,204-179-3,,,Holopainen2019;EES,clear,Iranian
+207-179-1,207-179-1,,,Holopainen2019;EES,clear,Iranian
+208-179-1,208-179-1,,,Holopainen2019;EES,clear,Iranian
+209-179-1,209-179-1,,,Holopainen2019;EES,clear,Iranian
+210-179-1,210-179-1,,,EES,possible,Slavic
+212-179-1,212-179-1,,,EES,possible,Slavic
+102-179-2,102-179-2,,,Schlachter1958,clear,North Germanic
+107-179-1,107-179-1,,,MH,probable,Finnic
+503-179-1,503-179-1,,,Redei1968,clear,Russian
+105-18-1,105-18-1,,,EVE;Sammallahti1998,possible,Indo-Iranian_or_Indo-European
+106-18-1,106-18-1,,,EVE;Sammallahti1998,possible,Indo-Iranian_or_Indo-European
+107-18-1,107-18-1,,,EVE;Sammallahti1998,possible,Indo-Iranian_or_Indo-European
+108-18-1,108-18-1,,,EVE;Sammallahti1998,possible,Indo-Iranian_or_Indo-European
+101-18-1,101-18-1,,,Lehtiranta1989,clear,North Germanic
+102-18-1,102-18-1,,,Lehtiranta1989,clear,North Germanic
+104-18-1,104-18-1,,,Lehtiranta1989,clear,North Germanic
+401-18-2,401-18-2,,,TscherWb,clear,Chuvash
+601-18-1,601-18-1,,,Zaicz2006;TESz,possible,Iranian
+101-180-2,101-180-2,,,Koivulehto2006;Sammallahti1998,possible,Balto-Slavic
+102-180-1,102-180-1,,,Koivulehto2006;Sammallahti1998,possible,Balto-Slavic
+104-180-1,104-180-1,,,Koivulehto2006;Sammallahti1998,possible,Balto-Slavic
+104-180-2,104-180-2,,,Koivulehto2006;Sammallahti1998,possible,Balto-Slavic
+105-180-1,105-180-1,,,Koivulehto2006;Sammallahti1998,possible,Balto-Slavic
+106-180-1,106-180-1,,,Koivulehto2006;Sammallahti1998,possible,Balto-Slavic
+107-180-1,107-180-1,,,Koivulehto2006;Sammallahti1998,possible,Balto-Slavic
+208-183-2,208-183-2,,,EES,probable,Estonian
+807-183-1,807-183-1,,,DEWOS,clear,Komi
+203-184-1,203-184-1,,,SSA;NES;EES,clear,Swedish
+204-184-1,204-184-1,,,SSA;NES;EES,clear,Swedish
+208-184-1,208-184-1,,,,clear,Swedish
+209-184-1,209-184-1,,,SSA;NES;EES,clear,Swedish
+210-184-1,210-184-1,,,EES;SSA;NES,clear,Swedish
+211-184-1,211-184-1,,,EES;SSA;NES,clear,Swedish
+212-184-1,212-184-1,,,SSA,possible,Estonian
+104-184-1,104-184-1,,,Sammallahti2001,possible,Proto-Indo-European
+105-184-1,105-184-1,,,Sammallahti2001;Aikio2006;Sammallahti1998,possible,Proto-Indo-European
+106-184-1,106-184-1,,,Sammallahti2001,possible,Proto-Indo-European
+107-184-1,107-184-1,,,Sammallahti2001,possible,Proto-Indo-European
+102-184-1,102-184-1,,,Schlachter1958,clear,North Germanic
+301-184-1,301-184-1,,,CygnakinMosin2015,clear,Russian
+601-184-1,601-184-1,,,Kniezsa1974;Zaicz2006;TESz,clear,Slavic
+401-184-1,401-184-1,,,TscherWb,clear,Chuvash
+601-184-2,601-184-2,,,WOT;TESz,clear,West Old Turkic
+701-184-1,701-184-1,,,Redei1970,possible,Komi
+211-184-2,211-184-2,,,koponenetelaviron1998,clear,Latvian
+101-184-1,101-184-1,,,Lagercrantz1939,clear,North Germanic
+101-185-1,101-185-1,,,Lagercrantz1939,clear,North Germanic
+102-185-2,102-185-2,,,Schlachter1958,clear,North Germanic
+401-185-3,401-185-3,,,Csucs2005,clear,Tatar
+907-185-1,907-185-1,,,SolkWb,possible,Yeniseian
+807-186-1,807-186-1,,,Futaky1975,possible,Tungusic
+105-187-2,105-187-2,,,SSA,clear,Finnic
+108-189-2,108-189-2,,,Rieler2009,clear,Russian
+208-191-3,208-191-3,,,SSA,clear,Finnish
+209-191-2,209-191-2,,,Junttila2015;SSA,clear,Baltic
+204-192-1,204-192-1,,,SSA,clear,Russian
+210-192-1,210-192-1,,,EES,clear,Germanic
+211-192-1,211-192-1,,,EES,clear,Germanic
+212-192-1,212-192-1,,,EES,clear,Germanic
+105-192-1,105-192-1,,,Sammallahti1998;SSA,clear,Finnic
+106-192-1,106-192-1,,,SSA,clear,Finnic
+401-192-1,401-192-1,,,TscherWb,clear,Chuvash
+208-192-1,208-192-1,,,SSA,clear,Finnish
+209-192-1,209-192-1,,,SSA,clear,Russian
+301-192-2,301-192-2,,,MordWb,clear,Russian
+501-192-2,501-192-2,,,Kalima1911,clear,Russian
+503-192-1,503-192-1,,,Rogov1869,clear,Russian
+203-194-1,203-194-1,,,LAGLOS;SSA;EES;NES,probable,Germanic
+208-194-1,208-194-1,,,LAGLOS;SSA;EES;NES,probable,Germanic
+209-194-1,209-194-1,,,LAGLOS;SSA;EES;NES,probable,Germanic
+210-194-1,210-194-1,,,LAGLOS;SSA;EES;NES,probable,Germanic
+211-194-1,211-194-1,,,LAGLOS;SSA;EES;NES,probable,Germanic
+212-194-1,212-194-1,,,LAGLOS;SSA;EES;NES,probable,Germanic
+101-194-1,101-194-1,,,Lagercrantz1939,clear,North Germanic
+101-194-2,101-194-2,,,Lagercrantz1939,clear,North Germanic
+401-195-1,401-195-1,,,TscherWb,clear,Chuvash
+601-197-1,601-197-1,,,Zaicz2006,possible,Iranian
+203-198-1,203-198-1,,,vanLinde2007;EES,clear,Germanic
+204-198-1,204-198-1,,,vanLinde2007;EES,clear,Germanic
+207-198-1,207-198-1,,,vanLinde2007;EES,clear,Germanic
+208-198-1,208-198-1,,,vanLinde2007;EES,clear,Germanic
+210-198-1,210-198-1,,,vanLinde2007;EES,clear,Germanic
+212-198-1,212-198-1,,,vanLinde2007;EES,clear,Germanic
+208-199-2,208-199-2,,,EES,possible,Iranian
+209-199-1,209-199-1,,,EES,possible,Iranian
+210-199-1,210-199-1,,,EES,possible,Iranian
+106-20-1,106-20-1,,,SSA,clear,Finnic
+101-200-1,101-200-1,,,Koivulehto2003,possible,Proto-Indo-European
+102-200-1,102-200-1,,,Koivulehto2003,possible,Proto-Indo-European
+104-200-1,104-200-1,,,Koivulehto2003,possible,Proto-Indo-European
+105-200-1,105-200-1,,,Koivulehto2003,possible,Proto-Indo-European
+106-200-1,106-200-1,,,Koivulehto2003,possible,Proto-Indo-European
+107-200-1,107-200-1,,,Koivulehto2003,possible,Proto-Indo-European
+108-200-1,108-200-1,,,Koivulehto2003,possible,Proto-Indo-European
+203-200-1,203-200-1,,,Koivulehto2003,possible,Proto-Indo-European
+204-200-1,204-200-1,,,Koivulehto2003,possible,Proto-Indo-European
+207-200-1,207-200-1,,,Koivulehto2003,possible,Proto-Indo-European
+208-200-1,208-200-1,,,Koivulehto2003,possible,Proto-Indo-European
+209-200-1,209-200-1,,,Koivulehto2003,possible,Proto-Indo-European
+210-200-1,210-200-1,,,Koivulehto2003,possible,Proto-Indo-European
+212-200-1,212-200-1,,,Koivulehto2003,possible,Proto-Indo-European
+211-200-1,211-200-1,,,EES,possible,Proto-Indo-European
+401-200-1,401-200-1,,,Koivulehto2001,probable,Proto-Indo-European
+501-200-1,501-200-1,,,Koivulehto2001,probable,Proto-Indo-European
+503-200-1,503-200-1,,,Koivulehto2001,probable,Proto-Indo-European
+503-200-2,503-200-2,,,Koivulehto2001,probable,Proto-Indo-European
+504-200-1,504-200-1,,,Koivulehto2001,probable,Proto-Indo-European
+601-200-1,601-200-1,,,Koivulehto2001,probable,Proto-Indo-European
+907-200-1,907-200-1,,,Koivulehto2001,possible,Proto-Indo-European
+203-202-1,203-202-1,,,Junttila2015,probable,Baltic
+204-202-1,204-202-1,,,Junttila2015,probable,Baltic
+207-202-1,207-202-1,,,Junttila2015,probable,Baltic
+208-202-1,208-202-1,,,Junttila2015,probable,Baltic
+209-202-1,209-202-1,,,Junttila2015,probable,Baltic
+210-202-1,210-202-1,,,Junttila2015,probable,Baltic
+301-205-1,301-205-1,,,Butylov2007,possible,Tatar
+701-205-2,701-205-2,,,Redei1970,clear,Komi
+212-206-1,212-206-1,,,EES;SSA,possible,Proto-Indo-European
+203-207-1,203-207-1,,,SSA,clear,Germanic
+208-207-1,208-207-1,,,SSA,clear,Germanic
+208-207-2,208-207-2,,,SSA,clear,Germanic
+209-207-1,209-207-1,,,SSA,clear,Germanic
+105-207-1,105-207-1,,,Sammallahti1998,clear,North Germanic
+105-207-2,105-207-2,,,Sammallahti1998,clear,Finnic
+106-207-1,106-207-1,,,Sammallahti1998,clear,Finnic
+108-207-1,108-207-1,,,Rieler2009,clear,Finnic
+101-207-1,101-207-1,,,MH,clear,North Germanic
+203-208-1,203-208-1,,,Koivulehto1991,possible,Proto-Indo-European
+204-208-1,204-208-1,,,Koivulehto1991,possible,Proto-Indo-European
+207-208-1,207-208-1,,,Koivulehto1991,possible,Proto-Indo-European
+208-208-1,208-208-1,,,Koivulehto1991,possible,Proto-Indo-European
+209-208-1,209-208-1,,,Koivulehto1991,possible,Proto-Indo-European
+210-208-1,210-208-1,,,Koivulehto1991,possible,Proto-Indo-European
+211-208-1,211-208-1,,,Koivulehto1991,possible,Proto-Indo-European
+212-208-1,212-208-1,,,Koivulehto1991,possible,Proto-Indo-European
+102-208-2,102-208-2,,,Schlachter1958,clear,North Germanic
+104-208-1,104-208-1,,,Schlachter1958,clear,North Germanic
+301-208-1,301-208-1,,,Butylov2007;Paasonen1897,clear,Volga Bulgar Turkic
+401-208-1,401-208-1,,,TscherWb,possible,Chuvash
+601-208-2,601-208-2,,,Zaicz2006;TESz,probable,Iranian
+203-209-1,203-209-1,,,vanLinde2007;Junttila2012,probable,Baltic
+204-209-1,204-209-1,,,vanLinde2007;Junttila2012,probable,Baltic
+207-209-1,207-209-1,,,vanLinde2007;Junttila2012,probable,Baltic
+208-209-1,208-209-1,,,vanLinde2007;Junttila2012,probable,Baltic
+209-209-1,209-209-1,,,vanLinde2007;Junttila2012,probable,Baltic
+210-209-1,210-209-1,,,vanLinde2007;Junttila2012,probable,Baltic
+211-209-1,211-209-1,,,vanLinde2007;Junttila2012,probable,Baltic
+212-209-1,212-209-1,,,vanLinde2007;Junttila2012,probable,Baltic
+105-209-1,105-209-1,,,Aikio2009,probable,Germanic
+301-209-1,301-209-1,,,Grunthal2012,possible,Baltic
+101-209-1,101-209-1,,,Qvigstad1893,clear,North Germanic
+102-209-1,102-209-1,,,Lehtiranta1989,clear,Finnic
+104-209-2,104-209-2,,,Lehtiranta1989,clear,Finnic
+106-209-1,106-209-1,,,Lehtiranta1989,clear,Finnic
+107-209-1,107-209-1,,,Lehtiranta1989,clear,Finnic
+203-210-1,203-210-1,,,Holopainen2018;Holopainen2019,clear,Iranian
+204-210-1,204-210-1,,,Holopainen2018;Holopainen2019,clear,Iranian
+207-210-1,207-210-1,,,Holopainen2018;Holopainen2019,clear,Iranian
+208-210-1,208-210-1,,,Holopainen2018;Holopainen2019,clear,Iranian
+210-210-1,210-210-1,,,EES,possible,Slavic
+211-210-1,211-210-1,,,EES,possible,Slavic
+107-210-1,107-210-1,,,MH,possible,Finnic
+104-210-1,104-210-1,,,SSA,clear,Finnic
+105-210-1,105-210-1,,,Sammallahti1998;SSA,clear,Finnic
+106-210-3,106-210-3,,,SSA,clear,Finnic
+107-210-2,107-210-2,,,SSA,clear,Finnic
+108-210-1,108-210-1,,,Rieler2009,clear,Finnic
+807-211-1,807-211-1,,,UEW,possible,Permic
+106-211-1,106-211-1,,,Sammallahti1998,clear,Finnic
+107-211-1,107-211-1,,,Sammallahti1998,clear,Finnic
+108-211-1,108-211-1,,,Rieler2009,clear,Finnic
+301-211-1,301-211-1,,,Koivulehto1988a,possible,Proto-Indo-European
+401-211-1,401-211-1,,,Koivulehto1988a,possible,Proto-Indo-European
+601-211-1,601-211-1,,,Koivulehto1988a,possible,Indo-Iranian
+503-211-2,503-211-2,,,KoPRSl,clear,Russian
+104-211-1,104-211-1,,,Sammallahti1998,clear,Finnic
+105-211-1,105-211-1,,,Sammallahti1998,clear,Finnic
+203-212-1,203-212-1,,,Junttila2015;SSA;EES;NES,clear,Baltic
+204-212-1,204-212-1,,,Junttila2015;SSA;EES;NES,clear,Baltic
+208-212-1,208-212-1,,,Junttila2015;SSA;EES;NES,clear,Baltic
+209-212-1,209-212-1,,,Junttila2015;SSA;EES;NES,clear,Baltic
+210-212-1,210-212-1,,,Junttila2015;SSA;EES;NES,clear,Baltic
+211-212-1,211-212-1,,,Junttila2015;SSA;EES;NES,clear,Baltic
+212-212-1,212-212-1,,,Koivulehto1999,possible,Indo-Iranian_or_Iranian
+501-212-1,501-212-1,,,Koivulehto1999,possible,Indo-Iranian_or_Iranian
+503-212-1,503-212-1,,,Koivulehto1999,possible,Indo-Iranian_or_Iranian
+401-212-1,401-212-1,,,TscherWb,clear,Turkic
+601-212-1,601-212-1,,,WOT,probable,West Old Turkic
+401-212-2,401-212-2,,,Isanbaev1994,clear,Tatar
+104-214-1,104-214-1,,,Lehtiranta1989,probable,Germanic
+105-214-1,105-214-1,,,Sammallahti1998,probable,Germanic
+106-214-1,106-214-1,,,Lehtiranta1989,probable,Germanic
+501-215-1,501-215-1,,,Holopainen2019;Koivulehto2001;Redei1986,possible,Iranian
+503-215-1,503-215-1,,,Holopainen2019;Koivulehto2001;Redei1986,possible,Iranian
+701-215-1,701-215-1,,,Redei1970,clear,Komi
+204-218-2,204-218-2,,,LAGLOS;SSA;EES;NES,possible,Germanic
+209-218-1,209-218-1,,,LAGLOS;SSA;EES;NES,possible,Germanic
+210-218-2,210-218-2,,,EES,possible,Germanic
+211-218-1,211-218-1,,,EES,possible,Germanic
+501-219-1,501-219-1,,,Holopainen2019;Redei1986,clear,Indo-Iranian
+503-219-1,503-219-1,,,Holopainen2019;Redei1986,clear,Indo-Iranian
+504-219-1,504-219-1,,,Holopainen2019;Redei1986,clear,Indo-Iranian
+807-219-1,807-219-1,,,Futaky1975,possible,Tungusic
+601-219-1,601-219-1,,,Holopainen2019,clear,Iranian
+212-220-1,212-220-1,,,Suhonen1973,clear,Latvian
+601-220-1,601-220-1,,,WOT;TESz,probable,West Old Turkic
+504-220-1,504-220-1,,,Tarakanov1993,clear,Tatar
+203-222-1,203-222-1,,,Junttila2012;SSA,clear,Baltic
+204-222-1,204-222-1,,,Junttila2012;SSA,clear,Baltic
+212-222-1,212-222-1,,,Suhonen1973,clear,Latvian
+401-222-2,401-222-2,,,Koivulehto1985,possible,Germanic
+108-222-1,108-222-1,,,Rieler2009,clear,Germanic
+203-223-1,203-223-1,,,SSA;EES,possible,Iranian
+204-223-1,204-223-1,,,SSA;EES,possible,Iranian
+207-223-1,207-223-1,,,SSA;EES,possible,Iranian
+208-223-1,208-223-1,,,SSA;EES,possible,Iranian
+209-223-1,209-223-1,,,SSA;EES,possible,Iranian
+210-223-1,210-223-1,,,SSA;EES,possible,Iranian
+203-224-1,203-224-1,,,SSA,clear,Indo-European
+204-224-1,204-224-1,,,SSA,clear,Indo-European
+207-224-1,207-224-1,,,SSA,clear,Indo-European
+208-224-1,208-224-1,,,SSA,clear,Indo-European
+209-224-1,209-224-1,,,SSA,clear,Indo-European
+210-224-1,210-224-1,,,SSA,clear,Indo-European
+211-224-1,211-224-1,,,SSA,clear,Indo-European
+212-224-1,212-224-1,,,SSA,clear,Indo-European
+907-224-1,907-224-1,,,UEW,possible,Ob-Ugric
+601-224-1,601-224-1,,,Zaicz2006,possible,Indo-European
+102-224-1,102-224-1,,,AlguDB,clear,North Germanic
+104-224-1,104-224-1,,,AlguDB,clear,North Germanic
+105-224-1,105-224-1,,,AlguDB,clear,North Germanic
+106-224-1,106-224-1,,,AlguDB,clear,North Germanic
+107-224-1,107-224-1,,,AlguDB,clear,North Germanic
+108-224-1,108-224-1,,,Rieler2009,clear,Russian
+301-224-1,301-224-1,,,SSA,clear,Indo-European
+301-224-2,301-224-2,,,SSA,clear,Indo-European
+401-224-1,401-224-1,,,SSA,clear,Indo-European
+401-224-2,401-224-2,,,SSA,clear,Indo-European
+501-224-1,501-224-1,,,SSA,clear,Indo-European
+503-224-1,503-224-1,,,SSA,clear,Indo-European
+203-225-1,203-225-1,,,SSA,probable,North Germanic
+204-225-1,204-225-1,,,SSA,probable,North Germanic
+207-225-1,207-225-1,,,SSA,probable,North Germanic
+208-225-1,208-225-1,,,SSA,probable,North Germanic
+209-225-1,209-225-1,,,SSA,probable,North Germanic
+212-225-1,212-225-1,,,Suhonen1973,clear,Latvian
+107-225-2,107-225-2,,,SSA,clear,Finnic
+203-227-1,203-227-1,,,LAGLOS,possible,Germanic
+204-227-1,204-227-1,,,LAGLOS,possible,Germanic
+207-227-1,207-227-1,,,LAGLOS,possible,Germanic
+208-227-1,208-227-1,,,LAGLOS,possible,Germanic
+210-227-1,210-227-1,,,LAGLOS,possible,Germanic
+211-227-1,211-227-1,,,LAGLOS,possible,Germanic
+212-227-1,212-227-1,,,LAGLOS,possible,Germanic
+301-227-1,301-227-1,,,LAGLOS,possible,Proto-Indo-European
+501-227-1,501-227-1,,,Koivulehto1991,possible,Proto-Indo-European
+503-227-1,503-227-1,,,Koivulehto1991,possible,Proto-Indo-European
+601-227-1,601-227-1,,,Koivulehto1991,possible,Proto-Indo-European
+701-227-1,701-227-1,,,Koivulehto1991,possible,Proto-Indo-European
+102-227-2,102-227-2,,,Schlachter1958,clear,North Germanic
+601-228-1,601-228-1,,,WOT;TESz,possible,West Old Turkic_or_Iranian
+105-228-1,105-228-1,,,SSA,probable,Finnic
+106-228-2,106-228-2,,,SSA,probable,Finnic
+107-228-1,107-228-1,,,SSA,probable,Finnic
+108-228-1,108-228-1,,,Rieler2009,probable,Finnic
+203-229-1,203-229-1,,,Junttila2015;LAGLOS,possible,Germanic_or Baltic
+204-229-1,204-229-1,,,Junttila2015;LAGLOS,possible,Germanic_or Baltic
+210-229-2,210-229-2,,,EES,clear,Low German
+101-229-1,101-229-1,,,SSA,clear,North Germanic
+102-229-1,102-229-1,,,SSA,clear,North Germanic
+105-229-1,105-229-1,,,SSA,clear,North Germanic
+108-229-1,108-229-1,,,Rieler2009,clear,North Germanic
+203-23-1,203-23-1,,,Aikio2000;SSA;NES;EES,probable,Germanic
+209-23-1,209-23-1,,,Aikio2000;SSA;NES;EES,probable,Germanic
+210-23-1,210-23-1,,,Aikio2000;SSA;NES;EES,probable,Germanic
+211-23-1,211-23-1,,,Aikio2000;SSA;NES;EES,probable,Germanic
+211-23-2,211-23-2,,,Aikio2000;SSA;NES;EES,probable,Germanic
+211-23-3,211-23-3,,,Aikio2000;SSA;NES;EES,probable,Germanic
+212-23-1,212-23-1,,,Aikio2000;SSA;NES;EES,probable,Germanic
+401-230-1,401-230-1,,,TscherWb,clear,Chuvash
+101-231-1,101-231-1,,,Holopainen2019,possible,Finnic
+102-231-1,102-231-1,,,Holopainen2019,possible,Finnic
+104-231-1,104-231-1,,,Holopainen2019,possible,Finnic
+105-231-1,105-231-1,,,Holopainen2019,possible,Finnic
+106-231-1,106-231-1,,,Holopainen2019,possible,Finnic
+107-231-1,107-231-1,,,Holopainen2019,possible,Finnic
+108-231-1,108-231-1,,,Holopainen2019,possible,Finnic
+204-231-1,204-231-1,,,Holopainen2019,probable,Indo-Iranian
+207-231-1,207-231-1,,,Holopainen2019,probable,Indo-Iranian
+208-231-1,208-231-1,,,Holopainen2019,probable,Indo-Iranian
+209-231-1,209-231-1,,,Holopainen2019,probable,Indo-Iranian
+210-231-1,210-231-1,,,Holopainen2019,probable,Indo-Iranian
+211-231-1,211-231-1,,,Holopainen2019,probable,Indo-Iranian
+212-231-1,212-231-1,,,Holopainen2019,probable,Indo-Iranian
+301-231-1,301-231-1,,,Holopainen2019,probable,Indo-Iranian
+401-231-1,401-231-1,,,Holopainen2019,probable,Indo-Iranian
+501-231-1,501-231-1,,,Holopainen2019,probable,Indo-Iranian
+503-231-1,503-231-1,,,Holopainen2019,probable,Indo-Iranian
+504-231-1,504-231-1,,,Holopainen2019,probable,Indo-Iranian
+601-231-1,601-231-1,,,Holopainen2019,probable,Iranian
+203-232-1,203-232-1,,,SSA;NES;EES,possible,Germanic
+204-232-1,204-232-1,,,SSA;NES;EES,possible,Germanic
+210-232-1,210-232-1,,,SSA;NES;EES,possible,Germanic
+211-232-1,211-232-1,,,SSA;NES;EES,possible,Germanic
+102-232-1,102-232-1,,,Schlachter1958,clear,North Germanic
+601-232-1,601-232-1,,,WOT;TESz,possible,West Old Turkic
+601-232-2,601-232-2,,,WOT;TESz,possible,West Old Turkic
+401-232-1,401-232-1,,,TscherWb,clear,Tatar
+401-232-2,401-232-2,,,TscherWb,clear,Chuvash
+209-232-4,209-232-4,,,VKJMS,clear,Russian
+203-233-1,203-233-1,,,SSA,clear,Germanic
+107-233-1,107-233-1,,,SSA,clear,Finnic
+108-233-1,108-233-1,,,SSA,clear,Finnic
+203-233-2,203-233-2,,,LAGLOS;SSA;NES,clear,Germanic
+204-233-1,204-233-1,,,LAGLOS;SSA;NES,clear,Germanic
+207-233-1,207-233-1,,,LAGLOS;SSA;NES,clear,Germanic
+208-233-1,208-233-1,,,LAGLOS;SSA;NES,clear,Germanic
+104-233-1,104-233-1,,,Koivulehto1991,possible,Proto-Indo-European
+105-233-1,105-233-1,,,Koivulehto1991,possible,Proto-Indo-European
+106-233-2,106-233-2,,,Koivulehto1991,possible,Proto-Indo-European
+501-233-1,501-233-1,,,Holopainen2019;Metsaranta2017;Koivulehto1991,clear,Indo-Iranian
+503-233-1,503-233-1,,,Holopainen2019;Metsaranta2017;Koivulehto1991,clear,Indo-Iranian
+504-233-1,504-233-1,,,Holopainen2019;Metsaranta2017;Koivulehto1991,clear,Indo-Iranian
+101-233-1,101-233-1,,,Qvigstad1893,clear,North Germanic
+102-233-1,102-233-1,,,Qvigstad1893,clear,North Germanic
+104-233-2,104-233-2,,,Qvigstad1893,clear,North Germanic
+401-233-1,401-233-1,,,Savatkova1969,clear,Russian
+701-233-1,701-233-1,,,Kalman1961,clear,Russian
+401-234-1,401-234-1,,,TscherWb,clear,Chuvash
+807-235-1,807-235-1,,,DEWOS,clear,Tatar
+701-235-2,701-235-2,,,Redei1970,clear,Komi
+107-236-1,107-236-1,,,Itkonen1958b,clear,Russian
+107-236-2,107-236-2,,,Itkonen1958b,clear,Russian
+108-236-1,108-236-1,,,Rieler2009,clear,Russian
+301-236-2,301-236-2,,,SSA,possible,Indo-European
+204-236-1,204-236-1,,,MH,clear,Russian
+601-238-2,601-238-2,,,WOT,possible,West Old Turkic
+601-238-3,601-238-3,,,WOT,possible,West Old Turkic
+209-238-2,209-238-2,,,VKJMS,probable,Izhorian
+203-24-1,203-24-1,,,Junttila2015;SSA;NES;EES,clear,Baltic
+204-24-1,204-24-1,,,Junttila2015;SSA;NES;EES,clear,Baltic
+207-24-1,207-24-1,,,Junttila2015;SSA;NES;EES,clear,Baltic
+208-24-1,208-24-1,,,Junttila2015;SSA;NES;EES,clear,Baltic
+209-24-1,209-24-1,,,Junttila2015;SSA;NES;EES,clear,Baltic
+210-24-1,210-24-1,,,Junttila2015;SSA;NES;EES,clear,Baltic
+211-24-1,211-24-1,,,Junttila2015;SSA;NES;EES,clear,Baltic
+212-24-1,212-24-1,,,Junttila2015;SSA;NES;EES,clear,Baltic
+203-240-1,203-240-1,,,Koivulehto2001;SSA,possible,Proto-Indo-European
+204-240-1,204-240-1,,,Koivulehto2001;SSA,possible,Proto-Indo-European
+207-240-1,207-240-1,,,Koivulehto2001;SSA,possible,Proto-Indo-European
+208-240-1,208-240-1,,,Koivulehto2001;SSA,possible,Proto-Indo-European
+209-240-1,209-240-1,,,Koivulehto2001;SSA,possible,Proto-Indo-European
+210-240-1,210-240-1,,,Koivulehto2001;SSA,possible,Proto-Indo-European
+211-240-1,211-240-1,,,Koivulehto2001;SSA,possible,Proto-Indo-European
+101-240-1,101-240-1,,,Sammallahti1998,clear,North Germanic
+102-240-1,102-240-1,,,Sammallahti1998,clear,North Germanic
+104-240-1,104-240-1,,,Sammallahti1998,clear,North Germanic
+105-240-1,105-240-1,,,Sammallahti1998,clear,North Germanic
+106-240-1,106-240-1,,,Sammallahti1998,clear,North Germanic
+107-240-1,107-240-1,,,Sammallahti1998,clear,North Germanic
+108-240-1,108-240-1,,,Rieler2009,clear,North Germanic
+301-240-1,301-240-1,,,Joki1973,possible,Iranian
+401-240-1,401-240-1,,,TscherWb,clear,Chuvash
+504-240-1,504-240-1,,,Tarakanov1993,clear,Tatar
+501-240-1,501-240-1,,,Holopainen2019;Koivulehto1999,probable,Indo-Iranian_or_Indo-European
+503-240-1,503-240-1,,,Holopainen2019;Koivulehto1999,probable,Indo-Iranian_or_Indo-European
+504-240-2,504-240-2,,,Holopainen2019;Koivulehto1999,probable,Indo-Iranian_or_Indo-European
+102-242-1,102-242-1,,,SSA,clear,Finnic
+104-242-1,104-242-1,,,SSA,clear,Finnic
+105-242-1,105-242-1,,,Sammallahti1998;SSA,clear,Finnic
+106-242-1,106-242-1,,,SSA,clear,Finnic
+107-242-1,107-242-1,,,SSA,clear,Finnic
+212-242-1,212-242-1,,,SSA,clear,Germanic
+212-242-2,212-242-2,,,Suhonen1973,clear,Latvian
+503-242-2,503-242-2,,,,clear,Chuvash
+504-242-2,504-242-2,,,KESK;Tarakanov1993,clear,Volga Bulgar Turkic
+401-242-1,401-242-1,,,Isanbaev1994,clear,Tatar
+208-242-2,208-242-2,,,InkmSk,clear,Russian
+209-242-2,209-242-2,,,VKJMS,clear,Russian
+108-242-1,108-242-1,,,Rieler2009,clear,Karelian
+101-243-1,101-243-1,,,Lehtiranta1989;SSA,clear,Finnic
+102-243-1,102-243-1,,,Lehtiranta1989;SSA,clear,Finnic
+104-243-1,104-243-1,,,Lehtiranta1989;SSA,clear,Finnic
+104-243-2,104-243-2,,,Lehtiranta1989;SSA,clear,Finnic
+105-243-1,105-243-1,,,Sammallahti1998;Lehtiranta1989;SSA,clear,Finnic
+106-243-1,106-243-1,,,Lehtiranta1989;SSA,clear,Finnic
+107-243-1,107-243-1,,,SSA,clear,Finnic
+101-244-1,101-244-1,,,Lagercrantz1939,clear,North Germanic
+102-244-1,102-244-1,,,Lagercrantz1939,clear,North Germanic
+104-244-1,104-244-1,,,Lagercrantz1939,clear,North Germanic
+212-244-1,212-244-1,,,Suhonen1973,clear,Latvian
+105-244-1,105-244-1,,,Koivulehto1976,clear,Germanic
+106-244-1,106-244-1,,,Koivulehto1976,clear,Germanic
+107-244-1,107-244-1,,,Lehtiranta1989,clear,Germanic
+601-244-1,601-244-1,,,WOT,clear,West Old Turkic
+601-244-2,601-244-2,,,WOT,clear,West Old Turkic
+107-244-2,107-244-2,,,MH,clear,Finnic
+203-244-1,203-244-1,,,,clear,Germanic
+204-244-1,204-244-1,,,LAGLOS;SSA;EES;NES,clear,Germanic
+210-244-1,210-244-1,,,LAGLOS;SSA;EES;NES,clear,Germanic
+210-244-2,210-244-2,,,LAGLOS;SSA;EES;NES,clear,Germanic
+211-244-1,211-244-1,,,LAGLOS;SSA;EES;NES,clear,Germanic
+212-244-2,212-244-2,,,LAGLOS;SSA;EES;NES,clear,Germanic
+203-245-1,203-245-1,,,SSA;NES,clear,Swedish
+210-245-1,210-245-1,,,EES,clear,German
+211-245-1,211-245-1,,,EES,clear,German
+107-245-1,107-245-1,,,Itkonen1958b,clear,Russian
+401-245-1,401-245-1,,,Isanbaev1994;TscherWb,clear,Tatar
+504-245-1,504-245-1,,,Tarakanov1993;Csucs1990,clear,Tatar
+108-245-1,108-245-1,,,Rieler2009,clear,Russian
+204-245-1,204-245-1,,,MH,clear,Russian
+209-245-1,209-245-1,,,VKJMS,clear,Russian
+401-245-2,401-245-2,,,Savatkova1969,clear,Russian
+501-245-1,501-245-1,,,Kalima1911,clear,Russian
+503-245-1,503-245-1,,,Kalima1911,clear,Russian
+203-246-1,203-246-1,,,SSA;NES;EES,possible,Germanic
+207-246-1,207-246-1,,,SSA;NES;EES,possible,Germanic
+210-246-1,210-246-1,,,SSA;NES;EES,possible,Germanic
+211-246-1,211-246-1,,,SSA;NES;EES,possible,Germanic
+212-246-1,212-246-1,,,SSA;NES;EES,possible,Germanic
+401-246-1,401-246-1,,,TscherWb,clear,Chuvash
+807-246-1,807-246-1,,,Futaky1975,possible,Tungusic
+503-246-2,503-246-2,,,SSA;NES;EES,clear,Russian
+601-247-1,601-247-1,,,Kniezsa1974;TESz;Zaicz2006,clear,Slavic
+209-247-1,209-247-1,,,SSA,probable,Izhorian
+105-248-1,105-248-1,,,Sammallahti1998,clear,Finnic
+108-248-1,108-248-1,,,Rieler2009,clear,Finnic
+107-248-1,107-248-1,,,Itkonen1958b,clear,Russian
+601-248-1,601-248-1,,,WOT,possible,West Old Turkic
+105-249-1,105-249-1,,,SSA,clear,North Germanic
+203-249-1,203-249-1,,,SSA,probable,Swedish
+503-249-1,503-249-1,,,Koivulehto2001,possible,Proto-Indo-European
+601-249-1,601-249-1,,,Koivulehto2001,probable,Proto-Indo-European
+212-249-2,212-249-2,,,Suhonen1973,clear,Latvian
+102-249-1,102-249-1,,,SSA,clear,North Germanic
+104-249-2,104-249-2,,,SSA,clear,North Germanic
+107-249-2,107-249-2,,,SSA,clear,North Germanic
+401-249-1,401-249-1,,,TscherWb,clear,Tatar
+701-249-1,701-249-1,,,Redei1970,clear,Komi
+209-249-2,209-249-2,,,VKJMS,clear,Russian
+209-249-3,209-249-3,,,SSA,clear,Estonian
+102-25-1,102-25-1,,,Koivulehto1991,probable,Proto-Indo-European
+104-25-1,104-25-1,,,Koivulehto1991,probable,Proto-Indo-European
+105-25-1,105-25-1,,,Koivulehto1991,probable,Proto-Indo-European
+203-25-1,203-25-1,,,Koivulehto1991,probable,Proto-Indo-European
+204-25-1,204-25-1,,,Koivulehto1991,probable,Proto-Indo-European
+207-25-1,207-25-1,,,Koivulehto1991,probable,Proto-Indo-European
+208-25-1,208-25-1,,,Koivulehto1991,probable,Proto-Indo-European
+209-25-1,209-25-1,,,Koivulehto1991,probable,Proto-Indo-European
+210-25-1,210-25-1,,,Koivulehto1991,probable,Proto-Indo-European
+211-25-1,211-25-1,,,Koivulehto1991,probable,Proto-Indo-European
+212-25-1,212-25-1,,,Koivulehto1991,probable,Proto-Indo-European
+301-25-1,301-25-1,,,Koivulehto1991,probable,Proto-Indo-European
+601-25-1,601-25-1,,,Koivulehto1991;SSA;NES;UEW,probable,Proto-Indo-European
+501-25-2,501-25-2,,,KESK;Joki1973;Redei1986;Csucs2005,possible,Iranian
+503-25-1,503-25-1,,,KESK;Joki1973;Redei1986;Csucs2005,possible,Iranian
+504-25-1,504-25-1,,,KESK;Joki1973;Redei1986;Csucs2005,possible,Iranian
+701-25-1,701-25-1,,,Holopainen2019,possible,Iranian
+807-25-1,807-25-1,,,Holopainen2019,possible,Iranian
+108-25-1,108-25-1,,,Rieler2009,probable,Finnic
+208-25-2,208-25-2,,,SSA,clear,Russian
+208-250-1,208-250-1,,,Koivulehto1991,possible,Proto-Indo-European
+208-250-2,208-250-2,,,Koivulehto1991,possible,Proto-Indo-European
+209-250-1,209-250-1,,,Koivulehto1991,possible,Proto-Indo-European
+210-250-1,210-250-1,,,Koivulehto1991,possible,Proto-Indo-European
+211-250-1,211-250-1,,,Koivulehto1991,possible,Proto-Indo-European
+212-250-1,212-250-1,,,Koivulehto1991,possible,Proto-Indo-European
+105-250-1,105-250-1,,,Sammallahti1998;SSA,clear,Finnic
+106-250-1,106-250-1,,,Korhonen1981;SSA,clear,Finnic
+807-250-1,807-250-1,,,Koivulehto1991;DEWOS,possible,Proto-Indo-European
+401-250-1,401-250-1,,,TscherWb,possible,Chuvash
+301-250-2,301-250-2,,,MordWb,clear,Russian
+501-250-1,501-250-1,,,KESK,possible,Germanic
+101-250-2,101-250-2,,,Qvigstad1893,clear,North Germanic
+101-251-1,101-251-1,,,Lagercrantz1939,clear,North Germanic
+102-251-1,102-251-1,,,Lagercrantz1939,clear,North Germanic
+104-251-1,104-251-1,,,Lagercrantz1939,clear,North Germanic
+601-251-1,601-251-1,,,Kniezsa1974;Zaicz2006,clear,Slavic
+401-251-1,401-251-1,,,TscherWb,clear,Chuvash
+203-252-2,203-252-2,,,Junttila2015;SSA,clear,Baltic
+204-252-2,204-252-2,,,SSA,possible,Finnish
+212-252-2,212-252-2,,,Junttila2015;SSA,clear,Baltic
+105-252-1,105-252-1,,,Lehtiranta1989,clear,North Germanic
+106-252-1,106-252-1,,,Lehtiranta1989,clear,North Germanic
+209-252-2,209-252-2,,,EES,clear,Estonian
+210-252-2,210-252-2,,,EES,clear,Germanic
+211-252-1,211-252-1,,,EES,clear,Germanic
+101-252-1,101-252-1,,,Lehtiranta1989,clear,North Germanic
+102-252-1,102-252-1,,,Lehtiranta1989,clear,North Germanic
+105-252-2,105-252-2,,,Sammallahti1998,clear,North Germanic
+106-252-2,106-252-2,,,Lehtiranta1989,clear,North Germanic
+107-252-1,107-252-1,,,MH,clear,Russian
+108-252-1,108-252-1,,,Rieler2009,clear,Russian
+601-252-1,601-252-1,,,Kniezsa1974;Zaicz2006;TESz,clear,Slavic
+401-252-2,401-252-2,,,TscherWb,possible,Chuvash
+504-252-1,504-252-1,,,WotjWsch,clear,Tatar
+203-253-1,203-253-1,,,LAGLOS;SSA;EES;NES,probable,Germanic
+204-253-1,204-253-1,,,LAGLOS;SSA;EES;NES,probable,Germanic
+207-253-1,207-253-1,,,LAGLOS;SSA;EES;NES,probable,Germanic
+208-253-1,208-253-1,,,LAGLOS;SSA;EES;NES,probable,Germanic
+209-253-1,209-253-1,,,LAGLOS;SSA;EES;NES,probable,Germanic
+210-253-1,210-253-1,,,LAGLOS;SSA;EES;NES,probable,Germanic
+211-253-1,211-253-1,,,LAGLOS;SSA;EES;NES,probable,Germanic
+212-253-1,212-253-1,,,LAGLOS;SSA;EES;NES,probable,Germanic
+207-253-2,207-253-2,,,MH,clear,Russian
+105-253-2,105-253-2,,,Koivulehto1976,clear,North Germanic
+301-253-2,301-253-2,,,Butylov2007,clear,Tatar
+501-253-1,501-253-1,,,Holopainen2019;Koivulehto1999;Katz1983,possible,Indo-Iranian_or_Indo-European
+504-253-1,504-253-1,,,Holopainen2019;Koivulehto1999;Katz1983,possible,Indo-Iranian_or_Indo-European
+401-253-1,401-253-1,,,Bereczki2013,clear,Chuvash
+401-253-2,401-253-2,,,Holopainen2019,possible,Indo-Iranian_or_Iranian
+501-253-2,501-253-2,,,Kalima1911,clear,Russian
+503-253-1,503-253-1,,,Kalima1911,clear,Russian
+106-254-1,106-254-1,,,SSA,clear,Finnic
+105-254-1,105-254-1,,,Aikio2006;SSA,probable,Finnic
+106-254-2,106-254-2,,,SSA,possible,Finnic
+101-254-1,101-254-1,,,SSA,clear,Finnic
+105-254-2,105-254-2,,,Sammallahti1998;SSA,clear,Finnic
+101-254-2,101-254-2,,,Lagercrantz1939,clear,North Germanic
+102-254-1,102-254-1,,,Lagercrantz1939,clear,North Germanic
+104-254-1,104-254-1,,,Lagercrantz1939,clear,North Germanic
+102-254-2,102-254-2,,,Qvigstad1893,clear,North Germanic
+107-254-1,107-254-1,,,Itkonen1958b,possible,Russian
+301-254-1,301-254-1,,,Butylov2007;Paasonen1897,possible,Tatar
+501-254-1,501-254-1,,,Kalima1911,clear,Russian
+504-254-1,504-254-1,,,WotjWsch,clear,Russian
+907-254-1,907-254-1,,,SolkWb,clear,Russian
+104-254-2,104-254-2,,,SSA,clear,Finnic
+212-255-1,212-255-1,,,Suhonen1973,clear,Latvian
+105-255-2,105-255-2,,,Aikio2007,clear,Finnic
+105-256-2,105-256-2,,,Aikio2007,clear,Finnic
+108-256-1,108-256-1,,,SSA,clear,Finnic
+203-257-1,203-257-1,,,Holopainen2019;Katz2003,clear,Indo-Iranian
+204-257-1,204-257-1,,,Holopainen2019;Katz2003,clear,Indo-Iranian
+207-257-1,207-257-1,,,Holopainen2019;Katz2003,clear,Indo-Iranian
+208-257-1,208-257-1,,,Holopainen2019;Katz2003,clear,Indo-Iranian
+209-257-1,209-257-1,,,Holopainen2019;Katz2003,clear,Indo-Iranian
+210-257-1,210-257-1,,,Holopainen2019;Katz2003,clear,Indo-Iranian
+211-257-1,211-257-1,,,Holopainen2019;Katz2003,clear,Indo-Iranian
+401-257-1,401-257-1,,,Isanbaev1994,clear,Tatar
+401-257-2,401-257-2,,,Holopainen2019;Katz2003,possible,Indo-Iranian
+101-258-1,101-258-1,,,AlguDB,clear,North Germanic
+102-258-1,102-258-1,,,AlguDB,clear,North Germanic
+104-258-1,104-258-1,,,AlguDB,clear,North Germanic
+106-258-1,106-258-1,,,AlguDB,clear,North Germanic
+107-258-1,107-258-1,,,AlguDB,clear,North Germanic
+108-258-1,108-258-1,,,Rieler2009,clear,Norvegian
+301-258-1,301-258-1,,,Grunthal2012;vanPareren2009,possible,Baltic
+301-258-2,301-258-2,,,Grunthal2012;vanPareren2009,possible,Baltic
+907-258-1,907-258-1,,,SolkWb,probable,Yeniseian
+501-258-1,501-258-1,,,Saarikivi2018;Hausenberg1985,possible,Finnic
+503-258-1,503-258-1,,,Saarikivi2018;Hausenberg1985,possible,Finnic
+101-259-1,101-259-1,,,SSA;UEW;Lehtiranta1989,clear,Finnic
+102-259-1,102-259-1,,,SSA;UEW;Lehtiranta1989,clear,Finnic
+102-259-2,102-259-2,,,SSA;UEW;Lehtiranta1989,clear,Finnic
+104-259-1,104-259-1,,,SSA;UEW;Lehtiranta1989,clear,Finnic
+104-259-2,104-259-2,,,SSA;UEW;Lehtiranta1989,clear,Finnic
+105-259-1,105-259-1,,,Aikio2007;Sammallahti1998,clear,Finnic
+107-259-1,107-259-1,,,SSA;UEW;Lehtiranta1989,clear,Finnic
+108-259-1,108-259-1,,,Rieler2009,probable,Finnic
+203-26-1,203-26-1,,,SSA;NES;Joki1973,possible,Indo-European
+204-26-1,204-26-1,,,SSA;NES;Joki1973,possible,Indo-European
+208-26-1,208-26-1,,,SSA;NES;Joki1973,possible,Indo-European
+209-26-1,209-26-1,,,SSA;NES;Joki1973,possible,Indo-European
+207-26-1,207-26-1,,,Holopainen2019;SSA;UEW,possible,Indo-Iranian
+208-26-2,208-26-2,,,Holopainen2019;SSA;UEW,possible,Indo-Iranian
+209-26-2,209-26-2,,,Holopainen2019;SSA;UEW,possible,Indo-Iranian
+212-26-1,212-26-1,,,Holopainen2019;SSA;UEW,possible,Indo-Iranian
+301-26-1,301-26-1,,,Holopainen2019;SSA;UEW,possible,Indo-Iranian
+601-26-1,601-26-1,,,Holopainen2019;SSA;UEW,possible,Indo-Iranian
+807-26-1,807-26-1,,,Holopainen2019;SSA;UEW,possible,Indo-Iranian
+210-26-1,210-26-1,,,EES;Koivulehto2016,possible,North-Western-Indo-European
+211-26-1,211-26-1,,,EES;Koivulehto2016,possible,North-Western-Indo-European
+401-26-1,401-26-1,,,TscherWb,clear,Russian
+107-26-1,107-26-1,,,Korhonen1981,clear,Finnic
+108-26-1,108-26-1,,,Korhonen1981,clear,Finnic
+208-26-3,208-26-3,,,Junttila2015,clear,Baltic
+101-26-2,101-26-2,,,Qvigstad1893,clear,North Germanic
+101-26-3,101-26-3,,,Qvigstad1893,clear,North Germanic
+104-26-1,104-26-1,,,Sammallahti1998,clear,Finnic
+105-26-1,105-26-1,,,Sammallahti1998,clear,Finnic
+106-26-1,106-26-1,,,Sammallahti1998,clear,Finnic
+204-260-2,204-260-2,,,Junttila2015;SSA,probable,Baltic
+207-260-1,207-260-1,,,SSA,probable,Slavic
+301-260-1,301-260-1,,,Holopainen2019;Bereczki2013,possible,Indo-Iranian_or_Iranian
+401-260-1,401-260-1,,,Holopainen2019;Bereczki2013,possible,Indo-Iranian_or_Iranian
+701-260-1,701-260-1,,,Holopainen2019;Korenchy1972,probable,Iranian
+807-260-1,807-260-1,,,Holopainen2019;Korenchy1972,probable,Iranian
+101-260-1,101-260-1,,,Lagercrantz1939,clear,Finnic
+101-260-2,101-260-2,,,Lagercrantz1939,clear,Finnic
+104-260-1,104-260-1,,,Lehtiranta1989,clear,Finnic
+105-260-1,105-260-1,,,Sammallahti1998,clear,Finnic
+106-260-1,106-260-1,,,Sammallahti1998,clear,Finnic
+107-260-1,107-260-1,,,Lehtiranta1989,clear,Finnic
+108-260-1,108-260-1,,,Rieler2009,clear,Finnic
+501-261-2,501-261-2,,,Kalima1911,clear,Russian
+208-262-1,208-262-1,,,EES,possible,Russian
+209-262-2,209-262-2,,,EES,possible,Russian
+209-262-3,209-262-3,,,EES,possible,Russian
+102-262-2,102-262-2,,,AlguDB,clear,North Germanic
+203-263-1,203-263-1,,,LAGLOS;SSA;EES,possible,Germanic_or_North_Germanic
+204-263-1,204-263-1,,,LAGLOS;SSA;EES,possible,Germanic_or_North_Germanic
+208-263-1,208-263-1,,,LAGLOS;SSA;EES,possible,Germanic_or_North_Germanic
+209-263-1,209-263-1,,,LAGLOS;SSA;EES,possible,Germanic_or_North_Germanic
+210-263-1,210-263-1,,,LAGLOS;SSA;EES,possible,Germanic_or_North_Germanic
+210-263-2,210-263-2,,,LAGLOS;SSA;EES,possible,Germanic_or_North_Germanic
+210-263-3,210-263-3,,,LAGLOS;SSA;EES,possible,Germanic_or_North_Germanic
+211-263-1,211-263-1,,,LAGLOS;SSA;EES,possible,Germanic_or_North_Germanic
+212-263-1,212-263-1,,,LAGLOS;SSA;EES,possible,Germanic_or_North_Germanic
+212-263-2,212-263-2,,,Suhonen1973,clear,Latvian
+105-263-1,105-263-1,,,Koivulehto1976,clear,Germanic
+106-263-1,106-263-1,,,Koivulehto1976,clear,Germanic
+107-263-1,107-263-1,,,Koivulehto1976,clear,Germanic
+601-263-1,601-263-1,,,WOT;TESz,clear,West Old Turkic
+601-263-2,601-263-2,,,WOT;TESz,clear,West Old Turkic
+907-263-1,907-263-1,,,SolkWb,clear,Russian
+101-263-2,101-263-2,,,Lagercrantz1939,clear,North Germanic
+102-263-1,102-263-1,,,Lagercrantz1939,clear,North Germanic
+104-263-1,104-263-1,,,Lagercrantz1939,clear,North Germanic
+107-263-2,107-263-2,,,,clear,Finnic
+108-263-1,108-263-1,,,,clear,Finnic
+601-264-2,601-264-2,,,WOT,probable,West Old Turkic
+907-264-1,907-264-1,,,SolkWb,possible,Turkic
+208-264-2,208-264-2,,,MH,clear,Germanic
+209-264-1,209-264-1,,,MH,clear,Germanic
+101-264-1,101-264-1,,,Lagercrantz1939,clear,North Germanic
+104-264-1,104-264-1,,,Qvigstad1893,clear,North Germanic
+104-264-2,104-264-2,,,SSA,clear,Finnic
+105-264-1,105-264-1,,,Sammallahti1998,clear,Finnic
+107-264-2,107-264-2,,,SSA,clear,Finnic
+107-265-1,107-265-1,,,SSA,clear,Finnic
+203-265-1,203-265-1,,,LAGLOS;SSA;EES;NES,clear,Germanic
+208-265-1,208-265-1,,,LAGLOS;SSA;EES;NES,clear,Germanic
+204-265-1,204-265-1,,,MH,clear,Russian
+210-265-1,210-265-1,,,EES,clear,Low German
+211-265-1,211-265-1,,,EES,clear,Low German
+105-265-2,105-265-2,,,Itkonen1958b,clear,North Germanic
+101-265-2,101-265-2,,,Koivulehto1991,possible,Proto-Indo-European
+102-265-1,102-265-1,,,Koivulehto1991,possible,Proto-Indo-European
+104-265-1,104-265-1,,,Koivulehto1991,possible,Proto-Indo-European
+106-265-1,106-265-1,,,Koivulehto1991,possible,Proto-Indo-European
+504-265-1,504-265-1,,,Metsaranta2017;Holopainen2019;Koivulehto1991,clear,Indo-Iranian
+207-265-1,207-265-1,,,MH,clear,Russian
+209-265-2,209-265-2,,,VKJMS,clear,Russian
+501-265-1,501-265-1,,,Kalima1911,clear,Russian
+503-265-1,503-265-1,,,KoPRSl,clear,Russian
+203-266-1,203-266-1,,,LAGLOS;SSA;EES;NES,clear,Germanic
+204-266-1,204-266-1,,,LAGLOS;SSA;EES;NES,clear,Germanic
+207-266-1,207-266-1,,,LAGLOS;SSA;EES;NES,clear,Germanic
+208-266-1,208-266-1,,,LAGLOS;SSA;EES;NES,clear,Germanic
+209-266-1,209-266-1,,,LAGLOS;SSA;EES;NES,clear,Germanic
+210-266-1,210-266-1,,,LAGLOS;SSA;EES;NES,clear,Germanic
+211-266-1,211-266-1,,,LAGLOS;SSA;EES;NES,clear,Germanic
+101-266-1,101-266-1,,,Lagercrantz1939,clear,North Germanic
+102-266-1,102-266-1,,,Lagercrantz1939,clear,North Germanic
+104-266-1,104-266-1,,,Lagercrantz1939,clear,North Germanic
+105-266-1,105-266-1,,,Lagercrantz1939,clear,North Germanic
+401-266-1,401-266-1,,,TscherWb,clear,Chuvash
+501-266-1,501-266-1,,,KESK,clear,Turkic
+501-266-2,501-266-2,,,Holopainen2019;Csucs2005,clear,Iranian
+503-266-1,503-266-1,,,Holopainen2019;Csucs2005,clear,Iranian
+504-266-1,504-266-1,,,Holopainen2019;Csucs2005,clear,Iranian
+601-266-1,601-266-1,,,WOT,clear,West Old Turkic
+907-266-1,907-266-1,,,SolkWb,clear,Russian
+701-266-1,701-266-1,,,Toivonen1956;DEWOS,clear,Komi
+807-266-1,807-266-1,,,Toivonen1956;DEWOS,clear,Komi
+106-266-1,106-266-1,,,SSA,clear,Finnic
+107-266-1,107-266-1,,,SSA,clear,Finnic
+108-266-1,108-266-1,,,SSA,clear,Finnic
+203-267-1,203-267-1,,,SSA;NES,clear,Russian
+204-267-1,204-267-1,,,SSA,clear,Russian
+204-267-2,204-267-2,,,SSA,possible,Russian
+401-267-1,401-267-1,,,TscherWb,clear,Russian
+105-267-1,105-267-1,,,Aikio2004a,clear,North Germanic
+107-267-1,107-267-1,,,Lagercrantz1939,clear,North Germanic
+108-267-1,108-267-1,,,Aikio2006,clear,North Germanic
+501-267-1,501-267-1,,,Kalima1911,clear,Russian
+501-267-2,501-267-2,,,Kalima1911,clear,Russian
+503-267-1,503-267-1,,,KoPRSl,clear,Russian
+210-269-2,210-269-2,,,Holopainen2019;Parpola2010;Koivulehto1999,clear,Indo-Iranian
+211-269-1,211-269-1,,,Holopainen2019;Parpola2010;Koivulehto1999,clear,Indo-Iranian
+212-269-1,212-269-1,,,Holopainen2019;Parpola2010;Koivulehto1999,clear,Indo-Iranian
+401-269-1,401-269-1,,,Holopainen2019;Parpola2010;Koivulehto1999;Bereczki2013,clear,Indo-Iranian
+101-269-1,101-269-1,,,SSA,clear,Finnic
+102-269-1,102-269-1,,,SSA,clear,Finnic
+104-269-1,104-269-1,,,SSA,clear,Finnic
+105-269-1,105-269-1,,,Aikio2007;Sammallahti1998,clear,Finnic
+106-269-1,106-269-1,,,SSA,clear,Finnic
+107-269-1,107-269-1,,,SSA,clear,Finnic
+108-269-1,108-269-1,,,Rieler2009,clear,Finnic
+601-270-1,601-270-1,,,TESz;Zaicz2006,possible,Iranian
+203-271-1,203-271-1,,,LAGLOS;vanLinde2007;SSA;EES;NES,probable,Germanic
+203-271-2,203-271-2,,,LAGLOS;vanLinde2007;SSA;EES;NES,probable,Germanic
+204-271-1,204-271-1,,,LAGLOS;vanLinde2007;SSA;EES;NES,probable,Germanic
+208-271-1,208-271-1,,,LAGLOS;vanLinde2007;SSA;EES;NES,probable,Germanic
+209-271-1,209-271-1,,,LAGLOS;vanLinde2007;SSA;EES;NES,probable,Germanic
+210-271-1,210-271-1,,,LAGLOS;vanLinde2007;SSA;EES;NES,probable,Germanic
+211-271-1,211-271-1,,,LAGLOS;vanLinde2007;SSA;EES;NES,probable,Germanic
+211-271-2,211-271-2,,,LAGLOS;vanLinde2007;SSA;EES;NES,probable,Germanic
+212-271-1,212-271-1,,,LAGLOS;vanLinde2007;SSA;EES;NES,probable,Germanic
+105-271-2,105-271-2,,,Lagercrantz1939,clear,North Germanic
+106-271-1,106-271-1,,,Lagercrantz1939,clear,North Germanic
+107-271-1,107-271-1,,,Lagercrantz1939,clear,North Germanic
+204-272-1,204-272-1,,,SSA;EES,possible,Indo-European
+207-272-1,207-272-1,,,SSA;EES,possible,Indo-European
+208-272-1,208-272-1,,,SSA;EES,possible,Indo-European
+209-272-1,209-272-1,,,SSA;EES,possible,Indo-European
+105-272-1,105-272-1,,,Lagercrantz1939,possible,North Germanic
+401-272-1,401-272-1,,,TscherWb,probable,Chuvash
+107-272-1,107-272-1,,,SSA,clear,Finnic
+108-272-1,108-272-1,,,SSA,clear,Finnic
+105-273-1,105-273-1,,,Koivulehto1988a,clear,Finnic
+106-273-1,106-273-1,,,Koivulehto1988a,clear,Finnic
+101-273-1,101-273-1,,,Qvigstad1893,clear,North Germanic
+102-273-1,102-273-1,,,Qvigstad1893,clear,North Germanic
+104-273-1,104-273-1,,,Qvigstad1893,clear,North Germanic
+401-273-1,401-273-1,,,TscherWb,clear,Chuvash
+203-274-1,203-274-1,,,Koivulehto1988a;SSA,possible,Proto-Indo-European
+204-274-1,204-274-1,,,Koivulehto1988a;SSA,possible,Proto-Indo-European
+207-274-1,207-274-1,,,Koivulehto1988a;SSA,possible,Proto-Indo-European
+208-274-1,208-274-1,,,Koivulehto1988a;SSA,possible,Proto-Indo-European
+209-274-1,209-274-1,,,Koivulehto1988a;SSA,possible,Proto-Indo-European
+210-274-1,210-274-1,,,Koivulehto1988a;SSA,possible,Proto-Indo-European
+211-274-1,211-274-1,,,Koivulehto1988a;SSA,possible,Proto-Indo-European
+212-274-1,212-274-1,,,Koivulehto1988a;SSA,possible,Proto-Indo-European
+101-274-1,101-274-1,,,SSA,clear,North Germanic
+102-274-1,102-274-1,,,SSA,clear,North Germanic
+104-274-1,104-274-1,,,SSA,clear,North Germanic
+105-274-1,105-274-1,,,SSA,clear,North Germanic
+401-274-2,401-274-2,,,Isanbaev1994;TscherWb,clear,Tatar
+504-274-2,504-274-2,,,Tarakanov1993;WotjWsch,clear,Tatar
+601-274-1,601-274-1,,,Kniezsa1974;Zaicz2006;TESz,clear,Slavic
+701-274-1,701-274-1,,,Kalman1961,clear,Komi
+105-274-2,105-274-2,,,SSA,clear,Finnic
+106-274-1,106-274-1,,,SSA,clear,Finnic
+107-274-1,107-274-1,,,SSA,clear,Finnic
+212-275-1,212-275-1,,,Suhonen1973,clear,Latvian
+107-275-2,107-275-2,,,Itkonen1958b,clear,Russian
+108-275-2,108-275-2,,,Rieler2009,clear,Russian
+503-275-1,503-275-1,,,Rogov1869,clear,Russian
+203-276-1,203-276-1,,,Junttila2015;SSA;EES,probable,Baltic
+204-276-1,204-276-1,,,Junttila2015;SSA;EES,probable,Baltic
+207-276-1,207-276-1,,,Junttila2015;SSA;EES,probable,Baltic
+210-276-1,210-276-1,,,Junttila2015;SSA;EES,probable,Baltic
+211-276-1,211-276-1,,,Junttila2015;SSA;EES,probable,Baltic
+212-276-1,212-276-1,,,Junttila2015;SSA;EES,probable,Baltic
+301-276-3,301-276-3,,,MordWb,clear,Russian
+401-276-1,401-276-1,,,TscherWb,clear,Tatar
+401-276-2,401-276-2,,,Isanbaev1994;TscherWb,clear,Tatar
+208-276-1,208-276-1,,,InkmSk,clear,Russian
+209-276-1,209-276-1,,,VKJMS,clear,Russian
+101-277-3,101-277-3,,,SSA,clear,Finnic
+104-277-2,104-277-2,,,SSA;Lehtiranta1989,clear,Finnic
+108-277-1,108-277-1,,,SSA,clear,Finnic
+209-278-1,209-278-1,,,Junttila2015;SSA;EES;NES,probable,Baltic
+210-278-1,210-278-1,,,Junttila2015;SSA;EES;NES,probable,Baltic
+211-278-1,211-278-1,,,Junttila2015;SSA;EES;NES,probable,Baltic
+212-278-1,212-278-1,,,Junttila2015;SSA;EES;NES,probable,Baltic
+101-278-1,101-278-1,,,Qvigstad1893,possible,North Germanic
+101-278-2,101-278-2,,,Qvigstad1893,possible,North Germanic
+104-278-1,104-278-1,,,Qvigstad1893,possible,North Germanic
+105-278-1,105-278-1,,,Qvigstad1893,possible,North Germanic
+106-278-1,106-278-1,,,Qvigstad1893,possible,North Germanic
+102-278-2,102-278-2,,,Schlachter1958,clear,North Germanic
+301-278-1,301-278-1,,,CygnakinMosin2015,clear,Russian
+401-278-2,401-278-2,,,TscherWb,clear,Chuvash
+401-278-3,401-278-3,,,TscherWb,clear,Chuvash
+601-278-1,601-278-1,,,WOT,clear,West Old Turkic
+203-279-1,203-279-1,,,Junttila2015;SSA;NES;EES,clear,Baltic
+203-279-2,203-279-2,,,Junttila2015;SSA;NES;EES,clear,Baltic
+204-279-1,204-279-1,,,Junttila2015;SSA;NES;EES,clear,Baltic
+207-279-1,207-279-1,,,Junttila2015;SSA;NES;EES,clear,Baltic
+208-279-1,208-279-1,,,Junttila2015;SSA;NES;EES,clear,Baltic
+209-279-1,209-279-1,,,Junttila2015;SSA;NES;EES,clear,Baltic
+210-279-1,210-279-1,,,Junttila2015;SSA;NES;EES,clear,Baltic
+211-279-1,211-279-1,,,Junttila2015;SSA;NES;EES,clear,Baltic
+212-279-1,212-279-1,,,Junttila2015;SSA;NES;EES,clear,Baltic
+301-279-1,301-279-1,,,Holopainen2019,clear,Indo-Iranian
+401-279-1,401-279-1,,,Holopainen2019,probable,Indo-Iranian
+504-279-1,504-279-1,,,Holopainen2019,clear,Indo-Iranian
+105-279-1,105-279-1,,,Holopainen2019,possible,Indo-Iranian
+102-279-2,102-279-2,,,SSA,possible,Indo-European
+108-279-1,108-279-1,,,Rieler2009,clear,Indo-European
+401-279-2,401-279-2,,,TscherWb,clear,Chuvash
+504-279-2,504-279-2,,,Alatyrev1988,possible,Volga Bulgar Turkic
+501-279-1,501-279-1,,,SSA,possible,Indo-Iranian
+503-279-1,503-279-1,,,SSA,possible,Indo-Iranian
+504-279-3,504-279-3,,,Tarakanov1993,clear,Tatar
+101-28-1,101-28-1,,,Lagercrantz1939,clear,North Germanic
+210-280-2,210-280-2,,,EES,possible,Latvian
+211-280-1,211-280-1,,,EES,possible,Latvian
+601-280-1,601-280-1,,,WOT;TESz,probable,West Old Turkic
+212-281-1,212-281-1,,,Junttila2015,possible,Baltic
+601-281-1,601-281-1,,,WOT;TESz;Zaicz2006,possible,West Old Turkic
+503-282-1,503-282-1,,,Rogov1869,clear,Russian
+104-282-1,104-282-1,,,SSA,clear,North Germanic
+105-282-1,105-282-1,,,Sammallahti1998;SSA,clear,North Germanic
+106-282-1,106-282-1,,,SSA,clear,North Germanic
+107-282-1,107-282-1,,,SSA,clear,North Germanic
+107-282-2,107-282-2,,,SSA,clear,North Germanic
+301-282-1,301-282-1,,,CygnakinMosin2015,clear,Russian
+401-282-2,401-282-2,,,Koivulehto1971,possible,Proto-Indo-European
+503-282-2,503-282-2,,,Koivulehto1971,possible,Proto-Indo-European
+101-283-1,101-283-1,,,Koivulehto2001,probable,North-Western-Indo-European
+102-283-1,102-283-1,,,Koivulehto2001,probable,North-Western-Indo-European
+104-283-1,104-283-1,,,Koivulehto2001,probable,North-Western-Indo-European
+105-283-1,105-283-1,,,Koivulehto2001,probable,North-Western-Indo-European
+106-283-1,106-283-1,,,Koivulehto2001,probable,North-Western-Indo-European
+107-283-1,107-283-1,,,Koivulehto2001,probable,North-Western-Indo-European
+108-283-1,108-283-1,,,Koivulehto2001,probable,North-Western-Indo-European
+203-283-1,203-283-1,,,Koivulehto2001,probable,North-Western-Indo-European
+204-283-1,204-283-1,,,Koivulehto2001,probable,North-Western-Indo-European
+207-283-1,207-283-1,,,Koivulehto2001,probable,North-Western-Indo-European
+208-283-1,208-283-1,,,Koivulehto2001,probable,North-Western-Indo-European
+209-283-1,209-283-1,,,Koivulehto2001,probable,North-Western-Indo-European
+301-283-1,301-283-1,,,Koivulehto2001,probable,North-Western-Indo-European
+203-284-1,203-284-1,,,LAGLOS;SSA;EES;NES,possible,Germanic
+204-284-1,204-284-1,,,LAGLOS;SSA;EES;NES,possible,Germanic
+204-284-2,204-284-2,,,LAGLOS;SSA;EES;NES,possible,Germanic
+208-284-1,208-284-1,,,LAGLOS;SSA;EES;NES,possible,Germanic
+211-284-1,211-284-1,,,LAGLOS;SSA;EES;NES,possible,Germanic
+210-284-2,210-284-2,,,LAGLOS;SSA;EES;NES,possible,Germanic
+210-284-3,210-284-3,,,LAGLOS;SSA;EES;NES,possible,Germanic
+101-284-1,101-284-1,,,MH,clear,North Germanic
+503-284-1,503-284-1,,,Rogov1869,clear,Russian
+105-285-3,105-285-3,,,MH,clear,Finnic
+204-286-1,204-286-1,,,SSA,clear,Russian
+207-286-1,207-286-1,,,SSA,clear,Russian
+208-286-1,208-286-1,,,SSA,clear,Russian
+209-286-1,209-286-1,,,SSA,clear,Ingrian
+401-286-1,401-286-1,,,Versinin2004,clear,Russian
+601-286-1,601-286-1,,,Kniezsa1974,clear,Slavic
+301-286-1,301-286-1,,,CygnakinMosin2015,clear,Russian
+907-287-1,907-287-1,,,SolkWb,possible,Yeniseian
+101-288-1,101-288-1,,,Holopainen2018,possible,Indo-Iranian_or_Indo-European
+102-288-1,102-288-1,,,Holopainen2018,possible,Indo-Iranian_or_Indo-European
+104-288-1,104-288-1,,,Holopainen2018,possible,Indo-Iranian_or_Indo-European
+105-288-2,105-288-2,,,Holopainen2018,possible,Indo-Iranian_or_Indo-European
+101-288-2,101-288-2,,,Lagercrantz1939,clear,North Germanic
+101-288-3,101-288-3,,,Lagercrantz1939,clear,North Germanic
+102-288-2,102-288-2,,,Lagercrantz1939,clear,North Germanic
+301-288-3,301-288-3,,,CygnakinMosin2015,clear,Turkic
+401-288-3,401-288-3,,,Isanbaev1994,clear,Tatar
+203-289-1,203-289-1,,,SSA,clear,Baltic
+204-289-1,204-289-1,,,SSA,clear,Baltic
+204-289-2,204-289-2,,,SSA,clear,Baltic
+207-289-1,207-289-1,,,SSA,clear,Baltic
+210-289-1,210-289-1,,,EES,clear,Low German
+211-289-1,211-289-1,,,EES,clear,Low German
+212-289-1,212-289-1,,,Koivulehto1999,possible,Indo-European
+102-289-1,102-289-1,,,SSA,clear,Finnic
+104-289-1,104-289-1,,,SSA,clear,Finnic
+105-289-1,105-289-1,,,SSA,clear,Finnic
+401-289-1,401-289-1,,,Isanbaev1994,clear,Tatar
+106-289-1,106-289-1,,,SSA,clear,Finnic
+107-289-1,107-289-1,,,SSA,clear,Finnic
+108-289-1,108-289-1,,,Rieler2009,probable,Baltic
+212-289-2,212-289-2,,,Suhonen1973,clear,Latvian
+212-289-3,212-289-3,,,Suhonen1973,clear,Latvian
+104-289-2,104-289-2,,,MH,clear,North Germanic
+208-289-1,208-289-1,,,EES,clear,Estonian
+209-289-1,209-289-1,,,EES,clear,Estonian
+212-29-2,212-29-2,,,Junttila2015,possible,Baltic
+102-29-1,102-29-1,,,Lehtiranta2001,probable,Finnic
+807-29-1,807-29-1,,,Futaky1975;UEW,possible,Tungusic
+301-29-2,301-29-2,,,Versinin2004,probable,Russian
+501-29-2,501-29-2,,,Csucs2005;UEW;Koivulehto1991,probable,North-Western-Indo-European
+503-29-2,503-29-2,,,Csucs2005;UEW;Koivulehto1991,probable,North-Western-Indo-European
+504-29-1,504-29-1,,,Csucs2005;UEW;Koivulehto1991,probable,North-Western-Indo-European
+401-29-2,401-29-2,,,TscherWb,clear,Chuvash
+208-29-2,208-29-2,,,SSA,possible,Finnish
+203-290-1,203-290-1,,,SSA;EES,clear,Baltic
+204-290-1,204-290-1,,,SSA;EES,clear,Baltic
+204-290-2,204-290-2,,,SSA;EES,clear,Baltic
+208-290-1,208-290-1,,,SSA;EES,clear,Baltic
+209-290-1,209-290-1,,,EES;SSA,clear,Baltic
+210-290-1,210-290-1,,,EES;SSA,clear,Baltic
+210-290-2,210-290-2,,,EES;SSA,clear,Baltic
+211-290-1,211-290-1,,,EES;SSA,clear,Baltic
+211-290-2,211-290-2,,,EES;SSA,clear,Baltic
+301-290-1,301-290-1,,,EES,possible,Baltic
+301-290-2,301-290-2,,,EES,possible,Baltic
+601-291-1,601-291-1,,,Kniezsa1974,clear,Slavic
+401-291-2,401-291-2,,,TscherWb,clear,Tatar
+106-291-1,106-291-1,,,SSA,clear,Finnic
+107-291-1,107-291-1,,,SSA,clear,Finnic
+203-292-1,203-292-1,,,Holopainen2019;Parpola2010,possible,Indo-Iranian
+204-292-1,204-292-1,,,Holopainen2019;Parpola2010,possible,Indo-Iranian
+207-292-1,207-292-1,,,Holopainen2019;Parpola2010,possible,Indo-Iranian
+208-292-1,208-292-1,,,Holopainen2019;Parpola2010,possible,Indo-Iranian
+209-292-1,209-292-1,,,Holopainen2019;Parpola2010,possible,Indo-Iranian
+106-293-1,106-293-1,,,SSA,possible,Finnic
+107-293-1,107-293-1,,,SSA,possible,Finnic
+503-294-1,503-294-1,,,Rogov1869,clear,Russian
+203-295-1,203-295-1,,,Junttila2015;SSA;EES,possible,Baltic
+204-295-1,204-295-1,,,Junttila2015;SSA;EES,possible,Baltic
+204-295-2,204-295-2,,,Junttila2015;SSA;EES,possible,Baltic
+207-295-1,207-295-1,,,Junttila2015;SSA;EES,possible,Baltic
+208-295-1,208-295-1,,,Junttila2015;SSA;EES,possible,Baltic
+209-295-1,209-295-1,,,Junttila2015;SSA;EES,possible,Baltic
+210-295-1,210-295-1,,,Junttila2015;SSA;EES,possible,Baltic
+211-295-1,211-295-1,,,Junttila2015;SSA;EES,possible,Baltic
+211-295-2,211-295-2,,,Junttila2015;SSA;EES,possible,Baltic
+212-295-1,212-295-1,,,Junttila2015;SSA;EES,possible,Baltic
+401-295-1,401-295-1,,,TscherWb,clear,Chuvash
+209-296-1,209-296-1,,,VKJMS,clear,Russian
+107-297-1,107-297-1,,,SSA,clear,Finnic
+108-297-1,108-297-1,,,Rieler2009,probable,Finnic
+108-297-2,108-297-2,,,Rieler2009,probable,Finnic
+101-297-1,101-297-1,,,Sammallahti1999,possible,Indo-Iranian
+102-297-1,102-297-1,,,Sammallahti1999,possible,Indo-Iranian
+104-297-1,104-297-1,,,Sammallahti1999,possible,Indo-Iranian
+106-297-1,106-297-1,,,Sammallahti1999,possible,Indo-Iranian
+504-297-1,504-297-1,,,Holopainen2019,clear,Iranian
+204-298-1,204-298-1,,,MH,clear,Russian
+204-298-2,204-298-2,,,MH,clear,Russian
+207-298-1,207-298-1,,,MH,clear,Russian
+208-298-2,208-298-2,,,InkmSk,clear,Russian
+209-298-2,209-298-2,,,VKJMS,clear,Russian
+504-298-1,504-298-1,,,Alatyrev1988,clear,Tatar
+209-298-3,209-298-3,,,SSA,clear,Estonian
+301-298-3,301-298-3,,,MordWb,clear,Russian
+503-298-1,503-298-1,,,KoPRSl,clear,Russian
+401-3-2,401-3-2,,,Bereczki2013,probable,Volga Bulgar Turkic
+203-30-1,203-30-1,,,Junttila2015;SSA;EES;NES,clear,Baltic
+204-30-1,204-30-1,,,Junttila2015;SSA;EES;NES,clear,Baltic
+207-30-1,207-30-1,,,Junttila2015;SSA;EES;NES,clear,Baltic
+208-30-1,208-30-1,,,Junttila2015;SSA;EES;NES,clear,Baltic
+209-30-1,209-30-1,,,Junttila2015;SSA;EES;NES,clear,Baltic
+210-30-1,210-30-1,,,Junttila2015;SSA;EES;NES,clear,Baltic
+211-30-1,211-30-1,,,Junttila2015;SSA;EES;NES,clear,Baltic
+212-30-1,212-30-1,,,Junttila2015;SSA;EES;NES,clear,Baltic
+701-300-1,701-300-1,,,MH,clear,Russian
+101-301-1,101-301-1,,,Lagercrantz1939,clear,North Germanic
+102-301-1,102-301-1,,,Schlachter1958,clear,North Germanic
+104-301-1,104-301-1,,,Lagercrantz1939,clear,North Germanic
+102-301-2,102-301-2,,,SSA,probable,Indo-European
+104-301-2,104-301-2,,,SSA,probable,Indo-European
+105-301-1,105-301-1,,,Sammallahti1998;SSA,probable,Indo-European
+105-301-2,105-301-2,,,Sammallahti1998;SSA,probable,Indo-European
+106-301-1,106-301-1,,,SSA,probable,Indo-European
+107-301-1,107-301-1,,,SSA,probable,Indo-European
+108-301-1,108-301-1,,,Rieler2009,probable,Indo-European
+204-301-1,204-301-1,,,EES,probable,Indo-European
+207-301-1,207-301-1,,,EES,probable,Indo-European
+208-301-1,208-301-1,,,EES,probable,Indo-European
+208-301-2,208-301-2,,,InkmSk,clear,Russian
+209-301-1,209-301-1,,,VKJMS,clear,Russian
+203-301-1,203-301-1,,,LAGLOS;SSA;EES;NES,clear,Germanic
+210-301-1,210-301-1,,,LAGLOS;SSA;EES;NES,clear,Germanic
+211-301-1,211-301-1,,,LAGLOS;SSA;EES;NES,clear,Germanic
+212-301-1,212-301-1,,,Suhonen1973,clear,Latvian
+210-302-2,210-302-2,,,EES,probable,Low German
+211-302-1,211-302-1,,,EES,probable,Low German
+101-302-3,101-302-3,,,Aikio2004,probable,Unknown language
+104-302-1,104-302-1,,,Aikio2004,probable,Unknown language
+105-302-2,105-302-2,,,Aikio2004,probable,Unknown language
+106-302-2,106-302-2,,,Aikio2004,probable,Unknown language
+107-302-2,107-302-2,,,Aikio2004,probable,Unknown language
+401-302-3,401-302-3,,,Bereczki2013,probable,Iranian
+401-303-2,401-303-2,,,Koivulehto1991,possible,Indo-European
+601-303-1,601-303-1,,,Koivulehto1991;Zaicz2006,possible,Indo-European
+601-303-2,601-303-2,,,Koivulehto1991;Zaicz2006,possible,Indo-European
+301-304-1,301-304-1,,,Koivulehto1984;CygnakinMosin2015,possible,Germanic
+601-304-1,601-304-1,,,WOT,possible,West Old Turkic
+212-305-1,212-305-1,,,Suhonen1973,clear,Latvian
+401-305-1,401-305-1,,,TscherWb,clear,Tatar
+401-306-1,401-306-1,,,TscherWb,clear,Chuvash
+601-307-1,601-307-1,,,Holopainen2019,possible,Indo-Iranian
+203-308-1,203-308-1,,,LAGLOS;SSA;EES,possible,Germanic
+204-308-1,204-308-1,,,LAGLOS;SSA;EES,possible,Germanic
+207-308-1,207-308-1,,,LAGLOS;SSA;EES,possible,Germanic
+208-308-1,208-308-1,,,LAGLOS;SSA;EES,possible,Germanic
+209-308-1,209-308-1,,,LAGLOS;SSA;EES,possible,Germanic
+210-308-1,210-308-1,,,LAGLOS;SSA;EES,possible,Germanic
+211-308-1,211-308-1,,,LAGLOS;SSA;EES,possible,Germanic
+212-308-1,212-308-1,,,EES;SSA,possible,Estonian
+102-308-1,102-308-1,,,Koivulehto1976;SSA,clear,Finnic
+104-308-1,104-308-1,,,Koivulehto1976;SSA,clear,Finnic
+105-308-1,105-308-1,,,Koivulehto1976;SSA,clear,Finnic
+106-308-1,106-308-1,,,Koivulehto1976;SSA,clear,Finnic
+203-309-1,203-309-1,,,SSA,possible,Germanic
+204-309-1,204-309-1,,,SSA,possible,Germanic
+207-309-2,207-309-2,,,SSA;EES,clear,Russian
+208-309-2,208-309-2,,,LAGLOS;SSA,possible,Germanic
+210-309-1,210-309-1,,,LAGLOS;SSA,possible,Germanic
+211-309-1,211-309-1,,,LAGLOS;SSA,possible,Germanic
+212-309-1,212-309-1,,,LAGLOS;SSA,possible,Germanic
+301-309-2,301-309-2,,,Versinin2004,possible,Baltic
+401-309-1,401-309-1,,,TscherWb,possible,Chuvash
+203-31-1,203-31-1,,,SSA;NES;LAGLOS;EES,possible,Germanic
+204-31-1,204-31-1,,,SSA;NES;LAGLOS;EES,possible,Germanic
+207-31-1,207-31-1,,,SSA;NES;LAGLOS;EES,possible,Germanic
+208-31-1,208-31-1,,,SSA;NES;LAGLOS;EES,possible,Germanic
+209-31-1,209-31-1,,,SSA;NES;LAGLOS;EES,possible,Germanic
+210-31-1,210-31-1,,,SSA;NES;LAGLOS;EES,possible,Germanic
+211-31-1,211-31-1,,,SSA;NES;LAGLOS;EES,possible,Germanic
+212-31-1,212-31-1,,,SSA;NES;LAGLOS;EES,possible,Germanic
+501-31-2,501-31-2,,,Csucs2005;Redei1986;Holopainen2019,probable,Iranian
+503-31-2,503-31-2,,,Csucs2005;Redei1986;Holopainen2019,probable,Iranian
+504-31-3,504-31-3,,,Csucs2005;Redei1986;Holopainen2019,probable,Iranian
+203-31-2,203-31-2,,,Junttila2015,probable,Baltic
+204-31-2,204-31-2,,,Junttila2015,probable,Baltic
+207-31-2,207-31-2,,,Junttila2015,probable,Baltic
+208-31-2,208-31-2,,,Junttila2015,probable,Baltic
+210-31-2,210-31-2,,,Junttila2015,probable,Baltic
+211-31-2,211-31-2,,,Junttila2015,probable,Baltic
+301-310-2,301-310-2,,,Versinin2004,clear,Baltic
+301-311-1,301-311-1,,,MordWb,clear,Russian
+401-311-1,401-311-1,,,MH,clear,Russian
+503-311-1,503-311-1,,,MH,clear,Russian
+401-312-1,401-312-1,,,Rasanen1923,clear,Turkic
+209-312-2,209-312-2,,,SSA,clear,Russian
+601-312-2,601-312-2,,,WOT,clear,West Old Turkic
+701-312-2,701-312-2,,,Redei1970,clear,Komi
+203-32-1,203-32-1,,,LAGLOS,probable,Germanic
+204-32-1,204-32-1,,,LAGLOS,probable,Germanic
+207-32-1,207-32-1,,,LAGLOS,probable,Germanic
+208-32-1,208-32-1,,,LAGLOS,probable,Germanic
+209-32-1,209-32-1,,,LAGLOS,probable,Germanic
+210-32-1,210-32-1,,,LAGLOS,probable,Germanic
+211-32-1,211-32-1,,,LAGLOS,probable,Germanic
+212-32-1,212-32-1,,,LAGLOS,probable,Germanic
+504-32-1,504-32-1,,,Csucs2005,probable,Iranian
+107-32-1,107-32-1,,,SSA,clear,Finnic
+108-32-1,108-32-1,,,Rieler2009,clear,Karelian
+101-32-1,101-32-1,,,Koivulehto1988a;Sammallahti1998,possible,Germanic_or_North_Germanic
+102-32-1,102-32-1,,,Koivulehto1988a;Sammallahti1998,possible,Germanic_or_North_Germanic
+102-32-2,102-32-2,,,Koivulehto1988a;Sammallahti1998,possible,Germanic_or_North_Germanic
+104-32-1,104-32-1,,,Koivulehto1988a;Sammallahti1998,possible,Germanic_or_North_Germanic
+105-32-1,105-32-1,,,Koivulehto1988a;Sammallahti1998,possible,Germanic_or_North_Germanic
+106-32-1,106-32-1,,,Koivulehto1988a;Sammallahti1998,possible,Germanic_or_North_Germanic
+212-36-1,212-36-1,,,EES,possible,Germanic
+401-36-1,401-36-1,,,TscherWb,clear,Chuvash
+401-36-2,401-36-2,,,TscherWb,clear,Tatar
+504-37-2,504-37-2,,,Redei1986,possible,Iranian
+504-38-2,504-38-2,,,Redei1986,possible,Iranian
+0-4-1,0-4-1,,,Koivulehto1999;Hakkinen2009;SSA;NES,probable,Proto-Indo-European
+203-4-1,203-4-1,,,Koivulehto1999;Hakkinen2009;SSA;NES,probable,Proto-Indo-European
+204-4-1,204-4-1,,,Koivulehto1999;Hakkinen2009;SSA;NES,probable,Proto-Indo-European
+207-4-1,207-4-1,,,Koivulehto1999;Hakkinen2009;SSA;NES,probable,Proto-Indo-European
+208-4-1,208-4-1,,,Koivulehto1999;Hakkinen2009;SSA;NES,probable,Proto-Indo-European
+209-4-1,209-4-1,,,Koivulehto1999;Hakkinen2009;SSA;NES,probable,Proto-Indo-European
+210-4-1,210-4-1,,,Koivulehto1999;Hakkinen2009;SSA;NES,probable,Proto-Indo-European
+211-4-1,211-4-1,,,Koivulehto1999;Hakkinen2009;SSA;NES,probable,Proto-Indo-European
+212-4-1,212-4-1,,,Koivulehto1999;Hakkinen2009;SSA;NES,probable,Proto-Indo-European
+301-4-1,301-4-1,,,Koivulehto1999;Hakkinen2009;SSA;NES,probable,Proto-Indo-European
+401-4-1,401-4-1,,,Koivulehto1999;Hakkinen2009;SSA;NES,probable,Proto-Indo-European
+501-4-1,501-4-1,,,Koivulehto1999;Hakkinen2009;SSA;NES,probable,Proto-Indo-European
+503-4-1,503-4-1,,,Koivulehto1999;Hakkinen2009;SSA;NES,probable,Proto-Indo-European
+504-4-1,504-4-1,,,Koivulehto1999;Hakkinen2009;SSA;NES,probable,Proto-Indo-European
+601-4-1,601-4-1,,,Koivulehto1999;Hakkinen2009;SSA;NES,probable,Proto-Indo-European
+701-4-1,701-4-1,,,Koivulehto1999;Hakkinen2009;SSA;NES,probable,Proto-Indo-European
+901-4-1,901-4-1,,,Koivulehto1999;Hakkinen2009;SSA;NES,possible,Proto-Indo-European
+902-4-1,902-4-1,,,Koivulehto1999;Hakkinen2009;SSA;NES,probable,Proto-Indo-European
+907-4-1,907-4-1,,,Koivulehto1999;Hakkinen2009;SSA;NES,probable,Proto-Indo-European
+0-40-1,0-40-1,,,Holopainen2019;Kallio2006;Koivulehto1999;SSA;NES,probable,Indo-Iranian
+101-40-1,101-40-1,,,Holopainen2019;Kallio2006;Koivulehto1999;SSA;NES,probable,Indo-Iranian
+102-40-1,102-40-1,,,Holopainen2019;Kallio2006;Koivulehto1999;SSA;NES,probable,Indo-Iranian
+104-40-1,104-40-1,,,Holopainen2019;Kallio2006;Koivulehto1999;SSA;NES,probable,Indo-Iranian
+105-40-1,105-40-1,,,Holopainen2019;Kallio2006;Koivulehto1999;SSA;NES,probable,Indo-Iranian
+106-40-1,106-40-1,,,Holopainen2019;Kallio2006;Koivulehto1999;SSA;NES,probable,Indo-Iranian
+107-40-1,107-40-1,,,Holopainen2019;Kallio2006;Koivulehto1999;SSA;NES,probable,Indo-Iranian
+108-40-1,108-40-1,,,Holopainen2019;Kallio2006;Koivulehto1999;SSA;NES,probable,Indo-Iranian
+203-40-1,203-40-1,,,Holopainen2019;Kallio2006;Koivulehto1999;SSA;NES,probable,Indo-Iranian
+204-40-1,204-40-1,,,Holopainen2019;Kallio2006;Koivulehto1999;SSA;NES,probable,Indo-Iranian
+207-40-1,207-40-1,,,Holopainen2019;Kallio2006;Koivulehto1999;SSA;NES,probable,Indo-Iranian
+208-40-1,208-40-1,,,Holopainen2019;Kallio2006;Koivulehto1999;SSA;NES,probable,Indo-Iranian
+209-40-1,209-40-1,,,Holopainen2019;Kallio2006;Koivulehto1999;SSA;NES,probable,Indo-Iranian
+210-40-1,210-40-1,,,Holopainen2019;Kallio2006;Koivulehto1999;SSA;NES,probable,Indo-Iranian
+211-40-1,211-40-1,,,Holopainen2019;Kallio2006;Koivulehto1999;SSA;NES,probable,Indo-Iranian
+212-40-1,212-40-1,,,Holopainen2019;Kallio2006;Koivulehto1999;SSA;NES,probable,Indo-Iranian
+301-40-1,301-40-1,,,Holopainen2019;Kallio2006;Koivulehto1999;SSA;NES,probable,Indo-Iranian
+401-40-1,401-40-1,,,Holopainen2019;Kallio2006;Koivulehto1999;SSA;NES,probable,Indo-Iranian
+501-40-1,501-40-1,,,Holopainen2019;Kallio2006;Koivulehto1999;SSA;NES,probable,Indo-Iranian
+503-40-1,503-40-1,,,Holopainen2019;Kallio2006;Koivulehto1999;SSA;NES,probable,Indo-Iranian
+504-40-1,504-40-1,,,Holopainen2019;Kallio2006;Koivulehto1999;SSA;NES,probable,Indo-Iranian
+601-40-1,601-40-1,,,Holopainen2019;Kallio2006;Koivulehto1999;SSA;NES,probable,Indo-Iranian
+401-40-2,401-40-2,,,TscherWb,possible,Chuvash
+203-43-1,203-43-1,,,LAGLOS;SSA;NES;EES;Junttila2015,possible,Germanic
+204-43-1,204-43-1,,,LAGLOS;SSA;NES;EES;Junttila2015,possible,Germanic
+207-43-1,207-43-1,,,LAGLOS;SSA;NES;EES;Junttila2015,possible,Germanic
+208-43-1,208-43-1,,,LAGLOS;SSA;NES;EES;Junttila2015,possible,Germanic
+209-43-1,209-43-1,,,LAGLOS;SSA;NES;EES;Junttila2015,possible,Germanic
+210-43-1,210-43-1,,,LAGLOS;SSA;NES;EES;Junttila2015,possible,Germanic
+211-43-1,211-43-1,,,LAGLOS;SSA;NES;EES;Junttila2015,possible,Germanic
+212-43-1,212-43-1,,,LAGLOS;SSA;NES;EES;Junttila2015,possible,Germanic
+203-45-1,203-45-1,,,SSA;NES;EES,possible,Germanic_or_Baltic
+204-45-1,204-45-1,,,SSA;NES;EES,possible,Germanic_or_Baltic
+207-45-1,207-45-1,,,SSA;NES;EES,possible,Germanic_or_Baltic
+208-45-1,208-45-1,,,SSA;NES;EES,possible,Germanic_or_Baltic
+209-45-1,209-45-1,,,SSA;NES;EES,possible,Germanic_or_Baltic
+210-45-1,210-45-1,,,SSA;NES;EES,possible,Germanic_or_Baltic
+211-45-1,211-45-1,,,SSA;NES;EES,possible,Germanic_or_Baltic
+212-45-1,212-45-1,,,SSA;NES;EES,possible,Germanic_or_Baltic
+401-45-1,401-45-1,,,TscherWb,possible,Tatar
+901-45-1,901-45-1,,,Lehtisalo1956,clear,Turkic
+902-45-1,902-45-1,,,JurSWb,clear,Turkic
+907-45-1,907-45-1,,,SolkWb,clear,Turkic
+101-45-1,101-45-1,,,Lehtiranta1989;SSA,clear,Finnic
+102-45-1,102-45-1,,,Lehtiranta1989;SSA,clear,Finnic
+104-45-1,104-45-1,,,Lehtiranta1989;SSA,clear,Finnic
+105-45-1,105-45-1,,,Sammallahti1998;Lehtiranta1989;SSA,clear,Finnic
+106-45-1,106-45-1,,,Lehtiranta1989;SSA,clear,Finnic
+107-45-1,107-45-1,,,Lehtiranta1989;SSA,clear,Finnic
+108-45-1,108-45-1,,,Rieler2009,clear,Finnic
+601-45-1,601-45-1,,,WOT,clear,West Old Turkic
+101-47-1,101-47-1,,,Lagercrantz1939,clear,North Germanic
+104-47-1,104-47-1,,,Lagercrantz1939,clear,North Germanic
+105-47-2,105-47-2,,,Sammallahti1998,clear,Finnic
+106-47-1,106-47-1,,,Sammallahti1998,clear,Finnic
+107-47-2,107-47-2,,,Sammallahti1998,clear,Finnic
+108-47-1,108-47-1,,,Rieler2009,clear,Finnic
+209-48-2,209-48-2,,,EES,clear,Baltic
+210-48-1,210-48-1,,,EES,clear,Baltic
+212-48-1,212-48-1,,,EES,clear,Baltic
+203-49-1,203-49-1,,,Koivulehto1991;SSA;NES;EES,possible,Proto-Indo-European
+204-49-1,204-49-1,,,Koivulehto1991;SSA;NES;EES,possible,Proto-Indo-European
+208-49-1,208-49-1,,,Koivulehto1991;SSA;NES;EES,possible,Proto-Indo-European
+209-49-1,209-49-1,,,Koivulehto1991;SSA;NES;EES,possible,Proto-Indo-European
+210-49-1,210-49-1,,,Koivulehto1991;SSA;NES;EES,possible,Proto-Indo-European
+211-49-1,211-49-1,,,Koivulehto1991;SSA;NES;EES,possible,Proto-Indo-European
+212-49-1,212-49-1,,,Koivulehto1991;SSA;NES;EES,possible,Proto-Indo-European
+501-49-1,501-49-1,,,Koivulehto1991;SSA;NES;EES,possible,Proto-Indo-European
+503-49-1,503-49-1,,,Koivulehto1991;SSA;NES;EES,possible,Proto-Indo-European
+504-49-1,504-49-1,,,Koivulehto1991;SSA;NES;EES,possible,Proto-Indo-European
+601-49-1,601-49-1,,,WOT;TESz,probable,West Old Turkic
+701-49-1,701-49-1,,,Korenchy1972;Holopainen2019,clear,Iranian
+807-49-1,807-49-1,,,Korenchy1972;Holopainen2019,clear,Iranian
+101-50-1,101-50-1,,,Koivulehto2016;SSA,possible,Germanic
+102-50-1,102-50-1,,,Koivulehto2016;SSA,possible,Germanic
+104-50-1,104-50-1,,,Koivulehto2016;SSA,possible,Germanic
+105-50-1,105-50-1,,,Koivulehto2016;SSA,possible,Germanic
+106-50-1,106-50-1,,,Koivulehto2016;SSA,possible,Germanic
+107-50-1,107-50-1,,,Koivulehto2016;SSA,possible,Germanic
+108-50-1,108-50-1,,,Koivulehto2016;SSA,possible,Germanic
+203-50-1,203-50-1,,,Koivulehto2016;SSA,possible,Germanic
+204-50-1,204-50-1,,,Koivulehto2016;SSA,possible,Germanic
+207-50-1,207-50-1,,,Koivulehto2016;SSA,possible,Germanic
+208-50-1,208-50-1,,,Koivulehto2016;SSA,possible,Germanic
+209-50-1,209-50-1,,,Koivulehto2016;SSA,possible,Germanic
+211-50-1,211-50-1,,,Koivulehto2016,possible,Germanic
+211-50-2,211-50-2,,,Koivulehto2016,possible,Germanic
+212-50-1,212-50-1,,,Koivulehto2016,possible,Germanic
+907-50-1,907-50-1,,,Aikio2002;SolkWb,possible,Khanty
+101-52-1,101-52-1,,,Sammallahti1998,clear,North Germanic
+102-52-1,102-52-1,,,Sammallahti1998,clear,North Germanic
+105-52-1,105-52-1,,,Sammallahti1998,clear,North Germanic
+106-52-1,106-52-1,,,Lehtiranta1989,clear,North Germanic
+106-52-2,106-52-2,,,Lehtiranta1989,clear,North Germanic
+107-52-1,107-52-1,,,Lehtiranta1989,clear,North Germanic
+107-52-2,107-52-2,,,Lehtiranta1989,clear,North Germanic
+108-52-1,108-52-1,,,Lehtiranta1989,clear,North Germanic
+601-52-1,601-52-1,,,WOT;TESz;Zaicz2006,possible,West Old Turkic
+503-52-2,503-52-2,,,KESK,clear,Russian
+301-53-1,301-53-1,,,Grunthal2012;Koivulehto2000;vanPareren2009,possible,Baltic
+501-53-1,501-53-1,,,Hausenberg1985;Saarikivi2018;KESK;SSA,possible,Finnic
+503-53-1,503-53-1,,,Hausenberg1985;Saarikivi2018;KESK;SSA,possible,Finnic
+601-53-1,601-53-1,,,WOT,probable,West Old Turkic
+401-54-1,401-54-1,,,Rasanen1920,clear,Chuvash
+101-55-1,101-55-1,,,Sammallahti1998,clear,Finnic
+102-55-1,102-55-1,,,Sammallahti1998,clear,Finnic
+104-55-1,104-55-1,,,Sammallahti1998,clear,Finnic
+105-55-1,105-55-1,,,Sammallahti1998,clear,Finnic
+106-55-1,106-55-1,,,Sammallahti1998,clear,Finnic
+107-55-1,107-55-1,,,Sammallahti1998,clear,Finnic
+108-55-1,108-55-1,,,Rieler2009,clear,Finnic
+301-55-1,301-55-1,,,Koivulehto1999;UEW;CygnakinMosin2015,possible,Iranian
+101-57-1,101-57-1,,,Koivulehto1999;Holopainen2019,clear,Indo-Iranian
+102-57-1,102-57-1,,,Koivulehto1999;Holopainen2019,clear,Indo-Iranian
+102-57-2,102-57-2,,,Koivulehto1999;Holopainen2019,clear,Indo-Iranian
+104-57-1,104-57-1,,,Koivulehto1999;Holopainen2019,clear,Indo-Iranian
+104-57-2,104-57-2,,,Koivulehto1999;Holopainen2019,clear,Indo-Iranian
+105-57-1,105-57-1,,,Koivulehto1999;Holopainen2019,clear,Indo-Iranian
+106-57-1,106-57-1,,,Koivulehto1999;Holopainen2019,clear,Indo-Iranian
+107-57-1,107-57-1,,,Koivulehto1999;Holopainen2019,clear,Indo-Iranian
+108-57-1,108-57-1,,,Koivulehto1999;Holopainen2019,clear,Indo-Iranian
+301-57-1,301-57-1,,,Koivulehto1999;Holopainen2019,clear,Indo-Iranian
+401-57-1,401-57-1,,,Koivulehto1999;Holopainen2019,clear,Indo-Iranian
+501-57-1,501-57-1,,,Koivulehto1999;Holopainen2019,clear,Indo-Iranian
+503-57-1,503-57-1,,,Koivulehto1999;Holopainen2019,clear,Indo-Iranian
+401-57-2,401-57-2,,,TscherWb,clear,Chuvash
+504-57-1,504-57-1,,,Tarakanov1993,clear,Tatar
+105-58-1,105-58-1,,,Sammallahti1998,clear,Finnic
+106-58-1,106-58-1,,,Sammallahti1998,clear,Finnic
+107-58-1,107-58-1,,,Sammallahti1998,clear,Finnic
+108-58-1,108-58-1,,,Rieler2009,clear,Finnic
+101-58-1,101-58-1,,,Lagercrantz1939,clear,Finnic
+102-58-1,102-58-1,,,Lagercrantz1939,clear,Finnic
+104-58-1,104-58-1,,,Lagercrantz1939,clear,Finnic
+503-59-2,503-59-2,,,KESK,possible,Indo-European
+601-60-1,601-60-1,,,WOT,clear,West Old Turkic
+204-61-1,204-61-1,,,SSA,possible,Finnish
+208-61-1,208-61-1,,,Junttila2012,possible,Germanic
+209-61-1,209-61-1,,,Junttila2012,possible,Germanic
+210-61-1,210-61-1,,,Junttila2012,possible,Germanic
+211-61-1,211-61-1,,,Junttila2012,possible,Germanic
+101-61-1,101-61-1,,,SSA,clear,North Germanic
+102-61-1,102-61-1,,,SSA,clear,North Germanic
+104-61-1,104-61-1,,,SSA,clear,North Germanic
+105-61-1,105-61-1,,,SSA,clear,North Germanic
+301-61-1,301-61-1,,,MordWb;Versinin2004,clear,Russian
+601-61-1,601-61-1,,,WOT,clear,West Old Turkic
+701-61-2,701-61-2,,,DEWOS,probable,Khanty
+503-61-1,503-61-1,,,MH,clear,Russian
+301-64-1,301-64-1,,,Koivulehto1981,possible,Germanic
+101-64-2,101-64-2,,,Lagercrantz1939,clear,North Germanic
+301-65-1,301-65-1,,,Grunthal2012,probable,Baltic
+401-65-1,401-65-1,,,Rasanen1920,clear,Chuvash
+501-65-1,501-65-1,,,Kalima1911,possible,Russian
+503-65-1,503-65-1,,,Kalima1911,possible,Russian
+101-65-1,101-65-1,,,Aikio2006,clear,Finnic
+102-65-1,102-65-1,,,Aikio2006,clear,Finnic
+104-65-1,104-65-1,,,Aikio2006,clear,Finnic
+105-65-1,105-65-1,,,Aikio2006,clear,Finnic
+204-66-1,204-66-1,,,EES,possible,Germanic
+207-66-1,207-66-1,,,EES,possible,Germanic
+101-66-1,101-66-1,,,Koivulehto1999a,clear,Germanic
+102-66-1,102-66-1,,,Koivulehto1999a,clear,Germanic
+104-66-1,104-66-1,,,Koivulehto1999a,clear,Germanic
+104-66-2,104-66-2,,,Koivulehto1999a,clear,Germanic
+105-66-1,105-66-1,,,Koivulehto1999a,clear,Germanic
+106-66-1,106-66-1,,,Koivulehto1999a,clear,Germanic
+107-66-1,107-66-1,,,Koivulehto1999a,clear,Germanic
+108-66-1,108-66-1,,,Koivulehto1999a,clear,Germanic
+209-66-2,209-66-2,,,EES,clear,Germanic
+101-67-2,101-67-2,,,Lagercrantz1939,clear,North Germanic
+102-67-2,102-67-2,,,Lagercrantz1939,clear,North Germanic
+104-67-1,104-67-1,,,Lagercrantz1939,clear,North Germanic
+209-67-2,209-67-2,,,VKJMS,clear,Russian
+204-68-2,204-68-2,,,SSA,possible,Germanic
+207-68-1,207-68-1,,,SSA,possible,Germanic
+208-68-1,208-68-1,,,SSA,possible,Germanic
+210-68-1,210-68-1,,,SSA,possible,Germanic
+212-68-1,212-68-1,,,Suhonen1973,clear,Latvian
+101-68-1,101-68-1,,,,clear,Baltic
+102-68-1,102-68-1,,,Sammallahti1998,clear,Baltic
+104-68-1,104-68-1,,,Sammallahti1998,clear,Baltic
+105-68-1,105-68-1,,,Sammallahti1998,clear,Baltic
+106-68-1,106-68-1,,,Sammallahti1998,clear,Baltic
+107-68-1,107-68-1,,,Sammallahti1998,clear,Baltic
+108-68-1,108-68-1,,,Sammallahti1998,clear,Baltic
+401-68-2,401-68-2,,,TscherWb,clear,Tatar
+107-68-2,107-68-2,,,SSA,clear,Finnic
+204-69-1,204-69-1,,,SSA,clear,Germanic
+207-69-1,207-69-1,,,SSA,clear,Germanic
+208-69-2,208-69-2,,,SSA,clear,Germanic
+210-69-1,210-69-1,,,LAGLOS;SSA;NES,possible,Germanic
+211-69-2,211-69-2,,,LAGLOS;SSA;NES,possible,Germanic
+212-69-1,212-69-1,,,LAGLOS;SSA;NES,possible,Germanic
+105-69-1,105-69-1,,,SSA,probable,Finnic
+106-69-1,106-69-1,,,SSA,probable,Finnic
+107-69-1,107-69-1,,,SSA,probable,Finnic
+301-69-2,301-69-2,,,SSA;NES,possible,Finnic
+208-69-3,208-69-3,,,InkmSk,clear,Russian
+104-69-1,104-69-1,,,MH,clear,Finnic
+209-71-2,209-71-2,,,SSA,possible,Proto-Indo-European
+203-72-1,203-72-1,,,SSA;NES;LAGLOS;EES,probable,Germanic
+204-72-1,204-72-1,,,SSA;NES;LAGLOS,probable,Germanic
+207-72-1,207-72-1,,,SSA;NES;LAGLOS,probable,Germanic
+208-72-1,208-72-1,,,SSA;NES;LAGLOS,probable,Germanic
+501-73-1,501-73-1,,,Csucs2005;RedeiRonaTas1983,possible,Volga Bulgar Turkic
+503-73-1,503-73-1,,,Csucs2005;RedeiRonaTas1983,possible,Volga Bulgar Turkic
+504-73-1,504-73-1,,,Csucs2005;RedeiRonaTas1983,possible,Volga Bulgar Turkic
+101-74-1,101-74-1,,,Sammallahti1998,clear,North Germanic
+102-74-1,102-74-1,,,Sammallahti1998,clear,North Germanic
+104-74-1,104-74-1,,,Sammallahti1998,clear,North Germanic
+105-74-1,105-74-1,,,Sammallahti1998,clear,North Germanic
+106-74-1,106-74-1,,,Sammallahti1998,clear,North Germanic
+107-74-1,107-74-1,,,Sammallahti1998,clear,North Germanic
+108-74-1,108-74-1,,,Sammallahti1998,clear,North Germanic
+301-74-1,301-74-1,,,Holopainen2019;Parpola2010;Koivulehto1999;SSA,clear,Indo-Iranian
+101-75-1,101-75-1,,,Holopainen2018,possible,Indo-Iranian_or_Indo-European
+102-75-1,102-75-1,,,Holopainen2018,possible,Indo-Iranian_or_Indo-European
+105-75-1,105-75-1,,,Holopainen2018,possible,Indo-Iranian_or_Indo-European
+106-75-1,106-75-1,,,Holopainen2018,possible,Indo-Iranian_or_Indo-European
+107-75-1,107-75-1,,,Holopainen2018,possible,Indo-Iranian_or_Indo-European
+108-75-1,108-75-1,,,Holopainen2018,possible,Indo-Iranian_or_Indo-European
+504-75-1,504-75-1,,,Koivulehto1999;Holopainen2019,clear,Indo-Iranian
+101-75-2,101-75-2,,,SSA,clear,Baltic
+102-75-3,102-75-3,,,SSA,clear,Baltic
+104-75-2,104-75-2,,,SSA,clear,Baltic
+108-75-2,108-75-2,,,SSA,clear,Baltic
+301-75-1,301-75-1,,,Koivulehto1999;Holopainen2019,clear,Iranian
+301-75-2,301-75-2,,,Paasonen1897,possible,Turkic
+401-75-1,401-75-1,,,Holopainen2019;Koivulehto2001,clear,Indo-Iranian
+601-75-1,601-75-1,,,WOT;Zaicz2006;TESz,possible,West Old Turkic
+701-75-1,701-75-1,,,UEW,clear,Komi
+807-75-2,807-75-2,,,UEW;Toivonen1956,clear,Komi
+501-75-1,501-75-1,,,Koivulehto1999;Holopainen2019,clear,Indo-Iranian
+503-75-1,503-75-1,,,Koivulehto1999;Holopainen2019,clear,Indo-Iranian
+501-75-2,501-75-2,,,Saarikivi2018,probable,Finnic
+503-75-2,503-75-2,,,Saarikivi2018,probable,Finnic
+504-75-2,504-75-2,,,Saarikivi2018,probable,Finnic
+203-77-1,203-77-1,,,Holopainen2019;Koivulehto1999,possible,Iranian
+204-77-1,204-77-1,,,Holopainen2019;Koivulehto1999,possible,Iranian
+208-77-1,208-77-1,,,Holopainen2019;Koivulehto1999,possible,Iranian
+209-77-1,209-77-1,,,Holopainen2019;Koivulehto1999,possible,Iranian
+210-77-1,210-77-1,,,Holopainen2019;Koivulehto1999,possible,Iranian
+211-77-1,211-77-1,,,Holopainen2019;Koivulehto1999,possible,Iranian
+209-77-3,209-77-3,,,VKJMS,clear,Russian
+102-78-1,102-78-1,,,SSA;NES;EES,clear,Baltic
+107-78-1,107-78-1,,,SSA;NES;EES,clear,Baltic
+203-78-1,203-78-1,,,Junttila2015;SSA;NES;EES,clear,Baltic
+204-78-1,204-78-1,,,Junttila2015;SSA;NES;EES,clear,Baltic
+207-78-1,207-78-1,,,Junttila2015;SSA;NES;EES,clear,Baltic
+208-78-1,208-78-1,,,Junttila2015;SSA;NES;EES,clear,Baltic
+209-78-1,209-78-1,,,Junttila2015;SSA;NES;EES,clear,Baltic
+210-78-1,210-78-1,,,Junttila2015;SSA;NES;EES,clear,Baltic
+211-78-1,211-78-1,,,SSA;EES,possible,Germanic
+212-78-1,212-78-1,,,SSA;EES,possible,Germanic
+503-8-2,503-8-2,,,Rogov1869,clear,Russian
+301-81-1,301-81-1,,,Koivulehto2001,probable,Iranian
+212-82-3,212-82-3,,,SSA;NES;EES,possible,Indo-European
+101-82-1,101-82-1,,,Koivulehto2003,probable,North-Western-Indo-European
+102-82-1,102-82-1,,,Koivulehto2003,probable,North-Western-Indo-European
+104-82-1,104-82-1,,,Koivulehto2003,probable,North-Western-Indo-European
+105-82-1,105-82-1,,,Koivulehto2003,probable,North-Western-Indo-European
+106-82-1,106-82-1,,,Koivulehto2003,probable,North-Western-Indo-European
+107-82-1,107-82-1,,,Koivulehto2003,probable,North-Western-Indo-European
+108-82-1,108-82-1,,,Koivulehto2003,probable,North-Western-Indo-European
+203-85-1,203-85-1,,,LAGLOS;SSA;NES,probable,Germanic
+204-85-1,204-85-1,,,LAGLOS;SSA;NES,probable,Germanic
+207-85-1,207-85-1,,,LAGLOS;SSA;NES,probable,Germanic
+209-85-1,209-85-1,,,LAGLOS;SSA;NES,probable,Germanic
+210-85-1,210-85-1,,,LAGLOS;SSA;NES,probable,Germanic
+211-85-1,211-85-1,,,LAGLOS;SSA;NES,probable,Germanic
+212-85-1,212-85-1,,,LAGLOS;SSA;NES,probable,Germanic
+101-85-1,101-85-1,,,Koivulehto2001,probable,Indo-European
+102-85-1,102-85-1,,,Koivulehto2001,probable,Indo-European
+104-85-1,104-85-1,,,Koivulehto2001,probable,Indo-European
+105-85-1,105-85-1,,,Koivulehto2001,probable,Indo-European
+106-85-1,106-85-1,,,Koivulehto2001,probable,Indo-European
+107-85-1,107-85-1,,,Koivulehto2001,probable,Indo-European
+108-85-1,108-85-1,,,Koivulehto2001,probable,Indo-European
+601-85-1,601-85-1,,,UEW,possible,Turkic
+301-85-1,301-85-1,,,Butylov2007,probable,Turkic
+301-86-2,301-86-2,,,Versinin2004,possible,Russian
+901-86-1,901-86-1,,,Kallio2004,possible,Pre-Tocharian
+902-86-1,902-86-1,,,Kallio2004,possible,Pre-Tocharian
+907-86-1,907-86-1,,,Kallio2004,possible,Pre-Tocharian
+209-87-1,209-87-1,,,EES,probable,Estonian
+210-87-1,210-87-1,,,Junttila2015;EES,clear,Baltic
+107-88-1,107-88-1,,,Lehtiranta1989,clear,Finnic
+203-89-1,203-89-1,,,Holopainen2017;Koivulehto1999,possible,Indo-Iranian_or_Indo-European
+204-89-1,204-89-1,,,Holopainen2017;Koivulehto1999,possible,Indo-Iranian_or_Indo-European
+207-89-1,207-89-1,,,Holopainen2017;Koivulehto1999,possible,Indo-Iranian_or_Indo-European
+208-89-1,208-89-1,,,Holopainen2017;Koivulehto1999,possible,Indo-Iranian_or_Indo-European
+209-89-1,209-89-1,,,Holopainen2017;Koivulehto1999,possible,Indo-Iranian_or_Indo-European
+210-89-1,210-89-1,,,Holopainen2017;Koivulehto1999,possible,Indo-Iranian_or_Indo-European
+212-89-1,212-89-1,,,Holopainen2018;Holopainen2019;Koivulehto1999,possible,Indo-Iranian
+301-89-1,301-89-1,,,Holopainen2017;Koivulehto1999,possible,Indo-Iranian
+102-89-1,102-89-1,,,Holopainen2018;Holopainen2019;Koivulehto1999;Koivulehto1988,possible,Indo-Iranian_or_Indo-European
+104-89-1,104-89-1,,,Holopainen2018;Holopainen2019;Koivulehto1999;Koivulehto1988,possible,Indo-Iranian_or_Indo-European
+105-89-1,105-89-1,,,Holopainen2018;Holopainen2019;Koivulehto1999;Koivulehto1988,possible,Indo-Iranian_or_Indo-European
+106-89-1,106-89-1,,,Holopainen2018;Holopainen2019;Koivulehto1999;Koivulehto1988,possible,Indo-Iranian_or_Indo-European
+107-89-1,107-89-1,,,Holopainen2018;Holopainen2019;Koivulehto1999;Koivulehto1988,possible,Indo-Iranian_or_Indo-European
+401-89-1,401-89-1,,,Holopainen2019,possible,Indo-Iranian_or_Iranian
+504-89-2,504-89-2,,borrowed to Pre-Permic,Holopainen2019,clear,Indo-Iranian
+101-9-1,101-9-1,,,Koivulehto1999a,clear,North Germanic
+102-9-1,102-9-1,,,Koivulehto1999a,clear,North Germanic
+104-9-1,104-9-1,,,Koivulehto1999a,clear,North Germanic
+105-9-1,105-9-1,,,Koivulehto1999a,clear,North Germanic
+106-9-1,106-9-1,,,Koivulehto1999a,clear,North Germanic
+107-9-1,107-9-1,,,Holopainen2019,clear,Indo-Iranian
+107-9-2,107-9-2,,,Holopainen2019,clear,Indo-Iranian
+108-9-1,108-9-1,,,Holopainen2019,clear,Indo-Iranian
+301-9-2,301-9-2,,,Holopainen2019,clear,Indo-Iranian
+301-9-3,301-9-3,,,MordWb,clear,Russian
+101-90-1,101-90-1,,,Holopainen2018;Holopainen2019;Koivulehto2001,possible,Indo-Iranian_or_Iranian
+102-90-1,102-90-1,,,Holopainen2018;Holopainen2019;Koivulehto2001,possible,Indo-Iranian_or_Iranian
+104-90-1,104-90-1,,,Holopainen2018;Holopainen2019;Koivulehto2001,possible,Indo-Iranian_or_Iranian
+105-90-1,105-90-1,,,Holopainen2018;Holopainen2019;Koivulehto2001,possible,Indo-Iranian_or_Iranian
+106-90-1,106-90-1,,,Holopainen2018;Holopainen2019;Koivulehto2001,possible,Indo-Iranian_or_Iranian
+107-90-1,107-90-1,,,Holopainen2018;Holopainen2019;Koivulehto2001,possible,Indo-Iranian_or_Iranian
+108-90-1,108-90-1,,,Holopainen2018;Holopainen2019;Koivulehto2001,possible,Indo-Iranian_or_Iranian
+203-91-1,203-91-1,,,LAGLOS,clear,Germanic
+204-91-1,204-91-1,,,LAGLOS,clear,Germanic
+207-91-1,207-91-1,,,LAGLOS,clear,Germanic
+208-91-1,208-91-1,,,LAGLOS,clear,Germanic
+209-91-1,209-91-1,,,LAGLOS,clear,Germanic
+209-91-2,209-91-2,,,LAGLOS,clear,Germanic
+210-91-1,210-91-1,,,LAGLOS,clear,Germanic
+211-91-1,211-91-1,,,LAGLOS,clear,Germanic
+212-91-1,212-91-1,,,LAGLOS,clear,Germanic
+401-91-1,401-91-1,,,Rasanen1923,clear,Tatar
+101-91-1,101-91-1,,,Lagercrantz1939,clear,North Germanic
+901-91-1,901-91-1,,,,clear,Russian
+401-92-1,401-92-1,,,TscherWb,clear,Volga Bulgar Turkic
+501-92-1,501-92-1,,,SyrjWsch,clear,Russian
+108-93-1,108-93-1,,,Rieler2009,clear,Germanic
+207-93-1,207-93-1,,,MH,clear,Russian
+105-93-1,105-93-1,,,SSA,clear,North Germanic
+107-93-1,107-93-1,,,Itkonen1958,clear,Russian
+401-93-1,401-93-1,,,TscherWb,clear,Tatar
+101-93-1,101-93-1,,,Lagercrantz1939,clear,North Germanic
+209-93-2,209-93-2,,,VKJMS,clear,Russian
+204-93-1,204-93-1,,,SSA,clear,North Germanic
+101-94-1,101-94-1,,,Itkonen1958b,clear,North Germanic
+102-94-1,102-94-1,,,Itkonen1958b,clear,North Germanic
+104-94-1,104-94-1,,,Itkonen1958b,clear,North Germanic
+105-94-1,105-94-1,,,Itkonen1958b,clear,North Germanic
+106-94-1,106-94-1,,,Itkonen1958b,clear,North Germanic
+107-94-1,107-94-1,,,Itkonen1958b,clear,North Germanic
+601-94-1,601-94-1,,,Koivulehto1999,probable,Indo-European
+907-94-1,907-94-1,,,SolkWb,probable,Iranian
+108-94-1,108-94-1,,,Rieler2009,clear,Russian
+203-94-1,203-94-1,,,Junttila2015;vanLinde2007,probable,Indo-European
+204-94-1,204-94-1,,,Junttila2015;vanLinde2007,probable,Indo-European
+207-94-1,207-94-1,,,Junttila2015;vanLinde2007,probable,Indo-European
+208-94-1,208-94-1,,,Junttila2015;vanLinde2007,probable,Indo-European
+209-94-1,209-94-1,,,Junttila2015;vanLinde2007,probable,Indo-European
+210-94-1,210-94-1,,,Junttila2015;vanLinde2007,probable,Indo-European
+211-94-1,211-94-1,,,Junttila2015;vanLinde2007,probable,Indo-European
+212-94-1,212-94-1,,,Junttila2015;vanLinde2007,probable,Indo-European
+301-94-1,301-94-1,,,Koivulehto1999,probable,Indo-European
+401-94-1,401-94-1,,,Koivulehto1999,probable,Indo-European
+501-94-1,501-94-1,,,Koivulehto1999,probable,Indo-European
+503-94-1,503-94-1,,,Koivulehto1999,probable,Indo-European
+504-94-1,504-94-1,,,Koivulehto1999,probable,Indo-European
+401-94-2,401-94-2,,,Koivulehto1999,probable,Indo-European
+701-94-1,701-94-1,,,Redei1970,possible,Udmurt
+807-94-1,807-94-1,,,DEWOS,possible,Indo-European
+203-95-1,203-95-1,,,LAGLOS,probable,Germanic
+209-95-1,209-95-1,,,LAGLOS,probable,Germanic
+210-95-1,210-95-1,,,LAGLOS,probable,Germanic
+211-95-1,211-95-1,,,LAGLOS,probable,Germanic
+212-95-1,212-95-1,,,LAGLOS,probable,Germanic
+401-95-1,401-95-1,,,TscherWb,clear,Chuvash
+203-96-1,203-96-1,,,SSA;NES;EES,possible,Germanic
+204-96-1,204-96-1,,,SSA;NES;EES,possible,Germanic
+207-96-1,207-96-1,,,SSA;NES;EES,possible,Germanic
+208-96-1,208-96-1,,,SSA;NES;EES,possible,Germanic
+209-96-1,209-96-1,,,SSA;NES;EES,possible,Germanic
+204-96-2,204-96-2,,,SSA;NES;EES,possible,Germanic
+210-96-1,210-96-1,,,EES,possible,Germanic
+211-96-1,211-96-1,,,EES,possible,Germanic
+211-96-2,211-96-2,,,EES,possible,Germanic
+212-96-1,212-96-1,,,EES,possible,Germanic
+101-96-1,101-96-1,,,Sammallahti1998,clear,North Germanic
+102-96-2,102-96-2,,,Sammallahti1998,clear,North Germanic
+104-96-1,104-96-1,,,Sammallahti1998,clear,North Germanic
+105-96-2,105-96-2,,,Sammallahti1998,clear,North Germanic
+701-96-1,701-96-1,,,DEWOS,probable,Khanty
+601-96-1,601-96-1,,,WOT,clear,West Old Turkic
+601-96-2,601-96-2,,,WOT,clear,West Old Turkic
+203-97-1,203-97-1,,,SSA;NES,probable,Germanic
+204-97-1,204-97-1,,,SSA;NES,probable,Germanic
+207-97-1,207-97-1,,,SSA;NES,probable,Germanic
+209-97-1,209-97-1,,,EES;SSA,possible,Germanic_or_North_Germanic
+210-97-1,210-97-1,,,EES;SSA,possible,Germanic_or_North_Germanic
+211-97-1,211-97-1,,,EES;SSA,possible,Germanic_or_North_Germanic
+212-97-1,212-97-1,,,EES;SSA,possible,Germanic_or_North_Germanic
+208-97-1,208-97-1,,,EES,possible,Estonian
+101-98-1,101-98-1,,,Sammallahti1998;SSA,clear,Finnic
+102-98-1,102-98-1,,,Sammallahti1998;SSA,clear,Finnic
+104-98-1,104-98-1,,,Sammallahti1998;SSA,clear,Finnic
+105-98-1,105-98-1,,,Sammallahti1998;SSA,clear,Finnic
+106-98-1,106-98-1,,,Sammallahti1998;SSA,clear,Finnic
+107-98-1,107-98-1,,,Sammallahti1998;SSA,clear,Finnic
+108-98-1,108-98-1,,,Sammallahti1998;SSA,clear,Finnic
+401-99-1,401-99-1,,,TscherWb,clear,Chuvash

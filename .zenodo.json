@@ -7,20 +7,46 @@
     ],
     "creators": [
         {
-            "name": "Robert Forkel"
+            "name": "Kaj Syrj\u00e4nen"
         },
         {
-            "name": "Kaj Syrj\u00e4nen"
+            "name": "Jyri Lehtinen"
+        },
+        {
+            "name": "Outi Vesakoski"
+        },
+        {
+            "name": "Mervi de Heer"
+        },
+        {
+            "name": "Toni, Suutari"
+        },
+        {
+            "name": "Michael Dunn"
+        },
+        {
+            "name": "Urho M\u00e4\u00e4tt\u00e4"
+        },
+        {
+            "name": "Unni-P\u00e4iv\u00e4 Leino"
         }
     ],
     "contributors": [
         {
             "name": "Kaj Syrj\u00e4nen",
-            "type": "DataCollector"
+            "type": "DataCurator"
+        },
+        {
+            "name": "Mervi de Heer",
+            "type": "DataCurator"
         },
         {
             "name": "Luke Maurits",
             "type": "Other"
+        },
+        {
+            "name": "Robert Forkel",
+            "type": "DataCurator"
         }
     ],
     "communities": [
