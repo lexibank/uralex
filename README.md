@@ -27,7 +27,7 @@ This dataset is licensed under a CC-BY-4.0 license
 - **Lexemes:** 10,231
 - **Sources:** 42
 - **Synonymy:** 1.22
-- **Cognacy:** 9,781 cognates in 3,806 cognate sets (2,356 singletons)
+- **Cognacy:** 9,751 cognates in 3,792 cognate sets (2,349 singletons)
 - **Cognate Diversity:** 0.35
 
 # Contributors

@@ -16,6 +16,7 @@ NULL_ITEMS = [
     '[No equivalent]',
 ]
 
+# We fix a couple of misspelt bibkeys:
 BIBKEYS = {
     'Sammalahti1998': 'Sammallahti1998',
     'Sammalahti1999': 'Sammallahti1999',
@@ -51,7 +52,7 @@ class UralexLanguage(Language):
 class UralexConcept(Concept):
     Definition = attr.ib(
         default=None,
-        metadata={'dc:description': ''}
+        metadata={'dc:description': 'Verbose definition of a meaning.'}
     )
     LJ_rank = attr.ib(
         default=None,
@@ -129,7 +130,10 @@ class UralexLexeme(Lexeme):
     )
     form_set = attr.ib(
         default=None,
+        converter=lambda s: None if s == '?' else int(s),
         metadata={
+            'null': ['?'],
+            'datatype': {'base': 'integer', 'minimum': 0},
             'dc:description':
                 "Correlate set (historical connection based on borrowing or cognacy), marked with positive integers. "
                 "For [No equivalent] items the field is marked with '0'; for [Form not found] and [Not reconstructable]"
@@ -244,7 +248,7 @@ class Dataset(BaseDataset):
 
                 for i, lex in enumerate(args.writer.add_lexemes(**kw)):
                     lex['Form'] = None if lex['Form'] in NULL_ITEMS else lex['Form']
-                    if cogid != "?":
+                    if cogid not in ["?", "0"]:
                         args.writer.add_cognate(
                             lexeme=lex, Cognateset_ID="{0}-{1}".format(cid, cogid)
                         )

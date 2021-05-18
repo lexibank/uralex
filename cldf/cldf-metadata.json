@@ -14,7 +14,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/uralex",
-            "dc:created": "v1.0-17-g973cafa"
+            "dc:created": "v1.0-18-g6e37eba"
         },
         {
             "rdf:type": "prov:Entity",
@@ -141,7 +141,13 @@
                     },
                     {
                         "dc:description": "Correlate set (historical connection based on borrowing or cognacy), marked with positive integers. For [No equivalent] items the field is marked with '0'; for [Form not found] and [Not reconstructable] items the field is marked with '?'.",
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "integer",
+                            "minimum": 0
+                        },
+                        "null": [
+                            "?"
+                        ],
                         "name": "form_set"
                     },
                     {
@@ -287,7 +293,7 @@
                         "name": "Concepticon_Gloss"
                     },
                     {
-                        "dc:description": "",
+                        "dc:description": "Verbose definition of a meaning.",
                         "datatype": "string",
                         "name": "Definition"
                     },
@@ -369,7 +375,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 9781,
+            "dc:extent": 9751,
             "tableSchema": {
                 "columns": [
                     {
