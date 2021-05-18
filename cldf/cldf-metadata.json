@@ -14,7 +14,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/uralex",
-            "dc:created": "v1.0-16-g0c76733"
+            "dc:created": "v1.0-17-g973cafa"
         },
         {
             "rdf:type": "prov:Entity",
@@ -92,11 +92,6 @@
                     },
                     {
                         "datatype": "string",
-                        "null": [
-                            "[Form not found]",
-                            "[Not reconstructable]",
-                            "[No equivalent]"
-                        ],
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#form",
                         "required": false,
                         "name": "Form"

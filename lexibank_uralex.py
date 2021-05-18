@@ -174,7 +174,6 @@ class Dataset(BaseDataset):
                 'dc:description': 'Borrowing source of lexeme.',
             }
         )
-        args.writer.cldf['FormTable', 'form'].null = NULL_ITEMS
         args.writer.cldf['FormTable', 'form'].required = False
         args.writer.cldf['FormTable', 'value'].null = NULL_ITEMS
         args.writer.cldf['FormTable', 'value'].required = False
@@ -218,6 +217,8 @@ class Dataset(BaseDataset):
             lambda i: (i["mng_item"], i["cogn_set"]),
         ):
             for language in ll:
+                if language['item'] in NULL_ITEMS:
+                    language['etym_notes'] = language['etym_notes'] + language['item']
                 kw = dict(
                     Value=language["item"],
                     Language_ID=language["lgid3"],
@@ -242,6 +243,7 @@ class Dataset(BaseDataset):
                 )
 
                 for i, lex in enumerate(args.writer.add_lexemes(**kw)):
+                    lex['Form'] = None if lex['Form'] in NULL_ITEMS else lex['Form']
                     if cogid != "?":
                         args.writer.add_cognate(
                             lexeme=lex, Cognateset_ID="{0}-{1}".format(cid, cogid)
