@@ -14,7 +14,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/uralex",
-            "dc:created": "v1.0-58-g011d78e"
+            "dc:created": "v1.0-16-g0c76733"
         },
         {
             "rdf:type": "prov:Entity",
@@ -297,8 +297,11 @@
                         "name": "Definition"
                     },
                     {
-                        "dc:description": "Leipzig-Jakarta rank, included for meanings belonging to either WOLD401-500 or Leipzig-Jakarta and marked \"-\" for the remaining meanings.",
-                        "datatype": "string",
+                        "dc:description": "Leipzig-Jakarta rank, included for meanings belonging to either WOLD401-500 or Leipzig-Jakarta.",
+                        "datatype": "integer",
+                        "null": [
+                            "-"
+                        ],
                         "name": "LJ_rank"
                     },
                     {

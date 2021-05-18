@@ -55,10 +55,12 @@ class UralexConcept(Concept):
     )
     LJ_rank = attr.ib(
         default=None,
+        converter=lambda s: None if s == '-' else int(s),
         metadata={
+            'null': ['-'],
+            'datatype': 'integer',
             'dc:description':
-                'Leipzig-Jakarta rank, included for meanings belonging to either WOLD401-500 or Leipzig-Jakarta '
-                'and marked "-" for the remaining meanings.'}
+                'Leipzig-Jakarta rank, included for meanings belonging to either WOLD401-500 or Leipzig-Jakarta.'}
     )
     WOLD401_500_rank = attr.ib(
         default=None,
@@ -201,17 +203,15 @@ class Dataset(BaseDataset):
                 ISO639P3code=language["ISO-639-3"],
             )
 
-        for concept in self.concepts:
-            args.writer.add_concept(**concept)
-        # Augment list memberships:
         inlists = {r['mng_item']: r for r in self._read('Meaning_lists')}
-        attrs = list(attr.fields_dict(UralexConcept).keys())
-        for c in args.writer.objects['ParameterTable']:
-            if c['ID'] in inlists:
+        attrs = [k for k in attr.fields_dict(UralexConcept).keys() if k != 'LJ_rank']
+        for concept in self.concepts:
+            if concept['ID'] in inlists:
                 memberships = {
                     k.replace('-', '_'): v == '1'
-                    for k, v in inlists[c['ID']].items() if k.replace('-', '_') in attrs}
-                c.update(memberships)
+                    for k, v in inlists[concept['ID']].items() if k.replace('-', '_') in attrs}
+                concept.update(memberships)
+            args.writer.add_concept(**concept)
 
         for (cid, cogid), ll in itertools.groupby(
             sorted(self._read("Data"), key=lambda i: (i["mng_item"], i["cogn_set"])),
