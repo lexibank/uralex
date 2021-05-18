@@ -12,7 +12,7 @@ property | value
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Wordlist](http://cldf.clld.org/v1.0/terms.rdf#Wordlist)
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/lexibank/uralex
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/uralex/tree/011d78e">lexibank/uralex v1.0-58-g011d78e</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.4">Glottolog v4.4</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v2.4.0">Concepticon v2.4.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.1.0">CLTS v2.1.0</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/uralex/tree/6e37eba">lexibank/uralex v1.0-18-g6e37eba</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.4">Glottolog v4.4</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v2.4.0">Concepticon v2.4.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.1.0">CLTS v2.1.0</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.8.5</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | uralex
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -45,7 +45,7 @@ Name/Property | Datatype | Description
 `Profile` | `string` | 
 `item_UPA` | `string` | Phonetic transcription in Uralic Phonetic Alphabet (included for 11 languages).
 `item_IPA` | `string` | Phonetic transcription in International Phonetic Alphabet (included for 16 languages).
-`form_set` | `string` | Correlate set (historical connection based on borrowing or cognacy), marked with positive integers. For [No equivalent] items the field is marked with '0'; for [Form not found] and [Not reconstructable] items the field is marked with '?'.
+`form_set` | `integer` | Correlate set (historical connection based on borrowing or cognacy), marked with positive integers. For [No equivalent] items the field is marked with '0'; for [Form not found] and [Not reconstructable] items the field is marked with '?'.
 `etym_notes` | `string` | Notes related to etymology of the lexeme.
 `glossing_notes` | `string` | Notes related to the meaning of the lexeme.
 
@@ -89,8 +89,8 @@ Name/Property | Datatype | Description
 [Name](http://cldf.clld.org/v1.0/terms.rdf#name) | `string` | 
 [Concepticon_ID](http://cldf.clld.org/v1.0/terms.rdf#concepticonReference) | `string` | 
 `Concepticon_Gloss` | `string` | 
-`Definition` | `string` | 
-`LJ_rank` | `string` | Leipzig-Jakarta rank, included for meanings belonging to either WOLD401-500 or Leipzig-Jakarta and marked "-" for the remaining meanings.
+`Definition` | `string` | Verbose definition of a meaning.
+`LJ_rank` | `integer` | Leipzig-Jakarta rank, included for meanings belonging to either WOLD401-500 or Leipzig-Jakarta.
 `WOLD401_500_rank` | `string` | Rank in WOLD401-500 401-500, see Lehtinen et al. (2014).
 `Ura100` | `boolean` | Present in Ura100 list - A list for stable Uralic vocabulary, based on information from 17 languages and 226 meanings covered by the first version of the dataset. Used in Syrjänen et al. (2013), Honkola et al. (2013) and Lehtinen et al. (2014).
 `Swadesh100` | `boolean` | Present in 100-item Swadesh list.
@@ -105,7 +105,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF CognateTable](http://cldf.clld.org/v1.0/terms.rdf#CognateTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 9781
+[dc:extent](http://purl.org/dc/terms/extent) | 9751
 
 
 ### Columns
