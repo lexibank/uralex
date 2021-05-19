@@ -4,6 +4,19 @@
 Mervi de Heer, Mikko Heikkilä, Kaj Syrjänen, Jyri Lehtinen, Outi Vesakoski, Toni Suutari, Michael Dunn, Urho Määttä & Unni-Päivä Leino
 
 
+# How to cite
+
+Please cite UraLex 2.0 as following when referring to this dataset:
+
+De Heer, Mervi; Blokland, Rogier; Dunn, Michael; Vesakoski, Outi. (submitted manuscript). “Loanwords in basic vocabulary as an indicator of borrowing profiles.”
+
+and
+
+Syrjänen, Kaj; Maurits, Luke; Leino, Unni; Honkola, Terhi; Rota, Jadranka & Vesakoski, Outi. (submitted manuscript). “Crouching TIGER, Hidden Structure: Exploring the nature of linguistic data using TIGER values.”
+
+Also include the DOI provided for UraLex 2.0 in this release.
+
+
 ## Overview
 
 The UraLex 2.0 basic vocabulary dataset has its origins in the basic vocabulary cognacy dataset collected by the research initiative BEDLAN (Biological Evolution and the Diversification of Languages), funded by the Kone Foundation between 2009-2013. The data has since been revised and expanded in follow-up research projects, including SumuraSyyni (2014-2016), UraLex (2014-2016) and AikaSyyni (2017-2020). The dataset has been compiled especially for the purposes of quantitative language classification/historical linguistics, such as Bayesian Inference of phylogeny.
