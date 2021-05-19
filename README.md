@@ -18,6 +18,8 @@ and
 
 ## Description
 
+The dataset is described in [uralex_documentation.md](uralex_documentation.md).
+
 
 This dataset is licensed under a CC-BY-4.0 license
 

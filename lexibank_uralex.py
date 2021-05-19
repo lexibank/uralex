@@ -55,6 +55,8 @@ and
 
 """,
             desc,
+            '\n\n',
+            "The dataset is described in [uralex_documentation.md](uralex_documentation.md).",
             after,
         ])
 
