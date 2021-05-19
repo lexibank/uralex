@@ -13,7 +13,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/uralex",
-            "dc:created": "v1.0-20-gb86675d"
+            "dc:created": "v1.0-22-gcbbbadf"
         },
         {
             "rdf:type": "prov:Entity",

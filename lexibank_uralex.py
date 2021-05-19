@@ -8,7 +8,7 @@ from clldutils.text import split_text
 from csvw.dsv import iterrows
 from pycldf.sources import Source
 from pybtex.database import parse_string
-from pylexibank import Language, Lexeme, Concept, Dataset as BaseDataset
+from pylexibank import Language, Lexeme, Concept, Dataset as BaseDataset, LexibankMetadata
 
 NULL_ITEMS = [
     '[Form not found]',  # (309x)
@@ -29,12 +29,34 @@ BIBKEYS = {
     'VanPareren2009': 'vanPareren2009',
 }
 
-
 def bibkeys(s):
     s = re.sub(r', (?P<year>[0-9]{4})', lambda m: ' ' + m.group('year'), s)
     s = s.replace('Sammallahti1998Lehtiranta1989', 'Sammallahti1998, Lehtiranta1989')
     res = [slug(rid, lowercase=False) for rid in split_text(s, ",", strip=True)]
     return [BIBKEYS.get(k, k) for k in res]
+
+
+@attr.s
+class UralexMetadata(LexibankMetadata):
+    def markdown(self):
+        md = LexibankMetadata.markdown(self)
+        before, desc, after = md.partition('\n## Description')
+        assert desc
+        return ''.join([
+            before,
+            """
+When you are using UraLex 2.0, you should also cite the following papers which introduce the dataset:
+
+> De Heer, Mervi; Blokland, Rogier; Dunn, Michael; Vesakoski, Outi. (submitted manuscript). “Loanwords in basic vocabulary as an indicator of borrowing profiles.”
+
+and
+
+> Syrjänen, Kaj; Maurits, Luke; Leino, Unni; Honkola, Terhi; Rota, Jadranka & Vesakoski, Outi. (submitted manuscript). “Crouching TIGER, Hidden Structure: Exploring the nature of linguistic data using TIGER values.”
+
+""",
+            desc,
+            after,
+        ])
 
 
 @attr.s
@@ -156,16 +178,16 @@ class Dataset(BaseDataset):
     language_class = UralexLanguage
     concept_class = UralexConcept
     lexeme_class = UralexLexeme
+    metadata_cls = UralexMetadata
 
     def _read(self, what):
         return iterrows(self.raw_dir / "{0}.tsv".format(what), dicts=True, delimiter="\t")
 
     def cmd_makecldf(self, args):
         args.writer.add_sources(self.raw_dir.read("Citations.bib"))
-        for bib in ['Borrowing_references.bib', 'Missing_UraLex2.0_refs.bib']:
-            bib = parse_string(self.raw_dir.read(bib), 'bibtex')
-            for k, v in bib.entries.items():
-                args.writer.add_sources(Source.from_entry(slug(k, lowercase=False), v))
+        bib = parse_string(self.raw_dir.read('Borrowing_references.bib'), 'bibtex')
+        for k, v in bib.entries.items():
+            args.writer.add_sources(Source.from_entry(slug(k, lowercase=False), v))
 
         args.writer.cldf.add_component(
             'BorrowingTable',
