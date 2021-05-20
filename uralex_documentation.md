@@ -14,7 +14,8 @@ and
 
 Syrjänen, Kaj; Maurits, Luke; Leino, Unni; Honkola, Terhi; Rota, Jadranka & Vesakoski, Outi. (submitted manuscript). “Crouching TIGER, Hidden Structure: Exploring the nature of linguistic data using TIGER values.”
 
-Also include the DOI provided for UraLex 2.0 in this release.
+Please include the DOI provided for UraLex 2.0 in this release in your citation as well.
+
 
 
 ## Overview
