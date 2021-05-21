@@ -1,5 +1,5 @@
 {
-    "title": "CLDF dataset derived from Syrj\u00e4nen et al.'s \"UraLex basic vocabulary dataset\" from 2018",
+    "title": "Uralic basic vocabulary with cognate and loanword information",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
@@ -7,20 +7,57 @@
     ],
     "creators": [
         {
-            "name": "Robert Forkel"
+            "name": "Mervi de Heer"
+        },
+        {
+            "name": "Mikko Heikkil\u00e4"
         },
         {
             "name": "Kaj Syrj\u00e4nen"
+        },
+        {
+            "name": "Jyri Lehtinen"
+        },
+        {
+            "name": "Outi Vesakoski"
+        },
+        {
+            "name": "Toni, Suutari"
+        },
+        {
+            "name": "Michael Dunn"
+        },
+        {
+            "name": "Urho M\u00e4\u00e4tt\u00e4"
+        },
+        {
+            "name": "Unni-P\u00e4iv\u00e4 Leino"
         }
     ],
     "contributors": [
         {
+            "name": "Mervi de Heer",
+            "type": "DataCurator"
+        },
+        {
+            "name": "Mervi de Heer",
+            "type": "DataCollector"
+        },
+        {
             "name": "Kaj Syrj\u00e4nen",
+            "type": "DataCurator"
+        },
+        {
+            "name": "Jyri Lehtinen",
             "type": "DataCollector"
         },
         {
             "name": "Luke Maurits",
             "type": "Other"
+        },
+        {
+            "name": "Robert Forkel",
+            "type": "DataCurator"
         }
     ],
     "communities": [
@@ -29,7 +66,7 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Kaj Syrj\u00e4nen, Jyri Lehtinen, Outi Vesakoski, Mervi de Heer, Toni Suutari, Michael Dunn, Urho M\u00e4\u00e4tt\u00e4 &amp; Unni-P\u00e4iv\u00e4 Leino (2018). UraLex basic vocabulary dataset</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Mervi de Heer, Mikko Heikkil\u00e4, Kaj Syrj\u00e4nen, Jyri Lehtinen, Outi Vesakoski, Toni Suutari, Michael Dunn, Urho M\u00e4\u00e4tt\u00e4 &amp; Unni-P\u00e4iv\u00e4 Leino (2021). Uralic basic vocabulary with cognate and loanword information</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }
