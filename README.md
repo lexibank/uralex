@@ -5,7 +5,7 @@
 ## How to cite
 
 If you use these data please cite
-this dataset using the DOI of the [particular released version](releases/) you were using
+this dataset using the DOI of the [particular released version](../../releases/) you were using
 
 When you are using UraLex 2.0, you should also cite the following papers which introduce the dataset:
 
