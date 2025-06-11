@@ -2,13 +2,23 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 0,Proto-Uralic*,,,,,,,,,(reconstr.)
 101,South Saami,sout2674,South Saami,sma,Eurasia,62.8801,13.7006,Uralic,,Saami
 102,Ume Saami,umes1235,Ume Saami,sju,Eurasia,64.6383,18.646,Uralic,,Saami
+103,Lule Saami,lule1254,Lule Saami,smj,Eurasia,67.2759,17.8057,Uralic,,Saami
 104,Pite Saami,pite1240,Pite Saami,sje,Eurasia,66.4011,17.4261,Uralic,,Saami
 105,North Saami,nort2671,North Saami,sme,Eurasia,68.725,22.1113,Uralic,,Saami
 106,Inari Saami,inar1241,Inari Saami,smn,Eurasia,69.4229,27.8658,Uralic,,Saami
 107,Skolt Saami,skol1241,Skolt Saami,sms,Eurasia,68.8326,29.7204,Uralic,,Saami
 108,Kildin Saami,kild1236,Kildin Saami,sjd,Eurasia,68.2158,35.8348,Uralic,,Saami
+111,Skolt Saami (Tuloma),,,,,,,,,Saami
+112,Akkala Saami,akka1237,Akkala Saami,sia,Eurasia,67.8625,32.4046,Uralic,,Saami
+113,Kildin Saami (Varzino),,,,,,,,,Saami
+114,Kildin Saami (Lovozero),,,,,,,,,Saami
+115,Ter Saami,ters1235,Ter Saami,sjt,Eurasia,67.2458,38.5061,Uralic,,Saami
+201,Meänkieli Finnish,torn1244,Meänkieli,fit,Eurasia,67.2527,23.066,Uralic,,Finnic
+202,Kven Finnish,kven1236,Kven Finnish,fkv,Eurasia,69.3772,29.5434,Uralic,,Finnic
 203,Standard Finnish,finn1318,Finnish,fin,Eurasia,64.7628,25.5577,Uralic,,Finnic
 204,Karelian Proper,kare1335,Karelian,krl,Eurasia,65.1691,30.8655,Uralic,,Finnic
+205,Livvi-Karelian,livv1243,Livvi,olo,Eurasia,61.6565,29.0726,Uralic,,Finnic
+206,Ludian,ludi1246,Ludian,lud,Eurasia,61.853,33.7346,Uralic,,Finnic
 207,Veps,veps1250,Veps,vep,Eurasia,60.3353,34.7865,Uralic,,Finnic
 208,Ingrian,ingr1248,Ingrian,izh,Eurasia,59.47403,29.71145,Uralic,,Finnic
 209,Western Votic,west2391,West Vod,,Eurasia,,,Uralic,Linguist list code: vot-wes,Finnic
@@ -16,13 +26,19 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 211,Võro South Estonian,sout2679,South Estonian,vro,Eurasia,57.85,27.0,Uralic,,Finnic
 212,Courland Livonian,west1760,Courland Livonian,,Eurasia,,,Uralic,Courland dialect of Livonian,Finnic
 301,Erzya,erzy1239,Erzya,myv,Eurasia,52.8548,45.3901,Uralic,,Mordvin
+302,Moksha,moks1248,Moksha,mdf,Eurasia,54.1855,42.6728,Uralic,,Mordvin
 401,Meadow Mari,east2328,Eastern Mari,mhr,Eurasia,55.8307,48.405,Uralic,,Mari
+402,Hill Mari,west2392,Western Mari,mrj,Eurasia,56.22,46.569,Uralic,,Mari
 501,Komi-Zyrian,komi1268,Komi-Zyrian,kpv,Eurasia,64.0527,54.946,Uralic,,Permic
 503,Komi-Permyak,komi1269,Komi-Permyak,koi,Eurasia,59.6602,54.7959,Uralic,,Permic
 504,Udmurt,udmu1245,Udmurt,udm,Eurasia,56.12921,52.63548,Uralic,,Permic
 601,Hungarian,hung1274,Hungarian,hun,Eurasia,46.9068585714,19.6555271429,Uralic,,Ugric
 701,Sosva Mansi,nort2677,Sosva Mansi,,Eurasia,,,Uralic,A northern Mansi dialect.,Ugric
+705,Pelym Mansi,,,,,,,,A western Mansi dialect.,Ugric
+801,Obdorsk Khanty,obdo1234,Obdorsk Khanty,,Eurasia,66.31,67.09,Uralic,A northern Khanty dialect.,Ugric
 807,Vakh-Vasyugan Khanty,fare1244,Vach-Vasjugan,,Eurasia,60.10378,79.873651,Uralic,An eastern Khanty dialect.,Ugric
 901,Nganasan,ngan1291,Nganasan,nio,Eurasia,73.1354,86.2106,Uralic,,Samoyed
 902,Tundra Nenets,nene1249,Tundra Nenets,,Eurasia,66.1775,71.0234,Uralic,Linguist list code: yrk-tun,Samoyed
 907,Selkup,tazz1244,Taz-Turukhan,,Eurasia,65.7035,82.4441,Uralic,Taz dialect of Selkup,Samoyed
+908,Kamas,kama1351,Kamas-Koibal,xas,Eurasia,55.07,94.83,Uralic,,Samoyed
+909,Mator,mato1250,Mator-Taigi-Karagas,mtm,Eurasia,53.4349,102.856,Uralic,,Samoyed

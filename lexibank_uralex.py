@@ -257,6 +257,7 @@ class Dataset(BaseDataset):
                         slug(rid, lowercase=False)
                         for rid in split_text(language["ref_abbr"], ",", strip=True)
                     ],
+                    Cognacy="{0}-{1}".format(cid, cogid),
                 )
                 kw.update(
                     {
